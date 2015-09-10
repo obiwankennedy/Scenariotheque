@@ -1,0 +1,86 @@
+\expandafter\ifx\csname doTocEntry\endcsname\relax \expandafter\endinput\fi
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-1000}{QQ2-1-1}{Table des mati{\`e}res}}{3}\relax 
+\doTocEntry\toclikechapter{}{\csname a:TocLink\endcsname{1}{x1-2000}{QQ2-1-2}{Table des figures}}{6}\relax 
+\doTocEntry\tocchapter{1}{\csname a:TocLink\endcsname{1}{x1-30001}{QQ2-1-3}{Introduction}}{8}\relax 
+\doTocEntry\tocsection{1.1}{\csname a:TocLink\endcsname{1}{x1-40001.1}{QQ2-1-4}{Le sc\IeC {\'e}nario en quelques mots}}{8}\relax 
+\doTocEntry\tocsection{1.2}{\csname a:TocLink\endcsname{1}{x1-50001.2}{QQ2-1-5}{Cadre du sc\IeC {\'e}nario}}{8}\relax 
+\doTocEntry\tocsubsection{1.2.1}{\csname a:TocLink\endcsname{1}{x1-60001.2.1}{QQ2-1-6}{Que faire quand vous n'avait pas cinq joueurs}}{11}\relax 
+\doTocEntry\tocsection{1.3}{\csname a:TocLink\endcsname{1}{x1-70001.3}{QQ2-1-7}{L'univers de loup-garou:{} les d\IeC {\'e}chus}}{11}\relax 
+\doTocEntry\tocsubsection{1.3.1}{\csname a:TocLink\endcsname{1}{x1-80001.3.1}{QQ2-1-8}{L'hisile}}{11}\relax 
+\doTocEntry\tocsubsection{1.3.2}{\csname a:TocLink\endcsname{1}{x1-90001.3.2}{QQ2-1-9}{Les atouts d'un loup-garou}}{12}\relax 
+\doTocEntry\tocsubsection{1.3.3}{\csname a:TocLink\endcsname{1}{x1-100001.3.3}{QQ2-1-10}{Les ennemis}}{13}\relax 
+\doTocEntry\tocsubsection{1.3.4}{\csname a:TocLink\endcsname{1}{x1-110001.3.4}{QQ2-1-11}{Serment de la Lune}}{15}\relax 
+\doTocEntry\tocsection{1.4}{\csname a:TocLink\endcsname{1}{x1-120001.4}{QQ2-1-12}{Les meutes du sc\IeC {\'e}nario}}{17}\relax 
+\doTocEntry\tocsubsection{1.4.1}{\csname a:TocLink\endcsname{1}{x1-130001.4.1}{QQ2-1-13}{La Meute PJ :{} Night howlers}}{17}\relax 
+\doTocEntry\tocsubsection{1.4.2}{\csname a:TocLink\endcsname{1}{x1-140001.4.2}{QQ2-1-14}{La meute sympa mais pas trop :{} Sadness knives}}{17}\relax 
+\doTocEntry\tocsubsection{1.4.3}{\csname a:TocLink\endcsname{1}{x1-150001.4.3}{QQ2-1-15}{La meute m\IeC {\'e}chante mais polie:{} hidden claws}}{17}\relax 
+\doTocEntry\tocchapter{2}{\csname a:TocLink\endcsname{1}{x1-160002}{QQ2-1-16}{Les Personnages}}{18}\relax 
+\doTocEntry\tocsection{2.1}{\csname a:TocLink\endcsname{1}{x1-170002.1}{QQ2-1-17}{Cahalithe}}{19}\relax 
+\doTocEntry\tocsection{2.2}{\csname a:TocLink\endcsname{1}{x1-180002.2}{QQ2-1-18}{Rahu}}{31}\relax 
+\doTocEntry\tocsection{2.3}{\csname a:TocLink\endcsname{1}{x1-190002.3}{QQ2-1-19}{Irraka}}{43}\relax 
+\doTocEntry\tocsection{2.4}{\csname a:TocLink\endcsname{1}{x1-200002.4}{QQ2-1-20}{Elodothe}}{55}\relax 
+\doTocEntry\tocsection{2.5}{\csname a:TocLink\endcsname{1}{x1-210002.5}{QQ2-1-21}{Ithaeur}}{65}\relax 
+\doTocEntry\tocchapter{3}{\csname a:TocLink\endcsname{1}{x1-220003}{QQ2-1-22}{L'histoire}}{75}\relax 
+\doTocEntry\tocsection{3.1}{\csname a:TocLink\endcsname{1}{x1-230003.1}{QQ2-1-23}{Informations \IeC {\`a} dire aux PJ en d\IeC {\'e}but de partie (ou \IeC {\`a} rappeler) }}{75}\relax 
+\doTocEntry\tocsubsection{3.1.1}{\csname a:TocLink\endcsname{1}{x1-240003.1.1}{QQ2-1-24}{Le territoire}}{76}\relax 
+\doTocEntry\toclof{3.1}{\csname a:TocLink\endcsname{1}{x1-240011}{}{\ignorespaces  Le territoire}}{figure}\relax 
+\doTocEntry\tocsubsection{3.1.2}{\csname a:TocLink\endcsname{1}{x1-250003.1.2}{QQ2-1-26}{Les esprits}}{77}\relax 
+\doTocEntry\tocsubsection{3.1.3}{\csname a:TocLink\endcsname{1}{x1-260003.1.3}{QQ2-1-27}{Pour les personnages}}{77}\relax 
+\doTocEntry\tocsubsection{3.1.4}{\csname a:TocLink\endcsname{1}{x1-270003.1.4}{QQ2-1-28}{Les \IeC {\'e}quipements}}{80}\relax 
+\doTocEntry\tocsection{3.2}{\csname a:TocLink\endcsname{1}{x1-280003.2}{QQ2-1-29}{La chasse sacr\IeC {\'e}e}}{81}\relax 
+\doTocEntry\toclof{3.2}{\csname a:TocLink\endcsname{1}{x1-280012}{}{\ignorespaces  Refuge de \textbf  {Tails}}}{figure}\relax 
+\doTocEntry\tocsection{3.3}{\csname a:TocLink\endcsname{1}{x1-290003.3}{QQ2-1-31}{La peur avance}}{82}\relax 
+\doTocEntry\tocsection{3.4}{\csname a:TocLink\endcsname{1}{x1-300003.4}{QQ2-1-32}{Monstre Sous le lit}}{82}\relax 
+\doTocEntry\tocsection{3.5}{\csname a:TocLink\endcsname{1}{x1-310003.5}{QQ2-1-33}{Les l\IeC {\'e}sions}}{83}\relax 
+\doTocEntry\tocsubsection{3.5.1}{\csname a:TocLink\endcsname{1}{x1-320003.5.1}{QQ2-1-34}{Dans le monde physique}}{83}\relax 
+\doTocEntry\tocsubsection{3.5.2}{\csname a:TocLink\endcsname{1}{x1-330003.5.2}{QQ2-1-35}{Dans l'hisile}}{83}\relax 
+\doTocEntry\tocsection{3.6}{\csname a:TocLink\endcsname{1}{x1-340003.6}{QQ2-1-36}{La chouette crucifi\IeC {\'e}e}}{84}\relax 
+\doTocEntry\tocsection{3.7}{\csname a:TocLink\endcsname{1}{x1-350003.7}{QQ2-1-37}{La messe}}{84}\relax 
+\doTocEntry\tocsection{3.8}{\csname a:TocLink\endcsname{1}{x1-360003.8}{QQ2-1-38}{Pique-nique apr\IeC {\`e}s la messe}}{84}\relax 
+\doTocEntry\tocsection{3.9}{\csname a:TocLink\endcsname{1}{x1-370003.9}{QQ2-1-39}{Le hurlement des \textbf  {Hidden Claws} }}{85}\relax 
+\doTocEntry\tocsection{3.10}{\csname a:TocLink\endcsname{1}{x1-380003.10}{QQ2-1-40}{La rencontre avec \textbf  {Hidden Claws} }}{85}\relax 
+\doTocEntry\tocsection{3.11}{\csname a:TocLink\endcsname{1}{x1-390003.11}{QQ2-1-41}{Pendant la temp\IeC {\^e}te}}{85}\relax 
+\doTocEntry\tocsection{3.12}{\csname a:TocLink\endcsname{1}{x1-400003.12}{QQ2-1-42}{Une meute de loup est retrouv\IeC {\'e}e morte}}{89}\relax 
+\doTocEntry\tocsection{3.13}{\csname a:TocLink\endcsname{1}{x1-410003.13}{QQ2-1-43}{La louve}}{90}\relax 
+\doTocEntry\tocsection{3.14}{\csname a:TocLink\endcsname{1}{x1-420003.14}{QQ2-1-44}{Temp\IeC {\^e}te:{} les cons\IeC {\'e}quences}}{90}\relax 
+\doTocEntry\tocsection{3.15}{\csname a:TocLink\endcsname{1}{x1-430003.15}{QQ2-1-45}{Les Loups dans la ville}}{90}\relax 
+\doTocEntry\tocsection{3.16}{\csname a:TocLink\endcsname{1}{x1-440003.16}{QQ2-1-46}{Le s\IeC {\'e}nateur du Texas chasse}}{91}\relax 
+\doTocEntry\tocsection{3.17}{\csname a:TocLink\endcsname{1}{x1-450003.17}{QQ2-1-47}{Sur les traces du \textbf  {Zi'ir} }}{91}\relax 
+\doTocEntry\tocsection{3.18}{\csname a:TocLink\endcsname{1}{x1-460003.18}{QQ2-1-48}{\textbf  {Black Eclipse} attaque}}{92}\relax 
+\doTocEntry\tocsection{3.19}{\csname a:TocLink\endcsname{1}{x1-470003.19}{QQ2-1-49}{Black Eclipse Vers son fils}}{93}\relax 
+\doTocEntry\tocsection{3.20}{\csname a:TocLink\endcsname{1}{x1-480003.20}{QQ2-1-50}{Fin possible}}{93}\relax 
+\doTocEntry\tocsection{3.21}{\csname a:TocLink\endcsname{1}{x1-490003.21}{QQ2-1-51}{Night Howler au secours!!}}{93}\relax 
+\doTocEntry\tocsection{3.22}{\csname a:TocLink\endcsname{1}{x1-500003.22}{QQ2-1-52}{La sc\IeC {\`e}ne de crime}}{94}\relax 
+\doTocEntry\tocsubsection{3.22.1}{\csname a:TocLink\endcsname{1}{x1-510003.22.1}{QQ2-1-53}{Alternative:{} La hache n'est pas bris\IeC {\'e}e}}{94}\relax 
+\doTocEntry\tocsection{3.23}{\csname a:TocLink\endcsname{1}{x1-520003.23}{QQ2-1-54}{Chirurgie au Klaive}}{94}\relax 
+\doTocEntry\tocsection{3.24}{\csname a:TocLink\endcsname{1}{x1-530003.24}{QQ2-1-55}{Les enfants}}{95}\relax 
+\doTocEntry\tocsection{3.25}{\csname a:TocLink\endcsname{1}{x1-540003.25}{QQ2-1-56}{Le tableau dans la classe}}{95}\relax 
+\doTocEntry\tocsection{3.26}{\csname a:TocLink\endcsname{1}{x1-550003.26}{QQ2-1-57}{Directeur de l'\IeC {\'e}cole}}{95}\relax 
+\doTocEntry\tocsection{3.27}{\csname a:TocLink\endcsname{1}{x1-560003.27}{QQ2-1-58}{le cas \textbf  {Elisabeth Lecoeur} }}{96}\relax 
+\doTocEntry\tocsection{3.28}{\csname a:TocLink\endcsname{1}{x1-570003.28}{QQ2-1-59}{Le maire du village}}{96}\relax 
+\doTocEntry\tocsubsection{3.28.1}{\csname a:TocLink\endcsname{1}{x1-580003.28.1}{QQ2-1-60}{Qui est \textbf  {Christopher} ?}}{97}\relax 
+\doTocEntry\tocsubsection{3.28.2}{\csname a:TocLink\endcsname{1}{x1-590003.28.2}{QQ2-1-61}{Le maire dans le monde des esprits}}{97}\relax 
+\doTocEntry\tocsubsection{3.28.3}{\csname a:TocLink\endcsname{1}{x1-600003.28.3}{QQ2-1-62}{La maison du maire dans le monde physique}}{97}\relax 
+\doTocEntry\tocsubsection{3.28.4}{\csname a:TocLink\endcsname{1}{x1-610003.28.4}{QQ2-1-63}{Finir le maire}}{97}\relax 
+\doTocEntry\tocsection{3.29}{\csname a:TocLink\endcsname{1}{x1-620003.29}{QQ2-1-64}{Les r\IeC {\'e}compenses}}{98}\relax 
+\doTocEntry\tocchapter{4}{\csname a:TocLink\endcsname{1}{x1-630004}{QQ2-1-65}{En r\IeC {\'e}sum\IeC {\'e}}}{99}\relax 
+\doTocEntry\tocsection{4.1}{\csname a:TocLink\endcsname{1}{x1-640004.1}{QQ2-1-66}{Raison de la pr\IeC {\'e}sence du \textbf  {Monster Under The Bed} }}{99}\relax 
+\doTocEntry\tocchapter{5}{\csname a:TocLink\endcsname{1}{x1-650005}{QQ2-1-67}{Annexes}}{104}\relax 
+\doTocEntry\tocsection{5.1}{\csname a:TocLink\endcsname{1}{x1-660005.1}{QQ2-1-68}{PNJ Importants}}{104}\relax 
+\doTocEntry\tocsubsection{5.1.1}{\csname a:TocLink\endcsname{1}{x1-670005.1.1}{QQ2-1-69}{Les esprits mutants}}{104}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-680005.1.1}{QQ2-1-70}{L'esprit du Sommeil}}{104}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-690005.1.1}{QQ2-1-71}{L'indien}}{105}\relax 
+\doTocEntry\tocparagraph{}{\csname a:TocLink\endcsname{1}{x1-700005.1.1}{QQ2-1-72}{Le pompier}}{107}\relax 
+\doTocEntry\tocsubsection{5.1.2}{\csname a:TocLink\endcsname{1}{x1-710005.1.2}{QQ2-1-73}{Les assistants}}{108}\relax 
+\doTocEntry\tocsection{5.2}{\csname a:TocLink\endcsname{1}{x1-720005.2}{QQ2-1-74}{FAQ \& incoh\IeC {\'e}rence}}{109}\relax 
+\doTocEntry\tocsubsection{5.2.1}{\csname a:TocLink\endcsname{1}{x1-730005.2.1}{QQ2-1-75}{Pourquoi il n'y a pas de sang ou de poudre d'argent quand on trouve la meute de loup?}}{109}\relax 
+\doTocEntry\tocsubsection{5.2.2}{\csname a:TocLink\endcsname{1}{x1-740005.2.2}{QQ2-1-76}{Quels \IeC {\'e}v\IeC {\'e}nements sont ind\IeC {\'e}pendants de l'action des joueurs et quelle est la chronologie?}}{109}\relax 
+\doTocEntry\tocsubsection{5.2.3}{\csname a:TocLink\endcsname{1}{x1-750005.2.3}{QQ2-1-77}{La chronologie de la disparition de Thomas.}}{109}\relax 
+\doTocEntry\tocsubsection{5.2.4}{\csname a:TocLink\endcsname{1}{x1-760005.2.4}{QQ2-1-78}{Prise de libert\IeC {\'e} avec les r\IeC {\`e}gles.}}{109}\relax 
+\doTocEntry\tocsection{5.3}{\csname a:TocLink\endcsname{1}{x1-770005.3}{QQ2-1-79}{Les r\IeC {\`e}gles homemade et cr\IeC {\'e}ation}}{110}\relax 
+\doTocEntry\tocsubsection{5.3.1}{\csname a:TocLink\endcsname{1}{x1-780005.3.1}{QQ2-1-80}{Don:{} Peur Noire}}{110}\relax 
+\doTocEntry\tocsubsection{5.3.2}{\csname a:TocLink\endcsname{1}{x1-790005.3.2}{QQ2-1-81}{Rituel:{} Douleur d'argent}}{111}\relax 
+\doTocEntry\tocsubsubsection{}{\csname a:TocLink\endcsname{1}{x1-800005.3.2}{QQ2-1-82}{R\IeC {\'e}aliser le rituel:{}}}{111}\relax 
+\doTocEntry\tocsubsection{5.3.3}{\csname a:TocLink\endcsname{1}{x1-810005.3.3}{QQ2-1-83}{F\IeC {\'e}tiche:{} Lame D\IeC {\'e}voreuse}}{111}\relax 
+\doTocEntry\tocsection{5.4}{\csname a:TocLink\endcsname{1}{x1-820005.4}{QQ2-1-84}{Carte heuristique}}{111}\relax 
+\doTocEntry\toclof{5.1}{\csname a:TocLink\endcsname{1}{x1-820011}{}{\ignorespaces Sch\IeC {\'e}ma du sc\IeC {\'e}nario d\IeC {\'e}finissant l'ensemble des relations entre les diff\IeC {\'e}rents personnages. Image vectorielle r\IeC {\'e}alis\IeC {\'e}e avec le logiciel \href  {https:{}//github.com/obiwankennedy/rmindmap}{Rmindmap}}}{figure}\relax 

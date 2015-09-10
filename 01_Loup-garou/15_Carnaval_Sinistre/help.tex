@@ -1,0 +1,239 @@
+% !TEX encoding = UTF-8 Unicode
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[oneside,12pt]{book}
+\usepackage[left=2cm,top=1cm,right=3cm,nofoot]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... 
+\usepackage{tabularx}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage[french]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\newcommand\don[5]{
+\textbf{#1} \\
+#2
+\begin{itemize}
+\item{ \textbf{jet}: #3}
+\item{ \textbf{Cout}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+
+
+\title{Aide de jeu: Loup-garou}
+\author{Renaud "ObiWan" Guezennec}
+\date{}
+
+%\let\origdescription\description
+%\renewenvironment{description}{
+%  \setlength{\leftmargini}{0em}
+%  \origdescription
+%  \setlength{\itemindent}{1em}
+%}
+
+
+\begin{document}
+
+\maketitle \clearpage
+\tableofcontents \clearpage
+
+\begin{flushleft}
+    \chapter{Introduction}
+        \section{Lire introduction sur l'univers de loup-garou}
+       
+         
+Les loup-garou sont mi-humain mi-esprit de loup. 
+Il y a très longtemps dans une époque qu'il surnomme la Pangée, Père loup faisait régner l'ordre entre le monde physique et le monde des esprits. 
+Devant son courage, Mère Lune tomba amoureuse de père loup. 
+Elle pris forme humaine pour le séduire. 
+Elle donna naissance à 9 enfants (les premiers nés). 
+De Mère lune ils reçurent la faculté de changer de forme et Père-Loup la force et l'instinct de chasseur. 
+Au fils des siècles, après la naissance de plusieurs générations de loup-garou, le pouvoir de père loup perdit de sa vigueur, diluer dans ses enfants et les enfants de ses enfants. 
+Une partie des enfants de Père loup réalisa qu'il était trop faible pour les guider, ils proposèrent leur aide mais Père-loup refusa. 
+Alors ses enfants assassinèrent Père loup  qui refusait de partager son fardeau avec le fruit de sa chair. 
+Lorsque le coup mortel fut porté, Pere-loup cria si fort qu'il déchira le monde. 
+Depuis lors, le monde des esprits (hisile) est éloigné du monde physique. 
+Les esprits en veulent au loug garou (uratha) car ils ont cassé leur paradis et on réussi là où ils avaient tous échoué (tuer père loup). 
+Mère lune maudit ses propres enfants pour leur crime. 
+Depuis, les loup garou sont sensible à argent (le metal le plus précieux au yeux de Mere Lune). 
+Au fil des siècles, elle pardonna, en partie, aux loup-garous qui reprirent le travail de son bien aimé. 
+Le respect de l'équilibre entre le monde des esprits et le monde physique est donc la responsabilité des Loup-garou. 
+Le monde des esprits est un monde où il fait toujours nuit. 
+Chaque élément du monde physique a son reflet dans l'autre monde à l'exception des humains. 
+Les humains nourrissent par leurs émotions le monde des esprits. 
+Les esprits peuvent être des concept comme la violence, la jalousie l'appétit ou bien des objets esprit d'une porte d'un animal. 
+Les loup-garous sont les seuls êtres autorisés à passer d'un monde à l'autre. 
+Le loug garou peut à volonter se transformer entre 5 formes.
+ 
+
+\section{Biologie}
+\subsection{Régénération}
+
+Les ennemis :
+-Les esprits : leur but est de grandir le plus possible, 
+-Les purs : Loup garous qui refusèrent de prendre par à la mort de Père-Loup
+Les ligues sont des mouvements philosophiques chez les loup garou.
+
+\subsection {Les auspices}
+\begin{tabularx}{19cm}{|X|c|X|X|X|}
+\hline
+Phase & Nom & Description & Role & profession \\
+\hline
+Nouvelle Lune (lune noire)  & Irraka & indépendant, fourbe, rusé & Espion, Pisteur, éclaireur, arnaqueur & garde forestier, commando   \\
+\hline
+Croissant de lune & Ithaeur  & Prévoyant, contemplatif, spritiuel, mystérieux, sombre, sage & shaman, ritualiste & Medecin, vétérinaire, bibliothécaire  \\
+\hline
+Demi-lune & Elodothe  & tempéré, observateur, honnête & Gardien de l'équilibre & juge, avocat, flic, detective privé  \\
+\hline
+Lune gibbeuse (3/4) & Cahalithe  & Passionné, pensif, expressif & Artiste, visionnaire, gardien des légendes & artiste, hippie   \\
+\hline
+Pleine lune  & Rahu & Agressif, déterminé  & Guerrier, victoire, gagant  & Sportif, militaire      \\
+\hline
+\end{tabularx}
+
+\subsection {Les Tribus}
+\begin{tabularx}{15cm}{|c|c|}
+\hline
+Nom & Philosophie  \\
+\hline
+Griffe de sang & guerriers, defenseurs, champion    \\
+\hline
+Os de L'ombre & shaman, sage, oracle , comprendre le monde des esprits  \\
+\hline
+Chasseurs des ténébres & pisteurs, assassins, gardien  \\
+\hline
+Maitre du fer  & Adaptation, technophile    \\
+\hline
+Seigneur des tempêtes  & aristocrate, leader     \\
+\hline
+\end{tabularx}
+
+
+\section{Hiérarchie dans les esprits}
+\begin{itemize}
+\item Gaffling : bas niveau 
+\item Jaggling : Niveau moyen
+\item Incarna :  Haut niveau
+\item Magath : hybrid
+\item Maeljin : Seigneur des lésions
+\item Idigam : Bani par Mere lune
+\end{itemize}
+
+\section{Serment de la Lune}
+\begin{itemize}
+\item  Le loup doit chasser
+\item  Le peuple ne tue pas le peuple
+\item  Le faible honnore le fort, le fort respecte le faible
+\item  Respecte ta proie
+\item  Le loup doit vivre parmi les humains
+\item  Ne mange pas de chair humaine ou de loup
+\item  Le troupeau ne doit pas savoir. 
+\end{itemize}
+
+\section{vocabulaire}
+\subsection{Le goulet}
+Frontière sépérant le monde physique, du monde réel.
+\subsection{Totem}
+Esprit protecteur de meute. Il gagne et donne de la puissance à une meute. Il est son avatar dans le monde des esprits. La meute doit respecter l'interdit du totem en plus des autres interdits. 
+
+\subsection{Locus}
+Porte de passage d'un monde à l'autre. Sorte de fontaine à Essence.
+ 
+\subsection{Tribu}
+Groupe philosophique chez les loups garou, ont pour totem un des 5 premiers nés
+
+
+\subsection{Auspice}
+Marquage de la Lune, différent en fonction de la phase de la lune de la premiere transformation. 
+
+
+
+
+\chapter{Regles}
+\section{Renommé}
+\subsection{Réputation}
+Lancer le maximum en renommer primaire. Si succès alors le personne qui arrivent connait le joueur.
+
+\subsection{Social dans la tribu}
+ajouter la renommé tribale pour les conversations sociales avec un membre de sa tribu. 
+
+
+\section{Arme en argent}
+Dégats aggravé, reçoivent un malus de -1 aux dégats. 
+
+\section{locus}
+3 points d'essence par jour et par rang
+
+\section{Prendre de l'essence dans un locus}
+Harmonie, un point par succès (dans la limite des stock disponible), un point d'essence mets une minute à se transferer. 
+
+Si pas consommer, entre dans le reservoir du locus, 10 points par rang
+
+
+\section{Les atouts}       
+\subsection{Iron Stomach}
+Permet a un loup garou de digérer la viande cru. 
+
+
+
+
+
+
+
+
+
+\chapter{Les Jets}
+
+
+\section{Monde des Ténébres}
+\subsection{Mémoriser ou se souvenir}
+Intelligence + calme
+\subsection{Perception}
+Astuce + calme (ou astuce + compétence)
+\subsection{Résister aux pressions}
+Résolution + calme (mentale)
+Résolution + vigueur (Physique)
+\subsection{Soulever un objet lourd}
+Force (+ survie) (page 51 mdt)
+\subsection{Retenir sa respiration}
+Vigueur
+\subsection{Résister au poisons ou aux maladies}
+Vigueur +  résolution
+\subsection{Méditation}
+Calme + Astuce + équipement (+ 1 au test de dégénérescence) .
+
+
+
+\section{Loup garou}
+\subsection{La métamorphose}
+Vigueur + survie + Instinct Primal (page 171)
+\subsection{Le passage dans l'autre monde}
+Intelligence + Présence + instinct primal (page 251) 
+\subsection{Prendre la température dans l'autre monde}
+Astuce + Empathie + Instinct primal (page 253) 
+\subsection{Apercevoir un esprit dans l'autre monde}
+Astuce + occulte + Instinct primal (page 254) 
+\subsection{Chercher un locus (Irraka +2)}
+Astuce + Investigation + Instint primal
+
+\subsection{Comprendre les effets d'une drogue sur des Uratha}
+Intelligence + science – 3 (le malus est plus faible si le jet est fait dans un labo). Il faut accumulé 15 à 50 succès.
+Quinine + éthanol cause des hallucinations à un Gauru.
+
+\subsection{Attaque d'un esprit}
+Pouvoir + Finesse (Page 276)
+
+\section{Sentir un loup garou}
+Astuce + instinct primal
+
+
+
+
+
+\end{flushleft}
+\end{document}

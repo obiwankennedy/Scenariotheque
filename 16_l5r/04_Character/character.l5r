@@ -1,0 +1,577 @@
+{
+  "attribs": [
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0
+  ], 
+  "family": "dragon_mirumoto", 
+  "insight": 0, 
+  "unsaved": false, 
+  "emph": {}, 
+  "void_points": 0, 
+  "deficiency": null, 
+  "unlock_schools": false, 
+  "void_cost": 6, 
+  "pending_wc_spell": [], 
+  "mastery_abilities": [], 
+  "properties": {
+    "marsta": "", 
+    "brosis": "", 
+    "eyes": "", 
+    "spouse": "", 
+    "weight": "", 
+    "money": [
+      10, 
+      0, 
+      0
+    ], 
+    "age": "", 
+    "father": "", 
+    "childr": "", 
+    "height": "", 
+    "hair": "", 
+    "mother": "", 
+    "equip": [
+      "Doubleclick to edit", 
+      "Doubleclick to edit"
+    ], 
+    "sex": ""
+  }, 
+  "spells_per_rank": 3, 
+  "armor": null, 
+  "insight_calculation": {}, 
+  "weapons": [
+    {
+      "dr_alt": "N/A", 
+      "skill_id": "kenjutsu", 
+      "strength": "N/A", 
+      "name": "Katana", 
+      "tags": [
+        "medium", 
+        "melee", 
+        "samurai"
+      ], 
+      "base_atk": "", 
+      "min_str": "N/A", 
+      "rule": "", 
+      "qty": 1, 
+      "max_dmg": "", 
+      "range": "N/A", 
+      "cost": "N/A", 
+      "base_dmg": "", 
+      "max_atk": "", 
+      "dr": "3k2", 
+      "skill_nm": "Kenjutsu", 
+      "desc": ""
+    }
+  ], 
+  "health_multiplier": 2, 
+  "version": "3.0", 
+  "affinity": null, 
+  "start_spell_count": 0, 
+  "modifiers": [
+    {
+      "active": false, 
+      "reason": "armor", 
+      "type": "artn", 
+      "value": [
+        0, 
+        0, 
+        5
+      ], 
+      "dtl": ""
+    }
+  ], 
+  "exp_limit": 250, 
+  "status": 0.0, 
+  "clan": "dragon", 
+  "infamy": 0.0, 
+  "tags": [], 
+  "pending_wc_emph": [], 
+  "void": 0, 
+  "wounds": 0, 
+  "free_kiho_count": 0, 
+  "extra_notes": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;\">\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>", 
+  "advans": [
+    {
+      "cost": 18, 
+      "type": "void", 
+      "rule": null, 
+      "desc": "Void Ring, Rank 2 to 3. Cost: 18 xp"
+    }, 
+    {
+      "attrib": 1, 
+      "cost": 12, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Willpower, Rank 2 to 3. Cost: 12 xp"
+    }, 
+    {
+      "attrib": 2, 
+      "cost": 12, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Reflexes, Rank 2 to 3. Cost: 12 xp"
+    }, 
+    {
+      "attrib": 3, 
+      "cost": 12, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Awareness, Rank 2 to 3. Cost: 12 xp"
+    }, 
+    {
+      "attrib": 2, 
+      "cost": 16, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Reflexes, Rank 3 to 4. Cost: 16 xp"
+    }, 
+    {
+      "attrib": 4, 
+      "cost": 12, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Strength, Rank 2 to 3. Cost: 12 xp"
+    }, 
+    {
+      "attrib": 3, 
+      "cost": 16, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Awareness, Rank 3 to 4. Cost: 16 xp"
+    }, 
+    {
+      "skill": "lore_theology", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Lore (Theology), Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "defense", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Defense, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "kenjutsu", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Kenjutsu, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "kenjutsu", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": "ma_kenjutsu_3", 
+      "desc": "Kenjutsu, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "kenjutsu", 
+      "cost": 4, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Kenjutsu, Rank 3 to 4. Cost: 4 xp"
+    }, 
+    {
+      "skill": "kenjutsu", 
+      "cost": 5, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Kenjutsu, Rank 4 to 5. Cost: 5 xp"
+    }, 
+    {
+      "skill": "iaijutsu", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Iaijutsu, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "iaijutsu", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Iaijutsu, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "iaijutsu", 
+      "cost": 4, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Iaijutsu, Rank 3 to 4. Cost: 4 xp"
+    }, 
+    {
+      "skill": "defense", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Defense, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "defense", 
+      "cost": 4, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Defense, Rank 3 to 4. Cost: 4 xp"
+    }, 
+    {
+      "skill": "iaijutsu", 
+      "cost": 5, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Iaijutsu, Rank 4 to 5. Cost: 5 xp"
+    }, 
+    {
+      "skill": "meditation", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Meditation, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "meditation", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Meditation, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "athletics", 
+      "cost": 1, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Athletics, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "skill": "athletics", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Athletics, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "athletics", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Athletics, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "hunting", 
+      "cost": 1, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Hunting, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "skill": "hunting", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Hunting, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "hunting", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Hunting, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "hunting", 
+      "cost": 4, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Hunting, Rank 3 to 4. Cost: 4 xp"
+    }, 
+    {
+      "skill": "hunting", 
+      "cost": 5, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Hunting, Rank 4 to 5. Cost: 5 xp"
+    }, 
+    {
+      "skill": "courtier", 
+      "cost": 1, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Courtier, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "skill": "courtier", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Courtier, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "courtier", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": "ma_insight_plus_3", 
+      "desc": "Courtier, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "courtier", 
+      "cost": 4, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Courtier, Rank 3 to 4. Cost: 4 xp"
+    }, 
+    {
+      "skill": "medicine", 
+      "cost": 1, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Medicine, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "skill": "medicine", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Medicine, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "medicine", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Medicine, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "kata": "striking_as_air", 
+      "cost": 3, 
+      "type": "kata", 
+      "rule": "striking_as_air", 
+      "desc": "Striking as Air, Cost: 3 xp"
+    }, 
+    {
+      "extra": "", 
+      "perk": "sacred_weapon_twin_sister_blades", 
+      "tag": "merit", 
+      "rank": 1, 
+      "cost": 3, 
+      "rule": "twin_sister_blades", 
+      "type": "perk", 
+      "desc": "Sacred Weapon (Twin Sister Blades) Rank 1, XP Cost: 3"
+    }, 
+    {
+      "extra": "", 
+      "perk": "strength_of_the_earth", 
+      "tag": "merit", 
+      "rank": 1, 
+      "cost": 2, 
+      "rule": "strength_of_earth", 
+      "type": "perk", 
+      "desc": "Strength of the Earth Rank 1, XP Cost: 2"
+    }, 
+    {
+      "extra": "", 
+      "perk": "hero_of_the_people", 
+      "tag": "merit", 
+      "rank": 1, 
+      "cost": 2, 
+      "rule": "hero_of_the_people", 
+      "type": "perk", 
+      "desc": "Hero of the People Rank 1, XP Cost: 2"
+    }, 
+    {
+      "extra": "", 
+      "perk": "obtuse", 
+      "tag": "flaw", 
+      "rank": 1, 
+      "cost": -4, 
+      "rule": "obtuse", 
+      "type": "perk", 
+      "desc": "Obtuse Rank 1, XP Gain: 4"
+    }, 
+    {
+      "extra": "", 
+      "perk": "dishonored", 
+      "tag": "flaw", 
+      "rank": 1, 
+      "cost": -5, 
+      "rule": "dishonored", 
+      "type": "perk", 
+      "desc": "Dishonored Rank 1, XP Gain: 5"
+    }, 
+    {
+      "attrib": 6, 
+      "cost": 16, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Agility, Rank 3 to 4. Cost: 16 xp"
+    }, 
+    {
+      "attrib": 7, 
+      "cost": 0, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Intelligence, Rank 2 to 3. Cost: 0 xp"
+    }
+  ], 
+  "schools": [
+    {
+      "techs": [
+        "dragon_way_of_the_dragon", 
+        "dragon_the_calm_in_midst_of_thunder"
+      ], 
+      "tags": [
+        "bushi", 
+        "dragon_bushi", 
+        "dragon_mirumoto_bushi_school", 
+        "dragon"
+      ], 
+      "skills": {
+        "lore_shugenja": 1, 
+        "kenjutsu": 1, 
+        "defense": 1, 
+        "iaijutsu": 1, 
+        "lore_bushido": 1, 
+        "meditation": 1, 
+        "lore_theology": 1
+      }, 
+      "school_rank": 3, 
+      "emph": {
+        "kenjutsu": [
+          "Katana"
+        ]
+      }, 
+      "deficiency": null, 
+      "tech_rules": [
+        "dragon_way_of_the_dragon", 
+        "dragon_the_calm_in_midst_of_thunder"
+      ], 
+      "affinity": null, 
+      "is_path": false, 
+      "path_rank": 0, 
+      "school_id": "dragon_mirumoto_bushi_school", 
+      "spells": []
+    }
+  ], 
+  "attrib_costs": [
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4
+  ], 
+  "mod_init": [
+    0, 
+    0
+  ], 
+  "step_1": {
+    "attribs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      1, 
+      0
+    ], 
+    "status": 0.0, 
+    "infamy": 0.0, 
+    "glory": 0.0, 
+    "tags": [
+      "dragon_mirumoto", 
+      "dragon"
+    ], 
+    "skills": {}, 
+    "void": 0, 
+    "school_tech": null, 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 0.0, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "affinity": null, 
+    "start_spell_count": 0, 
+    "deficiency": null, 
+    "pending_wc_spell": []
+  }, 
+  "step_0": {
+    "attribs": [
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2
+    ], 
+    "status": 1.0, 
+    "infamy": 0.0, 
+    "glory": 1.0, 
+    "tags": [], 
+    "skills": {}, 
+    "void": 2, 
+    "school_tech": null, 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 0.0, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "affinity": null, 
+    "rank": 1, 
+    "start_spell_count": 0, 
+    "deficiency": null, 
+    "pending_wc_spell": []
+  }, 
+  "school": "dragon_mirumoto_bushi_school", 
+  "step_2": {
+    "attribs": [
+      1, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "status": 0.0, 
+    "infamy": 0.0, 
+    "glory": 0.0, 
+    "tags": [], 
+    "skills": {}, 
+    "void": 0, 
+    "school_tech": "dragon_way_of_the_dragon", 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 4.5, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "affinity": null, 
+    "start_spell_count": 0, 
+    "deficiency": null, 
+    "pending_wc_spell": []
+  }, 
+  "name": "Mirumoto Joshiro", 
+  "glory": 0.0, 
+  "pending_spells_count": 0, 
+  "skills": {}, 
+  "school_tech": null, 
+  "taint": 0.0, 
+  "current_school_id": "dragon_mirumoto_bushi_school", 
+  "pending_wc": [], 
+  "can_get_another_tech": false, 
+  "last_rank": 3, 
+  "honor": 0.0
+}

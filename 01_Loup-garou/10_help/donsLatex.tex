@@ -1,0 +1,335 @@
+% !TEX encoding = UTF-8 Unicode
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[oneside,12pt]{book}
+\usepackage[left=2cm,top=1cm,right=3cm,nofoot]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... 
+\usepackage{tabularx}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage[french]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\newcommand\bless[4]{
+\textbf{#1}: \\
+#2 \\
+\textbf{jet} : #3
+\textbf{Coût} : #4 \\
+\vspace{0.5cm}
+}
+
+\newcommand\don[6]{
+\textbf{#1} \\
+(#6) - #2
+\begin{itemize}
+\item{ \textbf{jet}: #3}
+\item{ \textbf{Cout}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+\newcommand\rituel[5]{
+\textbf{#1} \\
+(Niveau: #6) \\
+#2 
+\begin{itemize}
+\item{ \textbf{jet}: Harmonie}
+\item{ \textbf{Succès}: #3}
+\item{ \textbf{Description}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+\newcommand\spiritFirst[9]{
+\textbf{#1}\\
+\textbf{Choeur}: #2 \\
+\textbf{Déchant}: #3 \\
+\textbf{Attributs}
+\begin{itemize}
+\item{ \textbf{Pouvoir}: #4}
+\item{ \textbf{Finesse}: #5}
+\item{ \textbf{Résistance}: #6}
+\end{itemize}
+\textbf{Volonté} : #7 \\
+\textbf{Essence}: #8 \\
+}
+\newcommand\spiritSecond[9]{
+\textbf{Initiative}: #1 \\
+\textbf{Défense}: #2 \\
+\textbf{Vitesse}:#3 \\
+\textbf{Taille}:#4 \\
+\textbf{Corpus}: #5 \\
+\textbf{Influence}: \\
+\textbf{#6} : #7 \\
+\textbf{#8} : #9 \\
+}
+\newcommand\spiritThird[5]{
+\textbf{#1} : #2 \\
+\textbf{Benediction}: #3 \\
+\textbf{Interdit}: #4 \\
+\textbf{Info}: #5 \\
+\vspace{0.5cm}
+}
+
+\title{Les Listes de Dons}
+\author{Renaud "ObiWan" Guezennec}
+\date{}
+\begin{document}
+
+\maketitle \clearpage
+\tableofcontents \clearpage
+
+\begin{flushleft}
+\chapter{Livre de base}
+
+\section{Croissant de Lune}
+\don{Oeil sur les deux mondes}{Permet de voir dans les deux mondes à la fois}{Astuce + occulte + Sagesse}{aucun}{104}{Instantanée}
+\don{Lecture de l'esprit}{Donne plein d'info sur un esprit: nom,type et rang, son niveau de pouvoir et [ finesse, ou résistance, charme, ]+ \\ Un esprit par scène}{Intelligence + occulte + ruse}{1 essence}{105}{Instantanée}
+\don{Cocon de goulet}{Permet de se dissimuler dans le goulet: trouver (-2), identifier(-1), attaque à distance (-2) (-5 si à couvert), }{Dextérité + Occulte + Pureté}{1 Point d'Essence}{106}{Instantanée}
+\don{Entre les mailles}{Traverse le goulet en reflèxe et peut donc faire une autre action.}{aucun}{1 Point d'Essence}{106}{Instantanée}
+\don{Enfoncer les portes}{Traverse le goulet en reflèxe et peut donc faire une autre action. Pour le porteur un les autres membres de la meute.}{aucun}{1 Point d'Essence + (1 par camarade de meute)}{106}{Instantanée}
+
+\section{Demi-Lune}
+\don{Voir sous la surface}{sentir la duperie}{astuce + empathie + pureté vs calme + instinct primal}{1 point de volonté}{112}{}
+\don{Grondement autoritaire}{Révèle la vérité sur un sujet particulier, peut forcer une personne a enlevé son déguisement.}{Presence + Intimidation + ruse contre [Calme + Instinct primal]}{1 volonté}{113}{Opposé, reflexe}
+\don{Aura de trêves}{Projette une aura de calme, efficace avant que le combat commence. Les personnes doivent dépenser un point de volonté pour commettre un acte violent}{Manipulation + Persuasion + Honneur}{1 Point d'Essence}{113}{Instantanée}
+\don{Alimenter la rage}{Forme Gauru dure 1 tour de plus par succès}{Vigueur + Occulte + Pureté}{1 essence}{114}{Instantanée}
+\don{Ancrer ou priver}{Influence le temps passer en forme de guerre mais chez un autre loup-garou. Il peut l'augmenter ou le réduire.}{Vigueur + Occulte + Pureté (pour augmenter Gauru); \\ Manipulation + Occulte + ruse – résolution (pour diminuer le temps en Gauru)
+}{1 essence}{114}{Instantanée}
+
+\section{Discrétion}
+\don{Pieds de Brûme}{Mode passif: -1 pour te pister, Mode actif: -3 (depense d'essence)}{aucun}{1 point d'essence}{114}{Reflexe}
+\don{fusion}{Fusionne avec l'environnement, doit resté immobile, grosse difficulté pour te trouver}{Astuce + Discrétion + ruse}{aucun}{114-115}{Instantanée ou opposition}
+\don{Ombre mouvante}{Deplacement silencieux (-3 aux observateurs qui cherche le loup-garou par le son)}{Aucun}{1 essence}{115}{Reflexe}
+\don{Ombre incarnée}{Le LG devient une ombre, cela ne peut pas être fait dans le noir complet.}{Astuce + Discrétion + ruse}{1 essence}{115}{Instantané}
+\don{Disparition}{}{}{}{116}{}
+
+\section{Domination}
+\don{Grognement d'avertissement}{}{}{}{}{}
+\don{Volonté de Luna}{}{présence + intimidation + Gloire vs Calme + Instinct Primal}{}{107}{}
+\don{Voix autoritaire}{Donne un ordre à 1, 2 ou 3 personnes, l'ordre prend la forme d'une phrase complète: «cache ses cadavres dans la ravin près de la rivière», Les cibles obéissent pendant 5 minutes par succès. Un malus de -1 par personne au-delà de la première est appliqué.}{ Manipulation + Intimidation + Honneur vs Résolution + calme}{1 Point d'Essence}{107}{Opposition, résistance réflexe}
+\don{Briser les réfractaire}{}{}{}{}{}
+\don{tirer les ficelles de l'ame}{}{}{}{}{}
+
+
+\section{Élements}
+\don{Invoquer de l'eau}{}{}{}{}{}
+\don{Manipuler la terre}{}{Dextérité + Artisanats + Ruse}{1 point d'essence}{108}{}
+\don{Diriger le feu}{Contrôle un feu, mais ne le crée pas. Le feu peut servir pour attaquer une personne ou tous simplement empêcher le feu de brûler une foret ou augmenter la température pour détruire toute trace. Pour un contrôle fin le test subit un malus de 2}{Force + Survie + Gloire}{1 point d'essence}{109}{Instantanée}
+\don{Invocation colère des vents}{}{}{}{}{}
+\don{Lamentations de la rivière}{}{}{}{}{}
+
+\section{Évasion}
+
+\don{langue délié}{faire parler quelqu'un}{manipulation + entregent + Sagesse vs Calme + instinct primal}{1 essence}{110}{}
+\don{Poudre aux yeux}{}{Manipulation + Subterfuge + Honneur (vs Calme + Instinct Primal)}{}{111}{}
+\don{Faire le mort}{Passe pour mort, un jet en Intelligence medecine doit être fait et dépasser le score de l'activation du pouvoir. Le corps reste mort pendant 24h ou jusqu'à que le LG décide de se réveiller. Il reste conscient de ce qu'il se passe autour de lui.}{Astuce + Subterfuge + Ruse}{1 volonté}{111}{Réflexe}
+\don{Double sens}{Terrifie les ennemis}{Intelligence + Investigation + Gloire}{ 1 point de volonté}{111}{}
+\don{Brouillard de guerre}{}{}{}{}{}
+
+\section{Force}
+
+\don{Coup Fracassant}{Les dégâts contondants deviennent des blessures létales}{}{1 point de volonté}{116}{}
+\don{saut puissant}{+6 dés pour faire un saut}{}{}{116}{}
+\don{Déchirer le métal}{Il est plus facile de couper le métal}{Force + Artisanat + Gloire}{}{116-117}{}{}
+\don{Bras légendaire}{}{}{}{}{}
+\don{Puissance sauvage}{}{}{}{}{}
+
+
+\section{Inspiration}
+
+\don{Les bons mots}{+2 en social passif pour encourager ou apaiser}{Aucun}{Aucun}{117}{Réflexe}
+\don{Camaraderie}{Calme les troupes, la meute gagne +1 au jet de résistance à la rage mortelle pour la scène, de plus, si une action en coopération est faite les jets de soutien gagne +1}{Manipulation + Persuasion + Sagesse}{Aucun}{117}{Réflexe}
+\don{Véritable meneur}{Redonne un point de volonté par succes, peut dépasser le maximum, une fois par jour, l'utilisateur doit mener ses troupes vers un danger.}{Manipulation + Expression + Gloire}{}{}{instantanée}
+\don{Peau Spirituelle}{Impose la crainte ou le respect}{}{1 point d'essence}{118}{}
+\don{Chant du vainqueur}{}{}{}{}{}
+
+\section{Gibbeuse}
+
+\don{Conscience de meute}{Obtenir des informations la position autres membres de la meute: loin vers le nord, très proche à sur la gauche, ainsi que la forme utilisé par ton frère, activité générale, gravement blessé ou inconscient}{Astuce + Empathie + Sagesse}{aucun}{118}{Reflexe}
+\don{Résister à la douleur}{Ignore le malus de blessure, dure toute la scene}{Vigueur + Survie + Honneur}{1 volonté}{}{Instantanée}
+\don{Cri de ralliement}{Redonne un point de volonté à ses alliés pendant la bataille}{manipulation + expression + Gloire}{1 volonté}{119}{Instantanée}
+\don{Communication tacite}{Permet de communiquer par la pensée entre tous les memebres.}{Intelligence + relationnel + Gloire}{1 volonté}{}{Instantanée}
+\don{Cri de gloire}{soigne un dégat par succès au cri, pour les membres sauf toi}{Presence + Expression + Gloire}{1 volonté}{}{instantanée}
+
+\section{Mêre-Lune}
+
+\don{Changement partiel}{permet de changer une partie de son corps dans la forme de son choix: Les bras du gauru ou le museau du loup}{Vigueur + Survie + Instinct primal}{[1 point d'essence]}{121}{}
+\don{Bête quelconque}{}{}{}{}{}
+\don{Mâchoire d'argent}{Transforme mâchoire et griffe en argent pur}{}{}{}{}
+\don{Vol de chair}{}{}{}{}{}
+\don{Forme primale}{}{}{}{}{}
+
+\section{Météorologie}
+
+\don{Invoquer le vent}{}{}{}{}{}
+\don{Brouillard silencieux}{Créer un brouillard dense, 20 mètre carrée par point d'instinct primal, règle à couvert pour toutes actions de combat, la meute du LG voit à travers}{Manipulation + Survie + Ruse}{1 essence}{123}{Instantanée}
+\don{Déluge}{}{}{}{}{}
+\don{Gelée Mortelle}{}{Manipulation + Survie + Honneur}{}{124}{}
+\don{Éclair}{}{}{}{}{}
+
+
+\section{modelage}
+
+\don{Redresser}{redresse un objet, réduit les bosses, affecte jusqu'à un mètre carrée par tour}{aucun}{1 Point d'Essence}{125}{Instantanée}
+\don{Endommager}{}{}{}{}{}
+\don{Sculter}{}{}{}{}{}
+\don{Briser}{}{}{}{}{}
+\don{Condenser ou grossir}{}{}{}{}{}
+
+
+\section{Mort}
+\don{Vision de mort}{voir les troubles laissés par la mort: mort violente et les fantômes}{}{}{127}{}
+\don{Couteau fantôme}{Rend efficace une arme blanche contre des fantômes ou esprits dans le monde physique}{}{}{128}{}
+\don{Témoignage de cadavre}{Le cadavre décrit ce qu'il a vu depuis sa mort et les infos ne peuvent pas être plus ancienne que 24h}{Manipulation + Occulte + Pureté}{1 point d'essence}{129}{Instantanée}
+\don{Paroles d'apaisement}{}{}{}{}{}
+\don{Vengence du défunt}{}{}{}{}{}
+
+\section{Nature}
+\don{Langue animale}{Permet de parler avec les animaux à raison d'une minute par succès.}{Manipulation + Animaux + Pureté}{1 point de volonté}{130}{Réflexe}
+\don{Main verte}{}{}{}{}{}
+\don{Communion avec la forêt}{Transe de communion avec la forêt, le personnage voit 500m à la ronde, et chaque succés ajoute 100m et des informations. Le personnage est inconscient de ce qui se passe dans réellement autour de lui. Il ne peut décrire ce qu'il voit quand le don est actif. Il peut ainsi apprendre la présence d'intru avec un succès, avec trois, il peut apprendre le nombre, le sexe et l'espèce.}{Manipulation + Survie + Ruse}{1 point d'essence}{130-131}{Instantanée}
+\don{Possession d'un animal}{}{}{}{}{}
+\don{Vengeance de la nature}{}{}{}{}{}
+
+\section{Nouvelle Lune}
+
+\don{Trouver le point faible}{}{}{}{}{}
+\don{S'esquiver}{Se libérer de liens (menottes, camisole...)}{}{1 point de volonté}{132}{}
+\don{Distraction}{}{Manipulation + Subterfuge + Gloire (vs Résolution + Instinct Primal) }{}{133}{}
+\don{Appartenance}{}{}{}{}{}
+\don{Devenir fantôme}{}{}{}{}{}
+
+\section{Pere-loup}
+\don{Appel du sang de loup}{Permet de parler au loup et au chien. +1 social avec ses animaux}{}{1 essence}{}{Réflexe}
+\don{Vitesse de Père-loup}{Double la vitesse}{}{1 essence}{}{Reflèxe}
+\don{Hurlement de loup}{}{}{}{}{}
+\don{Blessures sauvages}{}{}{}{}{}
+\don{Meute d'esprits}{}{}{}{}{}
+
+\section{Perspicacité}
+\don{Sentir la malice}{Identifier des sentiments violents: haine, colère.. chez un individu}{intelligence + Empathie + sagesse contre Calme et instinct primal}{}{135}{Opposition, résistance reflexe.}
+\don{Sentir la corruption}{Identifier la nature d'un individu: vampire ou autre...}{Astuce + Occulte + pureté}{}{136}{}
+\don{Écho Onirique}{Permet de resentir le passé recent d'un objet par sa résonnance spirituelle.}{Astuce + Investigation + Honneur}{1 essence}{136}{Instantanée}
+\don{Lecture de l'âme}{}{}{}{}{}
+\don{Lecture des présages}{}{}{}{}{}
+
+
+\section{Pleine Lune}
+\don{Clarté}{+ 5 en init}{}{1 Point d'Essence}{136-137}{Réflexe}
+\don{Perceptions}{}{}{}{}{}
+\don{Étreinte de mort}{Si une cible est aggripée, l'utilisation de ce don donne +6 pour faire le test qui autorise une manœuvre. Disponible en Urshul, Urhan, Gauru}{Stenr}{1 Point d'Essence par morsure}{137}{}
+\don{Armure de Rage}{}{Vigueur + Survie + Honneur}{1 Point d'Essence}{138}{}
+\don{Fureur de Luna}{}{}{}{}{}
+
+\section{Protection}
+\don{Protection contre les prédateurs}{}{}{}{}{}
+\don{Protection contre les humains}{}{}{}{}{}
+\don{Protection contre la technologie}{}{}{}{}{}
+\don{Protection contre les ombres}{}{}{}{}{}
+\don{Protection de l'esprit du sommeil}{}{}{}{}{}
+
+\section{Rage}
+\don{Masque de rage}{}{}{}{}{}
+\don{Canaliser la rage}{Chaque succès permet de sacrifier un tour passé en forme gouru pour obtenir +1 en force ou en dextérité.}{Vigeur + Survie + Pureté}{1 point d'essence}{142}{Reflèxe}
+\don{Aspirer la rage}{}{}{}{}{}
+\don{Rallumer la rage}{}{}{}{}{}
+\don{Empoisonner la rage}{}{}{}{}{}
+
+
+
+
+
+\section{Savoir}
+\don{Connaitre un nom}{Permet d'apprendre le ou les noms auxquels  le personnage répond}{Intelligence + Investigation + ruse vs Résolution + Instinct Primal}{}{144}{}
+\don{Bénédiction du voyager}{}{}{}{}{}
+\don{Sagacité}{}{}{}{}{}
+\don{Connaitre le chemin}{}{}{}{}{}
+\don{Communion avec la terre}{}{}{}{}{}
+
+
+\section{Technologie}
+\don{Sabotage}{}{}{}{}{}
+\don{Nuit Noire}{coupe les lumières électriques dans une zone (200m² par succès)}{Astuce + Larcin + Ruse}{1 volonté}{146}{}
+\don{Trahison du métal}{}{Astuce + Artisanat + gloire}{}{146}{}
+\don{Esprit dans la machine}{}{}{}{}{}
+\don{Création de technologie}{}{}{}{}{}
+
+\section{ Stalking : Black Wolf's Gifts }
+\don{Vision nocturne}{Voir dans la nuit en forme humaine}{Intelligence + Survie + Honneur}{aucun}{135}{réflexe}
+
+
+
+\chapter{Rituel}
+\section{Livre de base}
+
+\rituel{Invoqué un esprit}{}{Harmonie}{}{152}{}
+\rituel{Pierre consacrée}{Stocke de l'essence dans un objet}{Harmonie}{}{150}{}
+\rituel{Renforcer les marches}{Augmente ou diminue le Goulet (frontière entre les deux mondes)}{Harmonie}{}{154}{}
+
+
+
+\chapter{Esprit}
+\section{Livre de base}
+\spiritFirst{Curiosité Maladive}{idéologie}{Science}{7}{9}{9}{16}{25} \\
+\spiritSecond{18}{9}{26}{2}{11}{Curiosité}{2}{Savoir}{1} 
+\spiritThird{}{}{Désincarnation,Eclair,Entrave,Vision Matérielle,Sentir la résonance}{Esprit de maladie}{}
+
+
+
+\chapter{Benediction}
+\section{Livre de base}
+\bless{Brèche dans le goulet}{Permet d'outrepasser}{Pouvoir + Finesse}{3 points d'essence}
+\bless{Chœur}{Permet de parler au esprit de son chœur sur 1,5 * Pouvoir}{Pouvoir + Finesse}{1 essence}
+\bless{Désincarnation}{Rend le corpus aux Ombres, se sauver de la destruction permanante.}{Pouvoir + Resistance}{}
+\bless{Éclair}{Attaque à distance, portée 10 metres par point de Pouvoir. Les dégats sont létaux.}{Pouvoir + Finesse + 2 dés par point d'essence.}{}
+\bless{Entraves}{permet à l'esprit de se fixé à un objet à moins de 5 metres de lui. Si l'objet est détruit l'esprit repart dans les Ombres. L'esprit est invisible et intangible sauf pour les gens avec vision de mort. Il peut se matérialiser et se déplacer.}{}{2 essences}
+\bless{Entraves}{Crée un possédé de type influencé}{Pouvoir + Finesse vs Resolution + calme}{2 essences}
+\bless{Harcèlement}{Attaque émotionnelle, la cible est submergé par l'émotion pendant un nombre de tour égal au nombre de succès.}{Pouvoir + Finesse vs Resolution + calme}{1 essence}
+\bless{Hégémonie}{Version plus puissante de possession. Elle est permanante. Chaque test represente 1 heure.50 succès doivent être accumuler entre l'aube et le crépuscule. Cela crée un colonisé. }{Pouvoir + Finesse vs Resolution + calme}{3 essences}
+\bless{Matérialisation}{L'esprit peut agir sur le monde physique. 1 heure par succès. A la fin, l'esprit peut rester et perdre 1 point d'essence par heure, s'entraver ou retourner dans l'hisile.}{Pouvoir + Finesse}{3 essences}
+\bless{Portée}{Permet d'utiliser ses autres bénédiction à travers le goulet.}{Pouvoir + Finesse - malus goulet}{}
+\bless{Possession}{Permet de contrôler un humain pendant une scène. Esprit-voleur.}{Pouvoir + Finesse vs Resolution + calme}{}
+\bless{Sentir la résonnance}{Obtenir des informations sur un locus ou un esprit de la meme resonnace que l'esprit.}{Finesse + Résistance}{}
+\bless{Vision matérielle}{Regarder de l'autre côté.}{Pouvoir + Finesse}{}
+
+\subsection{Les dons comme bénédiction}
+\don{Armure de Rage}{}{Vigueur + Survie + Honneur}{1 Point d'Essence}{138}{}
+\don{Brouillard silencieux}{}{}{}{123}{}
+\don{Communication tacite}{Permet de communiquer par la pensée entre tous les memebres.}{Intelligence + relationnel + Gloire}{1 volonté}{}{Instantanée}
+\don{Communion avec la forêt}{}{Manipulation + Survie + Ruse}{1 point d'essence}{130-131}{}
+\don{Communion avec la terre}{}{}{}{}{}
+\don{Connaitre le chemin}{}{}{}{}{}
+\don{Déchirer le métal}{Il est plus facile de couper le métal}{Force + Artisanat + Gloire}{}{116-117}{}{}
+\don{Déluge}{}{}{}{}{}
+\don{Diriger le feu}{Contrôle un feu, mais le feu doit exister}{Force + Survie + Gloire}{1 point d'essence}{109}{}
+\don{Éclair}{}{}{}{}{}
+\don{Invocation colère des vents}{}{}{}{}{}
+\don{Invoquer le vent}{}{}{}{}{}
+\don{Lecture des présages}{}{}{}{}{}
+\don{Main verte}{}{}{}{}{}
+\don{Manipuler la terre}{}{Dextérité + Artisanats + Ruse}{1 point d'essence}{108}{}
+\don{Nuit Noire}{coupe les lumières électriques dans une zone (200m² par succès)}{Astuce + Larcin + Ruse}{1 volonté}{146}{}
+\don{Sabotage}{}{}{}{}{}
+\don{Trouver le point faible}{}{}{}{}{}
+
+\section{Livre de base}
+\bless{Clasp}{Aggrippe une cible avec une force surnaturelle. 1 point d'essence permet à l'esprit de faire des dégats létaux}{Pouvoir + Finesse}{}
+\bless{Désiccation}{Permet à un esprit de tirer le liquide d'une cible: sang ou eau.La cible doit être dans les 5 metres par point de pouvoir. les dégats sont contondants. 1 dégats par succes}{Pouvoir + Finesse}{}
+\bless{Drain}{Vole de l'essence ou de la volonté a une cible. La cible doit être touchée.}{Pouvoir + Finesse vs Vigueur + resolution + instinct primal}{}
+\bless{Emotional Aura}{affecte les cibles autour de l'esprit par un malus de -2}{Pouvoir + Finesse vs calme + resolution + instinct primal}{}
+\bless{fearstruck}{paralise un adversaire par la peur.}{Pouvoir + Finesse vs calme + resolution + instinct primal}{1 point d'essence}
+\bless{Final strike}{Attaque un ennemi en action reflexe quand l'esprit est proche de la Désincarnation}{}{1 point d'essence}
+\bless{Howl}{hurle de façon à faire peur à un ennemi. la cible court 1 tour par succes.}{Pouvoir + Finesse - calme}{}
+\bless{Mechanical Possession}{Farusim, or “Machine Riders.”, permet de controlé un objet.}{ Finesse pour controler un véhicule.}{1 point d'essence}
+\bless{Revelation}{inonde l'intellect de quelqu'un par un flot d'information. malus mental egual au nombre de succes de l'esprit. dure pour la scène. }{Pouvoir + Finesse vs Résolution + calme}{1 essence}
+\bless{Seek}{Information relatives à un évènement proche de l'influence de l'esprit. 2 kilometre par succes.}{Finesse}{1 essence = portée * 10}
+\bless{Speed}{avec 2 points d'essence la vitesse de l'esprit double. 4 essence la vitesse triple. }{}{2 ou 4 essence}
+\bless{Spirit venom}{injecte un venin surnaturel. Après une attaque corps à corps, l'esprit peut activé cette bénédiction. Le venin inflige un point de dégat supplémentaire par point d'essence dépensé. La victim doit faire un jet de Vigueur + Instinct primal ou perdre 1 point d'essence par point d'essence depensé par l'esprit.   }{}{ 1 à 3 points d'essence.}
+\bless{Telekinesis}{permet à l'esprit de manipuler un objet à distance, sans le toucher. L'objet doit etre de taille inferieur ou égal au nombre de succes pour être déplacer.}{Pouvoir + Finesse}{1 point d'essence}
+
+\end{flushleft}
+\end{document}

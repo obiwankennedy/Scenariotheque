@@ -1,0 +1,2842 @@
+Promenons-nous dans les bois
+Renaud ”ObiWan” Guezennec
+
+Table des mati`
+eres
+1 Introduction
+1.1 Le sc´enario en quelques mots . . . . . . . . . . . . . . .
+1.2 Cadre du sc´enario . . . . . . . . . . . . . . . . . . . . .
+1.2.1 Que faire quand vous n’avait pas cinq joueurs .
+1.3 L’univers de loup-garou : les d´echus . . . . . . . . . . .
+1.3.1 L’hisile . . . . . . . . . . . . . . . . . . . . . . .
+1.3.2 Les atouts d’un loup-garou . . . . . . . . . . . .
+1.3.3 Les ennemis . . . . . . . . . . . . . . . . . . . .
+1.3.4 Serment de la Lune . . . . . . . . . . . . . . . .
+1.4 Les meutes du sc´enario . . . . . . . . . . . . . . . . . .
+1.4.1 La Meute PJ : Night howlers . . . . . . . . . .
+1.4.2 La meute sympa mais pas trop : Sadness knives
+1.4.3 La meute m´echante mais polie : hidden claws .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+5
+5
+6
+6
+6
+7
+7
+7
+7
+8
+8
+8
+8
+
+2 Les
+2.1
+2.2
+2.3
+2.4
+2.5
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+9
+10
+12
+14
+16
+18
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+20
+20
+21
+22
+22
+22
+22
+23
+23
+24
+24
+25
+25
+25
+26
+26
+26
+27
+
+Personnages
+Cahalithe . .
+Rahu . . . . .
+Irraka . . . .
+Elodothe . . .
+Ithaeur . . . .
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+3 L’histoire
+3.1 Informations a` dire aux PJ en d´ebut de
+3.1.1 Le territoire . . . . . . . . . . .
+3.1.2 Les esprits . . . . . . . . . . . .
+3.1.3 Pour les personnages . . . . . .
+3.1.4 Les ´equipements . . . . . . . .
+3.2 La chasse sacr´ee . . . . . . . . . . . . .
+3.3 La peur avance . . . . . . . . . . . . .
+3.4 Monstre Sous le lit . . . . . . . . . . .
+3.5 Les l´esions . . . . . . . . . . . . . . . .
+3.5.1 Dans le monde physique . . . .
+3.5.2 Dans l’hisile . . . . . . . . . . .
+3.6 La chouette crucifi´ee . . . . . . . . . .
+3.7 La messe . . . . . . . . . . . . . . . . .
+3.8 Pique-nique apr`es la messe . . . . . . .
+3.9 Le hurlement des Hidden Claws . .
+3.10 La rencontre avec Hidden Claws . .
+3.11 Pendant la tempˆete . . . . . . . . . . .
+1
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+partie (ou
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+
+.
+.
+.
+.
+.
+
+a`
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+
+rappeler)
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+`
+TABLE DES MATIERES
+3.12
+3.13
+3.14
+3.15
+3.16
+3.17
+3.18
+3.19
+3.20
+3.21
+3.22
+3.23
+3.24
+3.25
+3.26
+3.27
+3.28
+
+3.29
+
+Une meute de loup est retrouv´ee morte . . . . . . .
+La louve . . . . . . . . . . . . . . . . . . . . . . . .
+Tempˆete : les cons´equences . . . . . . . . . . . . . .
+Les Loups dans la ville . . . . . . . . . . . . . . . .
+Le s´enateur du Texas chasse . . . . . . . . . . . . .
+Sur les traces du Zi’ir . . . . . . . . . . . . . . . .
+Black Eclipse attaque . . . . . . . . . . . . . . . .
+Black Eclipse Vers son fils . . . . . . . . . . . . . .
+Fin possible . . . . . . . . . . . . . . . . . . . . . .
+Night Howler au secours ! ! . . . . . . . . . . . . . .
+La sc`ene de crime . . . . . . . . . . . . . . . . . . .
+3.22.1 Alternative : La hache n’est pas bris´ee . . .
+Chirurgie au Klaive . . . . . . . . . . . . . . . . . .
+Les enfants . . . . . . . . . . . . . . . . . . . . . .
+Le tableau dans la classe . . . . . . . . . . . . . . .
+Directeur de l’´ecole . . . . . . . . . . . . . . . . . .
+le cas Elisabeth Lecoeur . . . . . . . . . . . . .
+Le maire du village . . . . . . . . . . . . . . . . . .
+3.28.1 Qui est Christopher ? . . . . . . . . . . . .
+3.28.2 Le maire dans le monde des esprits . . . . .
+3.28.3 La maison du maire dans le monde physique
+3.28.4 Finir le maire . . . . . . . . . . . . . . . . .
+Les r´ecompenses . . . . . . . . . . . . . . . . . . . .
+
+2
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+4 En r´
+esum´
+e
+4.1 Raison de la pr´esence du Monster Under The Bed
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+27
+28
+28
+29
+29
+30
+30
+31
+31
+32
+32
+32
+32
+33
+33
+34
+34
+34
+35
+35
+35
+35
+36
+
+37
+. . . . . . . . . . . 37
+
+5 Annexes
+5.1 PNJ Importants . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.1.1 Les esprits mutants . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.1.2 Les assistants . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2 FAQ & incoh´erence . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2.1 Pourquoi il n’y a pas de sang ou de poudre d’argent quand on trouve
+la meute de loup ? . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2.2 Quels ´ev´enements sont ind´ependants de l’action des joueurs et quelle
+est la chronologie ? . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.2.3 La chronologie de la disparition de Thomas. . . . . . . . . . . . .
+5.2.4 Prise de libert´e avec les r`egles. . . . . . . . . . . . . . . . . . . . .
+5.3 Les r`egles homemade et cr´eation . . . . . . . . . . . . . . . . . . . . . . .
+5.3.1 Don : Peur Noire . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.3.2 Rituel : Douleur d’argent . . . . . . . . . . . . . . . . . . . . . . .
+5.3.3 F´etiche : Lame D´evoreuse . . . . . . . . . . . . . . . . . . . . . .
+5.4 Carte heuristique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+.
+.
+.
+.
+
+38
+38
+38
+39
+40
+
+. 40
+.
+.
+.
+.
+.
+.
+.
+.
+
+40
+40
+40
+41
+41
+41
+41
+41
+
+Table des figures
+3.1
+3.2
+
+Le territoire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Refuge de Tails . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+
+5.1
+
+Sch´ema du sc´enario d´efinissant l’ensemble des relations entre les diff´erents
+personnages. Image vectorielle r´ealis´ee avec le logiciel Rmindmap . . . . . . 42
+
+3
+
+TABLE DES FIGURES
+
+4
+
+Chapitre 1
+Introduction
+1.1
+
+Le sc´
+enario en quelques mots
+
+Les personnages vivent dans un petit village tranquille du Canada. Leur territoire est
+assez calme mais les esprits locaux sont tr`es m´efiants `a leur ´egard.
+Dans le but de prouver leur bonne foi, ils doivent r´eussir une ´epreuve. Malheuresement
+pour eux, l’´epreuve va ˆetre interrompu par l’arriv´ee d’un tr`es puissant esprit de peur.
+Cet esprit est attir´e sur le territoire par la peur que ressentent les enfants. Les joueurs
+devront comprendre l’ensemble des causes qui provoque cette peur et y mettre fin.
+Au cours de leur enquˆete, ils d´ecouvriront l’histoire de leur territoire.
+En effet, il y a de cela 10 ans environ ce territoire appartenait a` une meute.
+-L’alpha de cette meute (Black Eclipse ) perdit le contrˆole d’elle-mˆeme en apprennant
+l’enl`evement de son fils. Sous la rage, elle tua (totalement) l’esprit totem de sa meute
+dont le role ´etait de prot´eger son fils pendant une op´eration de la meute.
+Apr`es cet ´episode, les esprits du territoire n’ont plus voulu communiqu´e avec la meute
+qui avait trahi son totem. La meute s’est exil´ee plus a` l’ouest immediatement apr`es ces
+´ev´enements, laissant le territoire libre.
+Depuis quelques jours, Black Eclipse est revenue dans le village car elle a eut des
+visions du retour de son fils. Elle inspecte les chambres des enfants pour retrouver son
+fils. Sa pr´esence est l’une des causes majeures de peur car elle se montre aux enfants
+sous une forme surnaturelle.
+L’enl`evement fut l’oeuvre de Winter Mist , un ancien membre de le meute de Black
+Eclipse . Il souhaite se venger d’elle. La majorit´e des ´ev´enements constitue l’´etape
+num´ero deux de son plan de vengeance. Il n’a pas tu´e le fils de Black Eclipse mais l’a
+´elev´e et l’a int´egr´e dans sa meute.
+Tout r´ecemment, Thomas (le fils) a subit un rituel tr`es douloureux et destin´e `a lui faire
+perdre le controle. Une fois le rituel termin´e, Thomas fut lach´e dans l’ancien territoire
+de sa m`ere. Winter Mist s’arrangea pour envoyer des visions a` la m`ere. Son but est de
+la faire revenir dans la zone. Il attendra avec sa meute le meilleur moment pour passer a`
+l’attaque et utilisera (peut-etre) les joueurs comme alli´es dans sa vengeance.
+De surcroit, la peur des enfants est aussi aliment´ee par une jeune ´educatrice manipul´ee,
+une grosse tempˆete et une meute de loup cherchant de la nourriture aux abords du
+village. Pour finir, l’esprit de la ville de Chicago veut se venger de Peter (un PJ), et cela
+va ´egalement apporter son lot de confusion et de danger par l’interm´ediaire du maire du
+village. Enfin, si les joueurs ont bien fait leur travail, ils seront r´ecompens´es par un
+totem (esprit protecteur de meute).
+5
+
+CHAPITRE 1. INTRODUCTION
+
+1.2
+
+6
+
+Cadre du sc´
+enario
+
+Ce sc´enario a ´et´e ´ecrit pour la 71i`eme Nuit Tenebrae dont le th`eme ´etait l’enfance.
+Il a ´et´e jou´e dans divers ´ev´enements.
+— 71i`eme Nuit Tenebrae, le 18/02/2012 : Lien, cinq joueurs
+— Eclipse, Convention de JDR de La Lune Rousse de Rennes : Lien, deux parties,
+onze joueurs
+— RRX, Convention de JDR de Polytechnique 2012, deux parties, dix joueurs.
+— Les Joutes Du T´em´eraires (2012), convention de JDR de Nancy, cinq joueurs, :-)
+— Octogones, convention de JDR a` Lyon, deux parties, dix Joueurs.
+— Session priv´ee, cinq joueurs, Aout 2012.
+— Session priv´ee, cinq joueurs, F´evrier 2013.
+— Les Alchimistes Strasbourg, 4 joueurs, F´evrier 2014.
+— Ludesco,La Chaux-De-Fond, Suisse, trois joueurs, Mars 2014.
+Total de joueurs : cinquante-huit.
+
+1.2.1
+
+Que faire quand vous n’avait pas cinq joueurs
+
+L’id´eal est de jouer ce sc´enario avec cinq joueurs. L’id´eal se n’est pas toujours possible.
+´
+Il est envisageable de jouer ce sc´enario avec 3 ou 4 joueurs. Les personnages de Etoile
+Rouge , Sagesse Tenace et Sombre Bois sont les plus importants.
+En supprimer le personnage de Peter (Hurle Mort ), les intrigues qui gravitent autour
+de lui disparaitront. Le sc´enario sera plus court mais reste jouable.
+J’ai d´ej`a fait jou´e cette partie avec 6 joueurs. Le sixi`eme personnage ´etait un ithaeur
+vagabond qui a pay´e son droit de passage par l’execution du rite de la chasse sacr´ee.
+
+1.3
+
+L’univers de loup-garou : les d´
+echus
+
+Les loups-garous sont mi-humains mi-esprits loups. Il y a tr`es longtemps, `a une ´epoque
+que certains nomment la Pang´ee, P`ere Loup faisait r´egner l’ordre et l’´equilibre entre le
+monde physique et le monde des esprits.
+Conquise par son courage, M`ere Lune tomba amoureuse de lui et prit forme humaine
+pour le s´eduire. Elle donna naissance `a neuf enfants (les Premiers-N´es). De leur m`ere ils
+re¸curent la facult´e de changer de forme et de leur p`ere la force et l’instinct de chasseur.
+Le passage des si`ecles vit la naissance de plusieurs g´en´erations de loups-garous, dans
+lesquelles le pouvoir de P`ere-Loup se dilua. Une partie de sa meute r´ealisa qu’il ´etait
+trop faible pour les guider et lui proposa son aide, mais il la refusa. Alors ses enfants
+assassin`erent P`ere-Loup car il refusait de partager son fardeau avec le fruit de sa chair.
+Lorsqu’il re¸cut le coup mortel, son cri fut si puissant qu’il d´echira le monde. Depuis lors,
+Hisile, le monde des esprits, s’est ´eloign´e du monde physique.
+Les esprits en veulent aux loups-garous (urathas) car ils ont an´eanti leur paradis et sont
+parvenus a` tuer P`ere-Loup alors qu’eux n’y ´etaient jamais arriv´es. M`ere-lune maudit ses
+propres enfants pour les punir de leur crime et les rendit vuln´erables a` l’argent, le m´etal
+le plus pr´ecieux `a ses yeux.
+Au fil des si`ecles, elle all´egea la mal´ediction de ceux de ses enfants qui reprirent la tˆache
+de son bien-aim´e. Ces loups-garous l`a sont les gardiens de l’´equilibre entre le monde des
+esprits et le monde physique.
+
+CHAPITRE 1. INTRODUCTION
+
+1.3.1
+
+7
+
+L’hisile
+
+` l’exception des humains, dont les
+Une nuit ´eternelle r`egne sur le monde des esprits. A
+´emotions l’alimentent, chaque ´el´ement du monde physique y trouve son reflet. Les
+esprits peuvent ˆetre des concepts comme la violence, la jalousie ou l’app´etit, ou bien ˆetre
+le reflet d’objets ou d’animaux, comme une porte ou un renard.
+Les loups-garous sont les seuls ˆetres autoris´es a` passer d’un monde a` l’autre.
+
+1.3.2
+
+Les atouts d’un loup-garou
+
+Quand je fais jouer ce sc´enario `a des d´ebutants, je pr´ecise les avantages d’etre
+loup-garou (voir les r´egl`es du jeu).
+— Les 5 formes : humaine, presque humaine, Loup-garou, Presque loup, loup.
+— Locus : portail pour passer du monde physique au monde des esprits, c’est le
+coeur d’un territoire loup-garou et ´egalement la source de leur ´energie magique
+(l’essence).
+— R´eg´en´eration : Le corps des loups-garous est plus r´esistant qu’un humain, les
+blessures se soignent bien plus vite.
+— Tribu : un groupe de loups-garous qui partage une meme philosophie de vie. Il en
+existe cinq.
+
+1.3.3
+
+Les ennemis
+
+— Les esprits : leur but est de grandir le plus possible, pour cela ils sont prets a`
+tout.
+— Les purs : Loups-garous qui refus`erent de prendre part a` la mort de P`ere-Loup et
+qui refusent de maintenir l’´equilibre.
+— Humains : ils ignorent existence des loups-garous. S’ils la d´ecouvrent, ils auront
+des intentions hostiles.
+
+1.3.4
+
+Serment de la Lune
+
+Un loup-garou d´echu a pret´e ce serment. C’est un ensemble de r`egles (libre
+d’interpr´etation) `a respecter pour vos joueurs.
+— Les loups doivent chasser
+— Le peuple ne tue pas le peuple
+— Le faible honore le fort, Le fort respecte le faible.
+— Respecte ta proie
+— Le peuple doit vivre parmi les humains
+— Ne mange pas de chair humaine ou de loup
+— Le troupeau ne doit pas savoir
+
+CHAPITRE 1. INTRODUCTION
+
+1.4
+1.4.1
+
+Les meutes du sc´
+enario
+La Meute PJ : Night howlers
+
+´
+Etoile
+Rouge : Lynn Ethwings : institutrice (Cahalithe, Griffe de Sang)
+Hurle Mort : Peter Torhes : sherif (Elodothe, Seigneur des Tempˆetes)
+Cendre Griffe : Luke Hereford : agriculteur (Rahu, Maˆıtre du Fer)
+Sombre Bois : Leonard J. Andrews : garde-chasse (Irraka, Chasseur des T´en`ebres)
+Sagesse Tenace : Jessica Ethwings : v´et´erinaire (Ithaeur, Os de l’Ombre)
+
+1.4.2
+
+La meute sympa mais pas trop : Sadness knives
+
+Black Eclipse : Floria Centerfold (Alpha, Rahu, Chasseur des T´en`ebres)
+Red Fangs : David McClurgan (Irraka, Chasseur des T´en`ebres)
+Vicious Pain : Helen Hallister (Cahalithe, Griffe de Sang )
+Fair Wolf : Marshall Hereford ( Elodothe, Seigneur des Tempˆetes.)
+Pointed Mind : Morris Kenneth (Ithaeur, Os de l’Ombre )
+
+1.4.3
+
+La meute m´
+echante mais polie : hidden claws
+
+Winter Mist : Paul Debian (Alpha, ancien membre de la meute des Sadness Knives,
+Ithaeur, Os de l’Ombre, Bale Hounds/ Cerb`ere)
+Forest’s Wrath : Clara Haltway (Rahu, Griffe de Sang)
+Unwise Wolf : Casey Jones (Irraka, Griffe de Sang, bless´e a` la main)
+Running Nightmare : Garry Oakman (Elodoth, Seigneur des Tempˆetes.)
+
+8
+
+Chapitre 2
+Les Personnages
+
+9
+
+CHAPITRE 2. LES PERSONNAGES
+
+2.1
+
+10
+
+Cahalithe
+
+Nom : Lynn Ethwings
+Origine : Canada
+Auspice : Cahalithe
+Tribu : Griffes de Sang
+Profession : institutrice
+´
+Nom de guerre : Etoile
+Rouge
+Age : 24 ans
+Histoire : Tu es une jeune femme plutˆot timide issue d’une famille riche. Tu as fait des
+´
+´etudes d’art et lettres qui t’ont permis de voyager en Europe, aux Etats-Unis
+et
+en Asie.
+Tu t’es install´ee a` New York apr`es tes ´etudes, pour d´ebuter une carri`ere de
+peintre. Tes œuvres ont rapidement ´et´e remarqu´ees. Elles d´ecrivaient souvent un
+lieu sombre et des formes ´etranges. Une atmosph`ere angoissante suintait de ton
+travail.
+C’est `a peu pr`es `a ce moment que ta sœur aˆın´ee a p´et´e un cˆable ; elle disparut et
+ne r´epondit plus a` tes appels.
+Une semaine avant le vernissage d’une exposition dans une galerie de la ville, elle
+vint te voir pour te demander d’arrˆeter te peindre tes rˆeves, car tu r´ev´elais des
+choses qui ne pouvaient pas ˆetre d´evoil´ees au public. Tu ne compris pas et
+l’envoya valser.
+La veille de l’ouverture de l’exposition, tu la surpris en train de d´etruire tes
+toiles. Tu te souviens que cela te plongea dans un ´etat de fureur. Tu te r´eveillas
+le lendemain, dans ton appartement, dont ta sœur avait vid´e le frigo.
+Avec un large sourire, elle t’expliqua que tu ´etais devenue une louve-garou et
+vous partˆıtes a` la recherche de semblables. Tu as ainsi d´emontr´e un talent certain
+pour localiser des individus proche du Premier Changement, aidant ta sœur a`
+fonder sa meute. En fin de compte, vous avez ´elu domicile dans un petit village
+perdu dans la campagne canadienne, o`
+u tu es devenue institutrice.
+Ces derniers temps, tes rˆeves mettent en sc`ene des pluies torrentielles, des loups
+massacr´es ou une chouette qui appelle `a l’aide.
+Le plus ´etrange, ce sont tes absences. Ce samedi matin, tu t’es r´eveill´ee dans ta
+salle de classe. Tu n’as pas compris ce que tu faisais l`a et tu ne te souviens plus
+du tout des ´ev´enements de la nuit d’hier. Ces trous de m´emoire sont de plus en
+plus longs et inqui´etants.
+Avis :
+Hurle Mort : un filou assez sympathique mais qui traˆıne de grosses valises, un
+jour cela vous p´etera `a la gueule.
+Cendre Griffe : un type simple qui incarne la force brute de la meute. Il est
+int´eressant mais son manque de culture est parfois lourd.
+Sombre Bois : son cot´e solitaire pourrait coˆ
+uter cher a` la meute. Il est efficace
+dans son m´etier et dans la meute.
+Sagesse Tenace : ta sœur, elle est la cl´e de voˆ
+ute de cette meute, son aˆme. Tu
+regrettes un peu de n’ˆetre pas comme elle.
+Fiche de perso : http://nwod.rolisteam.org/fr/pdf/14
+
+CHAPITRE 2. LES PERSONNAGES
+
+11
+
+Dons
+Les bons mots
+(R´eflexe) - +2 en social, passif pour encourager ou apaiser
+— jet: Aucun
+— Cout: Aucun
+— Page: 117
+Cri de ralliement
+(Instantan´ee) - Redonne un point de volont´e `a ses alli´es pendant la bataille
+— jet: Manipulation + Expression + Gloire
+— Cout: 1 volont´e
+— Page: 119
+Canaliser la rage
+(Refl`exe) - Chaque succ`es permet de sacrifier un tour pass´e en forme gouru pour obtenir
++1 en force ou en dext´erit´e.
+— jet: Vigeur + Survie + Puret´e
+— Cout: 1 point d’essence
+— Page: 142
+
+CHAPITRE 2. LES PERSONNAGES
+
+2.2
+
+12
+
+Rahu
+
+Nom : Luke Hereford
+Origine : Canada
+Auspice : Rahu/Guerrier
+Tribu : Maitre du fer
+Profession : Garagiste / Agriculteur
+Nom de guerre : Cendre Griffe
+Age : 22 ans
+Histoire : Fils de m`ere c´elibataire, tu as toujours v´ecu avec peu de moyen. Ta m`ere
+enchaˆınait les petits boulots : serveuse, femme de m´enage etc.
+Ton p`ere a quitt´e ta m`ere, bien avant ta naissance. Il est probablement mort
+depuis
+Quand tu avais aux alentours de quinze ans, Ta m`ere est tomb´ee malade d’une
+leuc´emie. Avec vos ressources limit´es, elle ne pouvait pas se soigner correctement.
+Tu as commenc´e a` faire des petits boulots pour l’aider `a payer ses soins mais cela
+suffisait `a peine pour la bouffe et le loyer. Elle est morte apr`es seulement une
+ann´ee. Tu t’es enfonc´e dans l’alcool et le travail. Un beau jour, tu as re¸cu un
+courrier d’un notaire. Le message parlait de succession. Tu h´eritas des biens de
+ton grand-p`ere paternel. Il avait une vieille baraque dans un village canadien
+nomm´e Springfield, un peu d’argent et des terres agricoles. Tu y es all´e ravi de
+recevoir un tel cadeau. Ta m`ere t’avait toujours tenu ´eloign´e de la famille de ton
+p`ere.
+Dans le village, tu as ouvert ton garage. Tu r´epares les engins agricoles ou les
+voitures. Tes affaires marchent pas trop mal. Lors d’une balade sur tes terres
+pour s´electionner des arbres, tu as ´et´e mordu par un loup. Bizarrement, tu n’as
+pas ressenti une ´enorme douleur.
+La nuit suivante, quatre personnes sont entr´ees chez toi. Ils t’ont retenu en otage
+et t’ont parl´e de divers ´el´ements pour t’´enerver. Visiblement ils connaissaient
+bien des choses sur toi. Quand ils ont ´evoqu´e ta m`ere, cela n’a pas loup´e, tu t’es
+´enerv´e ; eux aussi. Tu te souviens vouloir les d´efoncer. Visiblement, cela ne s’est
+pas pass´e ainsi.
+Ils se sont excus´es mais c’´etait la seule fa¸con pour eux de te r´eveiller. Ils t’ont
+expliqu´e que tu ´etais un loup-garou.
+´
+Tu as ainsi rencontr´e Hurle Mort , Etoile
+Rouge , Sombre Bois et Sagesse
+Tenace . La meute s’est install´ee dans ton village. Tu as de bonnes relations
+avec les habitants, et surtout tu les connais depuis quatre ans maintenant.
+Avis :
+Hurle Mort : Il est marrant, il semble avoir un pass´e assez lourd, mais qui n’en
+a pas ? Puis, c’est un bon partenaire d’entraˆınement.
+´
+Etoile
+Rouge : Tr`es sympa, elle te casse un peu les pieds avec sa culture des
+villes. Elle devrait garder les pieds sur terre.
+Sombre Bois : Il est de bon conseil, un peu trop concentrer dans son travail
+(meute ou humain)
+Sagesse Tenace : Tu esp`eres sinc`erement ne jamais la d´ecevoir. Elle te fait un
+peu peur. C’est une bonne Alpha.
+Fiche de perso : http://nwod.rolisteam.org/fr/pdf/90
+
+CHAPITRE 2. LES PERSONNAGES
+
+13
+
+Dons
+Redresser
+(Instantan´ee) - redresse un objet, r´eduit les bosses, affecte jusqu’`a un metre carr´ee par
+tour
+— jet: aucun
+— Cout: 1 Point d’Essence
+— Page: 125
+Nuit Noire
+(Instantan´ee) - coupe les lumi`eres ´electriques dans une zone (200 m`etres carr´es par
+succ`es), la zone doit ˆetre en vue
+— jet: Astuce + Larcin + Ruse
+— Cout: 1 volont´e
+— Page: 146
+Clart´
+e
+(R´eflexe) - + 5 en initiative
+— jet: aucun
+— Cout: 1 Point d’Essence
+— Page: 137-136
+
+CHAPITRE 2. LES PERSONNAGES
+
+2.3
+
+14
+
+Irraka
+
+Nom : Leonard J. Andrews
+Origine : USA
+Auspice : Irraka
+Tribu : Chasseur des tenebres
+Profession : Garde chasse
+Nom de guerre : Sombre Bois
+Age : 19 ans
+Histoire : Tu es un jeune d´elinquant. Tu as ´et´e traˆın´e de foyers en orphelinats, tu n’as
+jamais pu tenir en place. Tu ne connais pas tes parents.
+Tes petits d´elits t’ont conduit en centre d’emprisonnement pour jeune (sorte de
+prison en plus doux). Tu as r´eussi `a t’´echapper plusieurs fois pour passer
+quelques nuits `a la belle ´etoile. Le cadeau apr`es ce genre de fugue, c’est un bon
+passage `a tabac en r`egle.
+Mˆeme ces avertissements ne t’empˆechaient pas d’y retourner.
+Les coups ´etaient de plus en plus puissant te laissant parfois quelques jours dans
+le coma. C’est l`a que tu as compris qu’il fallait fuir pour de bon. Tu t’es donc
+´echapp´e de la prison. Tu as ´et´e bless´e pendant l’op´eration. Tu as fini dans une
+grotte que tu avais d´ej`a rep´er´e dans une pr´ec´edente escapade. Les sensations
+´etaient si intense, tu pouvais entendre le moindre animal respirer, la pluie
+tombait sur le sol. Ta vitesse t’a beaucoup surpris ´egalement. Tu pensais ˆetre
+sauver en arrivant dans cette grotte mais ils t’ont retrouv´e. Tu as entendu
+s’approcher les gardiens, ils sont rentr´es dans ta grotte, tu as hurl´e ”Cassez
+vous !”. Bizarrement, ils l’ont fait. Tu as pu lire de la peur sur leur visage.
+` l’avant, deux filles :
+Le matin suivant, tu t’es r´eveill´e a` l’arri`ere d’une voiture. A
+´
+Sagesse Tenace et Etoile Rouge . Elles t’ont pris en charge, nourri et blanchi.
+Elles ont fait annuler les charges contre toi (aux vues des mauvais traitements).
+Elles t’ont aussi dit que tu ´etais un loup-garou. Vous avez fait un bout de chemin
+ensemble pour trouver les autres.
+Vous vous ˆetes install´e au Canada. Sur place, tu es devenu garde-chasse, officier
+des eaux et forˆet. Tu surveilles une partie du parc naturel national.
+Depuis quelques mois, tu fr´equentes Elisabeth Lecoeur, une ´educatrice venue du
+Qu´ebec.
+Avis :
+Hurle Mort : Un filou, assez sympa mais traˆıne de grosses valises, un jour cela
+vous p´etera a` la gueule.
+Cendre Griffe : Simple bonhomme, il est la force de frappe de la meute. Un
+peu trop cavalier `a ton goˆ
+ut, il ne prend pas assez de recul sur les ´ev´enements.
+´
+Etoile Rouge : Ses rˆeves sont une vraie b´en´ediction pour la meute. Pourtant,
+elle semble porter le deuil de sa nouvelle nature, tu crains qu’elle soit trop faible
+pour assurer son devoir envers la meute.
+Sagesse Tenace : Tu l’admires, elle d´egage un vrai charisme, tu serais prˆet `a la
+suivre n’importe o`
+u.
+Fiche de perso : http://nwod.rolisteam.org/fr/pdf/15
+
+CHAPITRE 2. LES PERSONNAGES
+
+15
+
+Dons
+Communion avec la forˆ
+et
+(Instantan´ee) - Transe de communion avec la forˆet, le personnage voit 500m a` la ronde,
+et chaque succ´es ajoute 100m et des informations. Le personnage est inconscient de ce
+qui se passe dans r´eellement autour de lui. Il ne peut d´ecrire ce qu’il voit quand le don
+est actif. Il peut ainsi apprendre la pr´esence d’intru avec un succ`es, avec trois, il peut
+apprendre le nombre, le sexe et l’esp`ece.
+— jet: Manipulation + Survie + Ruse
+— Cout: 1 point d’essence
+— Page: 130-131
+Pieds de Brume
+(R´eflexe) - Mode passif : -1 pour te pister, Mode actif : -3 (depense d’essence)
+— jet: aucun
+— Cout: 1 point d’essence
+— Page: 114
+Diriger le feu
+(Instantan´ee) - Contrˆole un feu, mais ne le cr´ee pas. Le feu peut servir pour attaquer
+une personne ou tous simplement empˆecher le feu de brˆ
+uler une forˆet ou augmenter la
+temp´erature pour d´etruire toute trace. Pour un contrˆole fin le test subit un malus de 2
+— jet: Force + Survie + Gloire
+— Cout: 1 point d’essence
+— Page: 109
+
+CHAPITRE 2. LES PERSONNAGES
+
+2.4
+
+16
+
+Elodothe
+
+Nom : Peter Torhes
+Origine : Chicago
+Auspice : Elodothe/juge
+Tribu : Seigneur des tempˆetes
+Profession : Sh´erif
+Nom de guerre : Hurle Mort
+Age : 35 ans
+Histoire : Tu ´etais un avocat d’affaires a` Chicago. Tu faisais du bon travail et tu as
+plong´e la tˆete baiss´ee dans le monde de la nuit de cette ville.
+Tu as gagn´e quelques affaires qui semblaient perdue d’avance pour des gens du
+milieu. Tu as gagn´e du respect pour cela. Tu as eu acc`es a` de nombreux loisirs :
+drogue, parties fines, etc. Lors d’une de ces soir´ees, les deux hˆotesses ont
+commenc´e a` te faire un peu mal. Tu as vu une des deux sortir ses crocs. Ce qui
+s’est pass´e par la suite, tu ne t’en souvient pas. D’apr`es les informations que tu
+as eu apr`es coup, l’organisatrice de la soir´ee a ´et´e tu´e comme une amie `a elle.
+´
+C’est apr`es cet ´ev´enement que tu as rencontr´e Etoile
+Rouge , Sagesse Tenace
+et Sombre Bois .
+Tu venais de subir ton premier changement. Tu es donc devenu loup-garou alors
+que tu t’amusais avec deux personnes tr`es importantes de Chicago. Ils t’ont
+accueilli dans leur meute et ont camoufl´e tes bˆetises.
+En bouquet final, tu as vol´e beaucoup d’argent a` tes clients. Tu es parti avec
+´
+Etoile
+Rouge , Sagesse Tenace et Sombre Bois pour le Canada. Vous vous
+ˆetes install´e dans le petit village de Springfield. Ce petit village canadien est un
+endroit parfait.
+Tu es devenu le sh´erif de la ville. Ton boulot est tr`es administratif, mais tu peux
+faire un peu comme tu veux niveau horaire. Au sein de la meute, tu passes pour
+le vilain petit canard, tu aimerais prouver le contraire.
+Avis :
+´
+Etoile
+Rouge : fille coinc´ee, dans son monde, elle te snobe clairement.
+Cendre Griffe : Un jeune qui a de la suite dans l’id´ee, tu es un peu jaloux.
+Sombre Bois : Il se tuera au travail. Il devrait profiter plus des joies de la vie.
+Sagesse Tenace : tr`es surprenante, elle est ton seul vrai soutien dans la meute.
+Fiche de perso : http://nwod.rolisteam.org/fr/pdf/91
+
+CHAPITRE 2. LES PERSONNAGES
+
+17
+
+Dons
+Changement partiel
+(Instantan´ee ou R´eflexe) - permet de changer une partie de son corps dans la forme de
+son choix : Les bras du gauru ou le museau du loup
+— jet: Vigueur + Survie + Instinct primal
+— Cout: [1 point d’essence]
+— Page: 121
+Voix autoritaire
+(Opposition, r´esistance r´eflexe) - Donne un ordre a` 1, 2 ou 3 personnes, l’ordre prend la
+forme d’une phrase compl`ete : cache ses cadavres dans la ravin pr`es de la rivi`ere , Les
+cibles ob´eissent pendant 5 minutes par succ`es. Un malus de -1 par personne au-del`a de
+la premi`ere est appliqu´e.
+— jet: Manipulation + Intimidation + Honneur vs R´esolution + calme
+— Cout: 1 Point d’Essence
+— Page: 107
+Aura de trˆ
+eves
+(Instantan´ee) - Projette une aura de calme, efficace avant que le combat commence. Les
+personnes doivent d´epenser un point de volont´e pour commettre un acte violent
+— jet: Manipulation + Persuation + Honneur
+— Cout: 1 Point d’Essence
+— Page: 113
+
+CHAPITRE 2. LES PERSONNAGES
+
+2.5
+
+18
+
+Ithaeur
+
+Nom : Jessica Ethwings
+Origine : Canada
+Auspice : Ithaeur/Shaman
+Tribu : Os de l’ombre
+Profession : V´et´erinaire
+Nom de guerre : Sagesse Tenace
+Age : 26 ans
+Histoire : Pendant tes ´etudes, tu as subi ton premier changement apr`es avoir
+surpris ton mec avec un homme. Tu les as tu´es tous les deux. La meute locale
+s’est charg´e d’´etouffer l’affaire (plus exactement de la faire brˆ
+uler).
+Ils t’ont appris ce qu’´etait les loups-garous. Pouss´ee par une envie de
+comprendre, tu as enquˆet´e sur ta famille pour y voir quelques irr´egularit´es : des
+personnes manquantes...
+Tes voyages ont permis de rencontrer d’autres loups-garous.
+Tu as compris que la meute d’accueil n’´etait pas vraiment honnˆete avec toi. La
+r´ealit´e fut r´ev´el´ee par la suite : c’´etait des purs. Apr`es ta p´eriode crise d’identit´e,
+tu as d´ecid´e de reprendre contact avec ta soeur. Il est possible qu’elle ait un rˆole
+a` jouer. En effet, tu l’as retrouv´e une semaine avant le d´ebut de son exposition
+dans une galerie New-Yorkaise.
+Tu lui as demand´e de ne pas faire cette exposition. Ces peintures repr´esentaient
+clairement le monde des esprits.
+Tu avais peur que tes ennemis l’attaquent. Pour la prot´eger, tu as d´etruit ses
+oeuvres. Tu n’avais jamais vu en col`ere a` ce point. Elle s’est transform´ee et vous
+vous ˆetes battues. Elle a bien faillit te tuer, ton exp´erience t’a sauv´e. Le
+lendemain, tu lui as tout expliqu´e. Vous ˆetes parties ensuite `a la recherche d’un
+territoire et de nouveaux fr`eres de meute.
+Finalement vous ˆetes arriv´es dans le petit village de Springfield au Canada.
+Avis :
+Hurle Mort : Il sait lire les gens et n’est pas le dernier dans les combats.
+Cependant son besoin de richesse et de gloire pourrait un jour lui ˆetre dangereux
+pour la meute.
+Cendre Griffe : Petit dernier de la meute. Il te semble encore trop inconscient
+des dangers qui vous entourent.
+Sombre Bois : Toujours fid`ele au poste. Tu as une bonne amiti´e avec lui.
+´
+Etoile
+Rouge : Ta sœur, tu dois la prot´eger. Elle est trop fragile pour ce
+monde. Elle t’a bien aid´e pour trouver des camarades de meute. Tu sais bien
+qu’elle prend sa nature comme un fl´eau.
+Fiche de perso : http://nwod.rolisteam.org/fr/pdf/35
+
+CHAPITRE 2. LES PERSONNAGES
+
+19
+
+Dons
+Langue animale
+(r´eflexe) - Permet de parler avec les animaux pendant une minute avec un animal.
+— jet: Manipulation + Animaux + Puret´e
+— Cout: 1 point de volont´e
+— Page: 130
+Sentir la malice
+(Opposition, r´esistance reflexe.) - Identifier des sentiments violents : haine, col`ere.. chez
+un individu
+— jet: Intelligence + Empathie + Sagesse contre Calme et instinct primal
+— Cout:
+— Page: 135
+T´
+emoignage de cadavre
+(Instantan´ee) - Le cadavre d´ecrit ce qu’il a vu depuis sa mort et les infos ne peuvent pas
+ˆetre plus ancienne que 24h
+— jet: Manipulation + Occulte + Puret´e
+— Cout: 1 point d’essence
+— Page: 129
+
+Chapitre 3
+L’histoire
+3.1
+
+Informations `
+a dire aux PJ en d´
+ebut de partie
+(ou `
+a rappeler)
+
+20
+
+CHAPITRE 3. L’HISTOIRE
+
+3.1.1
+
+21
+
+Le territoire
+Figure 3.1 – Le territoire
+
+Il est important de pr´esenter le territoire aux joueurs. C’est un ´el´ement primordial du
+sc´enario. Il est recommand´e de donner une copie de ce plan `a vos joueurs (vous pouvez
+` l’ouest, il y a le parc naturel national, en son centre, il
+en faire la copie au crayon). A
+existe une zone interdite. Un esprit tr`es puissant prot`ege cette zone.
+Au nord-ouest, il y a une mine d’uranium `a deux heures de route. Au nord du village,
+un lac et la grande route. L’est est occup´e par des grandes fermes et des exploitations
+agricoles. La limite Est du territoire est `a 70km du village : une chaˆıne de montagnes.
+La grande route traverse la chaˆıne par un col.
+Au sud du village, le ruisseau prend sa source. Cela monte dans les montagnes.
+
+CHAPITRE 3. L’HISTOIRE
+
+3.1.2
+
+22
+
+Les esprits
+
+Les esprits sur le territoire sont traumatis´es et n’aideront pas les PJs. Ils sont install´es
+depuis un peu plus d’un an et ils n’ont pas de totem (esprits protecteur d’une meute).
+Sagesse Tenace n’a pas voulu forc´e un esprit `a devenir le totem de la meute. Elle
+attend qu’il y est un candidat volontaire. Il y a quelques jours, l’esprit gardien de la
+forˆet qui r´eside dans la zone interdite a` envoyer un ´emissaire a` Sagesse Tenace .
+L’esprit Gardien demande a` la meute de prouver sa valeur en r´ealisant le rituel de
+Chasse Sacr´ee. Sagesse Tenace a accept´e le d´efi. Le rituel a lieu trois jours apr`es la
+visite de l’´emissaire. Ce d´efi est le premier geste des esprits locaux pour reconnaˆıtre la
+puissance de la meute.
+
+3.1.3
+
+Pour les personnages
+
+Il est bon de rappeller aux joueurs les quelques informations suivantes en priv´ee.
+´
+— Etoile
+Rouge : Il est utile d’aborder la questions des absences, avec le joueurs.
+— Hurle Mort : Il souhaite devenir maire. La campagne commence d’ici quelques
+semaines. Il suit des cours de fran¸cais et gomme sont cˆot´e am´ericain.
+— Cendre Griffe : Il peut ˆetre utile de rappeler un peu l’histoire de son perso : Son
+p`ere mort sans qu’il ne l’ait jamais connu. Son boulot et ses amis dans le village.
+— Sombre Bois : un s´enateur am´ericain et sa famille vont venir, lundi, pour
+chasser. Cela demande un petit plus de s´ecurit´e. Ils souhaitent tuer quelques gros
+gibiers.
+— Sagesse Tenace : Elle a invit´e sa meute, ce soir pour le rituel. Le joueur de
+Sagesse Tenace commencera la partie par son RP.
+
+3.1.4
+
+Les ´
+equipements
+
+Je n’ai pas l’habitude de dire aux joueurs qu’ils ont de l’´equipement, s’il y pense tant
+mieux sinon il se d´ebrouille sans.
+´
+— Etoile
+Rouge : Aucun
+— Hurle Mort : Voiture et possibilit´e d’avoir une arme a` feu.
+— Cendre Griffe : Pick Up, tracteur, et pleins d’outils dans son garage.
+— Sombre Bois : Pas d’armes a` l’exception un couteau.
+— Sagesse Tenace : Moto, klaive et clinique v´et´erinaire.
+
+3.2
+
+La chasse sacr´
+ee
+
+Le sc´enario commence un samedi soir. Les Pj effectuent le rite de la Chasse Sacr´ee. Ils
+chassent un esprit renard/ruse : Tails.
+L’esprit ressemble `a un renard avec les pattes avants bodybuild´ees. Il a un large sourire,
+tr`es large un peu a` la fa¸con du Chat du Cheshire. La chasse a lieu dans le monde des
+esprits. Tails part en avance comme le veut le rituel. Il est facile de suivre sa trace (
+Jet: Astuce + calme) .
+En remontant la piste, ils arrivent aux pieds d’un esprit d’arbre mort. Il semble
+sym´etrique. Les branches et les racines apparantes forment un sch´ema assez proche.
+L’odeur disparaˆıt dessous les racines. Il est possible de passer sous les racines mais
+seulement en forme de loup ( Jet: Se transformer : Vigueur + survie + instinct
+primal) . Le renard attend dans le creux du tronc, il fera un grand sourire au loup sous
+
+CHAPITRE 3. L’HISTOIRE
+
+23
+
+Figure 3.2 – Refuge de Tails
+
+lui puis il partira en courant sur une branche et fera un saut g´eant. Faite une course
+poursuite selon les r`egles du monde des t´en`ebres. Le renard a 23 en vitesse, il a une
+avance de 10 succ`es. Il jette 7 d´es pour la course. Il est normalement tr`es difficile pour
+les joueurs de le rattraper. Laissez les esp´erer.
+Apr`es un ou deux tours de course, le renard saute au dessus d’une crevasse. Les
+loups-garous ne peuvent pas voir ce qu’il y a dans la crevasse, ni sa largeur. Les joueurs
+peuvent essayer d’estimer la largeur a` sauter ( Jet: Astuce + Athl´
+etisme(saut))
+mais en faisant, ils arretent de courrir. Le trou fait trois metres de large (Trois succ`es
+pour le franchir). C’est le monde des esprits, il peut y avoir pleins de trucs...En r´ealit´e, il
+n’y a que l’esprit d’un ruisseau.
+L’obstacle devrait donner un peu d’avance `a Tails.
+Les joueurs vont probablement r´efl´echir `a deux fois avant de sauter la crevasse. Il est
+possible de trouver en amout ou en aval des points plus ´etroits.
+Si un personnage tombe, il est mouill´e par l’esprit du ruisseau, c’est tout.
+Apr`es ce petit contre-temps, ils se remettent sur la piste du renard.
+A ce moment pr´ecis, ils ressentent la fin du rituel. Le rituel est cass´e, rompu ou inactif.
+Le rituel ne s’est pas termin´e `a cause d’eux.
+L’explication la plus plausible concerne Tails.
+
+CHAPITRE 3. L’HISTOIRE
+
+3.3
+
+24
+
+La peur avance
+
+Ils retrouveront le renard compl`etement fig´e (par la peur), il tremble et s’est r´efugi´e sous
+un rocher. Il est tr`es difficile de lui parler (-7 aux jets sociaux). Il est p´etrifi´e. Les
+joueurs doivent le comprendre. Un jet en astuce + survie permet de remarquer que
+l’ensemble des esprits environnant est dans le mˆeme ´etat que le renard.
+Le meilleur comprend ´egalement que cela dessine une trajectoire vers le village des
+joueurs. Cela vient de l’ouest. Les joueurs peuvent suivrent la trajectoire, ils rencontrent
+un esprit (avan¸cant lentement).
+
+3.4
+
+Monstre Sous le lit
+
+L’esprit ressemble a` un tapis de flammes noires. Il y a deux yeux et une bouche dans ses
+flammes. Il traite les joueurs d’incomp´etents : Si je viens ici, c’est que votre territoire
+me plaˆıt, vous ˆetes trop nuls pour le comprendre . Si les personnages essaient de
+s’approcher, ils doivent r´eussir `a se contrˆoler : ( Jet: R´
+esolution + Calme) , s’ils
+´echouent alors ils passent en rage mortelle, et fuient. Le jet doit ˆetre fait tous les 2
+m`etres et le malus augmente a` chaque fois.
+Distance malus
+20m
+Aucun
+18m
+-1
+16m
+-2
+14m
+-3
+12m
+-4
+etc
+...
+Cela repr´esente la capacit´e passive de l’esprit. Il poss`ede des moyens plus actifs pour
+provoquer la peur : des b´en´edictions ou son influence. J’utilise personnellement la
+discipline Cauchemar de Vampire : Le Requiem pour d´ecrire les effets des pouvoirs
+de l’esprit (Attention, c’est un esprit aucun lien dans le sc´enario avec des Vampires ).
+´
+Seule, Etoile
+Rouge n’a pas besoin de faire le jet. L’esprit veut lui parler (seul a` seul).
+Il l’entoure de flammes noires, et la remercie (en priv´e) pour son travail, elle gagne un
+don Peur Noire qui p´etrifie (de peur) quelqu’un. La personne est lib´er´e `a la
+d´esactivation du pouvoir ou s’il subit des d´egˆats (plus d’information voir section 5.3.1).
+A ce moment de la partie, les joueurs auront certainement mis a` nue partiellement la
+nature de l’esprit : la peur. Cependant, ils ne comprendront pas les raisons de sa venue.
+Ils chercheront a` comprendre et enquˆeteront. S’ils enquˆetent dans la forˆet (mode
+physique ou spirituel), ils n’apprendront rien. S’ils trainent trop, il est souhaitable de
+leur rappeler leur contrainte temps : Nuit du Samedi au dimanche. Le lendemain, il y a
+la messe au temple protestant. Le rendez-vous incontournable pour la v´et´erinaire de la
+ville, du garagiste, du futur maire et actuel Sh´erif, du garde chasse et d’une institutrice.
+S’ils enquˆetent dans le village, ils d´ecouvrent les l´esions ( Jet: Astuce + Calme) (voir
+chapitre suivant).
+Si les joueurs retournent dormir, alors reportez-vous au chapitre : La chouette crucifi´ee
+(cf. 3.6).
+
+CHAPITRE 3. L’HISTOIRE
+
+3.5
+3.5.1
+
+25
+
+Les l´
+esions
+Dans le monde physique
+
+Le groupe inspecte donc le village. Les lumi`eres de certaines maisons s’allument (il est
+deux ou trois heures du matin). Elles restent allum´ees 5-10 minutes, puis s’´eteignent,
+puis une autre maison pour ensuite revenir a` la premi`ere. D´ecrivez un sch´ema un peu
+chaotique. En r´ealit´e, les parents se levent pour r´econforter leurs enfants apr`es
+d’horribles cauchemars.
+Vous pouvez, si vous le souhaitez, d´ecrire la chose de fa¸con a` faire croire que le village
+est victime d’un famtˆome ou d’une quelconque entit´e surnaturelle qui allume les
+lumi`eres. Si les joueurs d´ecident de parler a` une famille, ou `a un enfant.
+Le p`ere de la famille les accueillera avec un fusil. Quand les joueurs ´enonceront le nom
+de leurs personnages ou que le pere verra les personnes cela ira mieux. C’est un petit
+village, tout le monde se connaˆıt. Le p`ere dira que son fils, sa fille ou les deux ont fait de
+mauvais rˆeves. Les parents ne demanderont qu’`a aller se coucher et dirons aux PJ : ”A
+demain matin `a la messe”. Le th`eme des rˆeves est tr`es fortement orient´e vers les loups
+(monstres).
+L’´etape d’observation ou d’´ecoute d’une maison est l’occasion id´eal pour un enfant de
+regarder par la fenˆetre. Les enfants pourraient voir un personnage (voir pire un
+personnage en forme de loup). Les cons´equences dans le contexte actuel serait assez
+grave. La vue des joueurs pourrait allimenter la peur de l’enfant et aggraver la l´esion de
+sa maison. Si vous d´ecidez de laisser rentrer les pj dans une maison, ils se sentiront mal
+a` l’aise. La raisonnance de l’essence dans les maisons est fortement charg´ee d’´emotions
+n´egatives (peur).
+
+3.5.2
+
+Dans l’hisile
+
+Il existe un seul locus sur leur territoire. Ils doivent donc y aller pour outrepasser. Dans
+le monde des esprits, le village est enfum´e. La fum´ee est ´emise par des maisons du
+village. Cette fum´ee tapisse le sol, le rendant grisˆatre et sombre. Pour s’approcher, les
+joueurs devront n´egocier avec l’esprit d’une maison. L’esprit de la maison demandera
+aux loups-garous de r´egler le probl`eme pour les laisser passer (ou de l’essence, au choix
+du mj).
+Une fois a` l’int´erieur, la source de la fum´ee est ´evidente. Elle vient de l’´etage.
+La fum´ee descend comme une cascade de l’escalier. Les murs suintent du liquide noir. Le
+sol est craquel´e, comme de la peau brˆ
+ul´ee.
+Il faut essayer de poser une ambiance assez horreur. Les joueurs peuvent remonter la
+source de la fum´ee. Cela les guident vers une chambre (d’enfant), bizarrement la
+chambre n’est pas enfum´ee. C’est comme l’œil du cyclone. A l’int´erieur, il y a 3 esprits :
+un esprit de sommeil, un esprit de pompier et un esprit d’indien. Ils ont les yeux
+complement rouge et la peau d´eform´ee. Ils attaquent a` vue la meute. Le combat est
+assez facile cependant les joueurs ne seront pas plus avanc´es. S’ils font plusieurs maisons,
+ils d´ecouvriront la mˆeme chose (changez un peu la description des esprits dans chaque
+maison, mais tous ont mut´e et sont agressifs). Les d´etruire n’arrange rien
+(Caract´eristiques des esprits voir 5.1.1).
+
+CHAPITRE 3. L’HISTOIRE
+
+3.6
+
+26
+
+La chouette crucifi´
+ee
+
+En rentrant chez lui, Hurle Mort d´ecouvre une chouette crucifi´ee sur la porte de la
+maison. Elle a ´et´e clou´e a` sa porte vivante et est morte en se vidant de son sang. C’est
+une esp`ece prot´eg´ee. Sagesse Tenace ou Sombre Bois pourront le lui dire.
+G´erez la chose avec le joueur. Il peut appeler les membres de sa meute ou g´erer cela tout
+seul. S’il enquˆete, il trouvera des traces de pas et la pr´esence d’un voiture devant chez
+lui, rien de plus.
+
+3.7
+
+La messe
+
+Le dimanche matin, la ville enti`ere se donne rendez-vous au temple pour la messe et se
+montrer (D´etailler un peu la relation religion/loup-garou). Le maire accueille l’ensemble
+des personnes avec son neveu Christopher . Il pr´esente son neveu au village. Il vient
+effectu´e un stage. Le maire est clairement en campagne ´electorale, avec 3 mois
+d’avances. Ils invitent tout le monde a` un pique-nique apr`es la messe. Le serment du
+pasteur ´evoque dieu comme un berger, qui prot`ege ses moutons contre les loups. Si vous
+vous y connaissez, faites-vous plaisir.
+Des trucs clochent, les personnages peuvent remarquer quelques points :
+Le maire de la ville est tr`es bien habill´e (d’habitude, c’est plutˆot un bouseux en
+salopette).
+L’ambiance n’est pas trop a` la joie ( Jet: Astuce + Empathie [cach´
+e] )
+1 succ`es = Truc louche,
+2 succ`es = les gens sont fatigu´es et stress´es,
+3 succ`es = les enfants sont absent, cela manque de bruit.
+Musique : Gospel ou l’hymne du Canada.
+
+3.8
+
+Pique-nique apr`
+es la messe
+
+Apr`es la messe, le pique-nique commence, le maire fait un discours. Les assistants de
+Hurle Mort lui glisse un petit mot ainsi qu’au maire. Le jeune assistant de Sombre
+Bois lui transmet ´egalement un fax. C’est un avis de tempˆete sur la ville. Elle
+commencera ce soir vers 20h et durera jusqu’`a 2h du matin. Le maire prend un
+m´egaphone pour communiquer l’information. Tout le monde part pour aller barricader
+sa maison. Les joueurs doivent faire pareil. La copine de Sombre Bois lui demandera
+de l’aide. Cendre Griffe sera aussi souvent sollicit´e. Faite leur g´erer cela : ( Jet:
+Astuce + Artisanat) .
+Vous pouvez placer quelques ´ev´enements mineurs : Des villageois informent les joueurs
+qu’il y a des traces de loup un peu au sud du village (vers la montagne). C’est trop tˆot
+dans la saison pour les voir si bas des montagnes. Puis vient le gros ´ev´enement, les
+Hidden Claws .
+
+3.9
+
+Le hurlement des Hidden Claws
+
+Le dimanche vers 17h, Les PJ entendent des hurlements qui les appellent. Le message
+dit ”Les Hidden Claws souhaitent rencontrer les Night Howlers ”. Vous pouvez
+signalez `a vos joueurs que l’utilisation du nom de votre meute est une vraie marque de
+politesse et de respect. Aux yeux de beaucoup de loups-garous, une meute sans totem
+
+CHAPITRE 3. L’HISTOIRE
+
+27
+
+n’est pas une vraie meute. L’appel vient de l’est et de loin (`a environ 70km, la fronti`ere
+de leur territoire). Il est pr´ef´erable d’y aller en v´ehicule par la grande route.
+
+3.10
+
+La rencontre avec Hidden Claws
+
+Le lieu de rencontre est un petit col, a` la fronti`ere Est du territoire. Il est possible d’y
+acc´eder par la grande route. Les PJ rencontrent la meute des Hidden Claws . Laissez
+choisir comment ils abordent la rencontre : Garer la voiture a` proximit´e, faire une
+r´econnaissance par l’irraka d’abord, etc.
+Les Hidden Claws sont quatre, trois hommes et une femme. Ils expliquent qu’un
+membre de leur meute est devenu fou. Il a tu´e de nombreux humains, et a viol´e
+beaucoup de points du serment de la Lune. Il est devenu un Zi’ir . Un loup garou ayant
+une harmonie tr`es basse voire nulle.
+Les Hidden Claws pensent que ce danger est sur le territoire des joueurs. Ils pr´ef`erent
+pr´evenir. Les Hidden Claws resteront polis, afin d’attirer le moins possible l’attention
+des joueurs.
+Un des membres de la meute est bless´e, il lui manque deux doigts (annulaire et
+auriculaire de la main gauche). Il se justifie en disant que le Zi’ir est responsable de sa
+blessure. Il lui a mang´e les doigts. Les Hidden Claws donneront une photo en forme
+humaine du Zi’ir .
+Si les joueurs invitent les Hidden Claws , ils refuseront poliment. Si les joueurs
+insistent, ils accepteront mais partiront d`es que possible. Quand les joueurs retournent
+au village, la tempˆete commence, de fortes pluies. Vous pouvez tester leur conduite (
+Jet: Dext´
+erit´
+e + Conduite) avec un malus pour le mauvais temps. J’utilise aucun
+malus, s’ils ont pris une voiture. Si Sagesse Tenace a pris sa moto, j’applique un malus
+de -2 d´es.
+Bref, les joueurs rentrent au village. la tempˆete gagne en puissance. Le village est
+comme mort. A ce moment l`a, normalement vous avez croqu´e le cerveau de vos joueurs.
+Musique : Tension
+
+3.11
+
+Pendant la tempˆ
+ete
+
+Vous pouvez ici jouer quelques sc`enes d’actions, facultative.
+Soit :
+— Elisabeth Lecoeur joue `a des jeux sado-maso avec Sombre Bois (elle pourrait
+voir sa r´eg´en´eration surnaturelle, attention a` la lubie).
+— Elisabeth Lecoeur est poss´ed´e par l’esprit de peur (Monster Under The
+Bed ) et elle obtient une voie qui p´etrifie Sombre Bois . Il ne revient pas vers
+les autres a` la fin de la tempˆete. Les autres joueurs s’inqui´eteront de son absence.
+— Un enfant essaie d’assiner Elisabeth Lecoeur . Il est poss´ed´e par l’esprit de
+peur/violence. La possession le rend plus puissant. Comment Sombre Bois peut
+g´erer cela ?
+— Hurle Mort apprend qu’un enfant a fuit sa maison pendant la tempˆete. La
+meute ira certainement le sauver.
+— Un incendie se d´eclare `a la fin de la tempˆete, il brˆ
+ule une maison et menace de se
+r´epandre a` la seule pompe a` essence de la ville.
+Attention ! Jouez une scene sc`ene avec Elisabeth Lecoeur peut raccourcir l’intrigue a`
+son sujet (et donc l’intrigue principale).
+
+CHAPITRE 3. L’HISTOIRE
+
+28
+
+Quoi que les personnages font, ils peuvent entendre ( Jet: Astuce + Calme) une
+meute de loups assez importante hurler. Les hurlements s’arrˆeteront assez brutalement.
+La tempˆete continuera quelques heures apr`es les hurlements.
+Si les personnages sortent pour enquˆeter dans la tempˆete, faites les souffrir. C’est une
+tr`es mauvaise id´ee de sortir pendant une tempˆete.
+S’ils y vont pour sauver un enfant, vous pouvez ˆetre plus sympa. L’enfant ne se sera pas
+enfonc´e trop loin dans le parc naturel.
+C’est `a vous de meubler ce passage ou de le faire vite passer.
+
+3.12
+
+Une meute de loup est retrouv´
+ee morte
+
+Les personnages voudront probablement enquˆeter sur cette meute, apr`es la tempˆete.
+C’est peut-ˆetre elle qui vient proche du village et fait peur a` des enfants ? (ce n’est pas
+sur que les joueurs aient compris cela)
+Il est difficile de s’orienter dans la foret apr`es la tempˆete ( Jet: Astuce + Survie) . Au
+termes de leur traque, ils trouveront des cadavres de plusieurs loups dans la forˆet du
+parc naturel.
+Enquˆeter leur permet de comprendre les choses suivantes ( Jet: Astuce + Survie ou
+investigation) :
+-Une louve de la meute est encore en vie.
+-Dans un recoin, un loup(-garou) bless´e s’´etait r´efugi´e (une odeur de sang mais la
+tempˆete a effac´e toutes les traces).
+-La meute l’a encercl´e pour attendre sa mort avant de le manger.
+-Les loups ont perdu patience et il y a eu un combat. Le loup(-garou) a pris une forme
+plus forte (gouru). il est pass´e `a l’attaque. Il a d´etruit la meute de loup. Certains loups
+de la meute se sont enfuit.
+La rage mortelle de l’individu peut troubler les esprits environnant. Ils ne seront pas
+coop´eratif et critiqueront l’efficacit´e des joueurs. Si un don quelconque est utilis´e pour
+revoir la sc`ene, l’image devient noire. L’esprit a eut peur, il a ”ferm´e les yeux”.
+L’utilisation de langue animale et t´emoignage de cadavre permet d’avoir la fuite du
+Zi’ir .
+-Il y a un sch´ema qui se dessine dans la foret. Le loup-garou ne semble pas avoir tu´e
+volontairement les loups. Beaucoup sont morts ´ecras´es sous le poids du gouru. Apr`es
+s’ˆetre transform´e, il a pris la fuite vers l’ouest (ext´erieur de territoire des joueurs).
+1 - Il a perdu sa forme gouru apr`es 50 m`etres.
+2 - Il se cogne contre quelques arbres et avance difficilement en zigzagant.
+3 - Il se transforme en gouru. Il plie des arbres sur son passage en gouru. (on repart sur
+l’´etape 1).
+Ce sch´ema est r´ep´et´e plusieurs fois. La piste monte vers la montagne (fronti`ere Ouest du
+territoire). Tr`es vite, il y a plus d’arbre et avec la pluie la piste disparait a` quelques
+centaines de m`etres de la fin de leur territoire.
+A ce moment, il y a deux possibilit´es. Soit vos joueurs voudront continuer sur la piste
+mˆeme si elle est perdue (la direction g´en´erale m`ene vers la fronti`ere du territoire). Soit
+ils voudront sauver la louve.
+Dans le premier cas, vous pouvez aller directement consulter le chapitre : 3.18, sinon
+aller voir 3.13. Musique : Foret
+
+CHAPITRE 3. L’HISTOIRE
+
+3.13
+
+29
+
+La louve
+
+La louve peut ˆetre stabilis´ee ( Jet: dext´
+erit´
+e + m´
+edecine) . Elle n’a que trois pattes.
+L’´evacuation de l’animal sera probablement plus d´elicat car l’animal est assez lourd. Il
+est n´ecessaire d’ˆetre deux ou trois personnes pour assurer le transport sans risque
+d’aggraver les blessures.
+Cette ´etape est juste, un moyen de d´ecompresser un peu et de regrouper la meute, si elle
+ne l’´etait pas. C’est tr`es probablement la v´et´erinaire qui voudra soigner la louve. Si vos
+joueurs souhaitent poursuivre la piste, dites leur qu’une meute part rarement en chasse
+sans son alpha. Le temps de g´erer la louve. C’est le lundi matin. Il faut g´erer les
+cons´equences de la tempˆete [chapitre : 3.14 ].
+
+3.14
+
+Tempˆ
+ete : les cons´
+equences
+
+Cette section est un peu un moment bac `a sable. Si vos joueurs ont rat´e des indices,
+c’est le moment de la s´eance de rattrapage.
+-Vous pouvez jouer le chapitre 3.5.2. S’ils n’ont pas visit´e de l´esions avant.
+-Pareil pour 3.5.1, les gens se montreront sˆ
+urement plus bavards. Il est possible
+d’apprendre que certains enfants parlent d’un loup `a leur fenˆetre. Une enquˆete ( Jet:
+Astuce + investigation) montrera qu’un loup-garou en Urshul s’est agripp´e au
+rebord de la fenˆetre. Il regardait dans la chambre.
+-Certaines familles vivants dans le sud (dans les montagnes) parleront de loup a` 3 pattes
+qui pillent les poubelles.
+-Les plus gros d´egˆats (de la tempˆete) sont enregistr´es chez la famille : Porkman. Ils ont
+des tripl´es. Les enfants jouaient dans la grange, quand elle s’est effondrait, ils ont eut le
+temps de partir dans la maison (en bois), qui s’est effondr´e `a son tour. Ils se sont r´efugi´es
+dans la d´ependance en brique de la maison (petite r´ef´erence aux trois petits cochons).
+Il ne faut pas h´esiter a` demander aux joueurs d’avoir des id´ees pour calmer les peurs des
+enfants. La tempˆete a ravag´e la ville. Les l´esions sont encore plus grandes. Atelier
+peinture, r´eunion d’informations, tout est possible, montrer la louve prisonni`ere ou
+morte mais rien ne marchera vraiment mais c’est mieux que rien.
+
+3.15
+
+Les Loups dans la ville
+
+Vos joueurs auront re¸cu des information sur la pr´esence de loups proche des habitations.
+L’esprit de peur les manipule pour les attirer proche du village. Il se nourit ainsi de la
+peur que les loups provoquent chez les enfants.
+Une meute de loup particuli`erement violente pourrait s’attaquer `a une famille un peu `a
+l’ext´erieur du village. La tempete a pouss´e la meute a` se r´efugier dans la maison. Les
+humains ont eut peur, les loups avaient faim. De la famille, seul le plus jeune enfant a
+surv´ecu. Il t´emoignera qu’un Grand loup, ”sa tete touchait le plafond”, a combattu les
+autres et les a repouss´e. Apr`es, il y avait une dame qui venu le r´econforter puis elle est
+partie quand plein d’autres gens sont arriv´es.
+Cette sc`ene n’a jamais ´et´e jou´e.
+La sc`ene se passe pendant la tempete (au tout d´ebut). C’est ´evidemment Black
+Eclipse qui aura sauver le petit enfant de 8 ans de la maison. La meute aura fuit apr`es
+les premi`eres pertes. L’enfant sera terroris´e, il ne pourra pas dire grand chose mais des
+cadavres de la maison se montreront peut-ˆetre plus bavards. Les loups sont agressifs car
+
+CHAPITRE 3. L’HISTOIRE
+
+30
+
+ils ont peur, cette peur naˆıt de la pr´esence de l’esprit. Ils n’y sont pas vraiment pour
+grand chose. Les joueurs pourraient croire que le sauver n’est autre que Zi’ir et la
+femme, une voisine. Pendant le combat, elle a pu ˆetre bless´e. C’est a` ce moment que les
+Sadness Knives sont arriv´es pour la convaincre de rentrer.
+
+3.16
+
+Le s´
+enateur du Texas chasse
+
+Le lundi a` midi, le gouverneur arrive (en h´elicopt`ere) avec sa fille et son futur gendre. Ils
+vont chasser en forˆet. Sombre Bois doit les accompagner vers un point de vue o`
+u ils
+s’installeront pour chasser. Le p`ere et la fille savent chasser et ont l’habitude des armes.
+Le gendre est beaucoup moins a` l’aise. Ils ont clairment du super mat´eriel : fusil de
+guerre a` lunette, lunette de vision nocturne, etc. Sombre Bois porte le gros du mat´eriel.
+La forˆet est en bordel, Sombre Bois essaie de s’orienter ( Jet: Astuce + Survie) .
+Le s´enateur va voir une chose au loin et va tirer.
+Sur le chemin, le gendre trouve des traces bizarres. C’est gris. On en voit sur des trons
+et par terre. Le gouverneur (un homme rond et vieux) pense qu’il s’agit d’excr´ements
+d’animaux mais ne connaˆıt pas le type. En r´ealit´e, c’est du sang du Zi’ir . Il est charg´e
+en particule d’argent. Si Sombre Bois (ou un autre loup garou) touche cette substance,
+cela chauffe dans ses mains. S’il le renifle, il se prend un d´egˆat aggrav´e et un mal de tˆete
+monstrueux. Il ne faut pas oublier de faire un jet de rage mortelle. La transformation en
+gouru annule les malus de douleur et d´etruit l’argent de l’organisme.
+Ils laissent les 3 chasseurs dans un point de vue et repart.
+Cette sc`ene est un moyen de raccrocher les joueurs sur la piste du Monstre (Zi’ir ).
+Vous pouvez soumettre l’id´ee que Sombre Bois demande `a la meute de se r´eunir vers
+la piste pendant que lui, finit avec les chasseurs.
+Si vous voulez la rendre plus intense. Sombre Bois pourrait voir le Zi’ir chasse pour se
+nourrir, le s´enateur pourrait vouloir le tuer. Que fera Sombre Bois ?
+
+3.17
+
+Sur les traces du Zi’ir
+
+Le beau temps et les blessures du Zi’ir le trahissent. Il est maintenant possible de le
+suivre et de comprendre un peu son comportement.
+En fait, il vient dans la forˆet pour se nourrir mais ne vit pas sur le territoire de la meute
+mais juste a` la fronti`ere. La trace identifi´ee par Sombre Bois m`ene droit vers la grotte.
+Les joueurs seront tr`es enthousiaste a` l’id´ee de l’attaquer. Quand vos joueurs auront
+retrouver les traces qui m`enent vers le Zi’ir , laisser leur le temps de se regrouper pour
+´elaborer une strat´egie. Le Zi’ir est dangereux dans leur tˆete (c’est le boss de fin pour
+eux).
+Ils vont vite d´echanter (voir 3.18 ).
+
+3.18
+
+Black Eclipse attaque
+
+Les personnages suivent la piste du Zi’ir . Elle m`ene vers l’Ouest du territoire. Quand ils
+ne sont qu’`a quelques kilom`etres de la fronti`ere de leur territoire, faite leur faire un jet
+d’Astuce + Calme - malus d’environnement (Si un personnage est en avant par
+rapport aux autres, C’est lui qui fait le jet et subit l’attaque). Ce jet permet de savoir,
+s’il est surpris (pas de d´efense) ou non. Heureusement pour eux, il n’y a qu’un attaquant.
+
+CHAPITRE 3. L’HISTOIRE
+
+31
+
+Black Eclipse aura le temps de faire une seule attaque (Elle a l’initiative
+obligatoirement, au premier tour). Elle est en forme gauru et elle attaque avec ses
+griffes, elle n’a que douze d´es d’attaques. Elle ne tuera pas volontairement, son but est
+d’interdire la piste. Elle veut prot´eger son fils (le Zi’ir ).
+Quand elle a attaqu´e, elle est assailli par deux loups-garous en forme Urshul (Vicious
+Pain et Red fangs (voir 1.4.2)), les deux autres se positionnent en Dalu entre le trio et
+la meute des joueurs. Fair Wolf utilisera Aura de tr`
+eve pour calmer tout le monde.
+Black Eclipse va se calmer et se changer en Dalu. C’est une femme d’environ 40 ans,
+tr`es muscl´ee. Elle a vraiment une tˆete de v´et´eran. Dans son dos, une hache immense, un
+f´etiche tr`es, tr`es puissant (voir 5.3.3 ). Elle ne parle pas avec la meute des joueurs et
+s’´eloigne un peu. Elle passe ses nerfs sur un arbre. Elle gronde vers Fair Wolf en disant
+”Ils n’ont pas a` intervenir dans cette histoire”.
+Fair Wolf se pr´esente comme le porte parole de la meute des Sadness Knives. Il
+demande `a tous de prendre une ”forme plus propice au dialogue”. Quand les
+joueurs sont en forme humaine ou dalu, faite faire un jet en Astuce + Empathie a`
+tout le monde sauf Cendre Griffe , un succ`es indique qu’il y a un air de ressemblance
+entre Fair Wolf et Cendre Griffe (Attention, le joueur de Cendre Griffe , ne doit
+pas apprendre l’information). Fair Wolf va prendre quelques secondes en regardant
+Cendre Griffe . Il finira par dire : Luke, je suis ton p`
+ere.
+Musique : Diva, BO Blood+, l’annonce doit etre fait `a 3min12 de la chanson
+Pass´e cette r´ef´erence, Fair Wolf demandera pardon pour avoir franchi le territoire des
+joueurs et il donnera des infos.
+Il explique qu’il y a 10 ans environ, ce territoire ´etait celui de sa meute.
+Un jour, ils sont partis `a la chasse a` l’extr´emit´e du territoire, a` leur retour, l’enfant de
+Black Eclipse avait disparu. Elle est devenue folle et a d´etruit d´efinitivement le totem
+de la meute, un esprit Ours/force avec sa hˆache.
+Le totem avait pour mission de prot´eger l’enfant. Cela a traumatis´e les esprits de la
+zone. Le territoire ´etait devenu invivable pour loups-garous. La meute a abandonn´e le
+territoire et est all´ee s’installer dans Ouest (a des milliers de kilom`etres). Il y a quelques
+jours, Black Eclipse a eut des visions et elle est retomb´ee dans sa folie a` propos de son
+fils. Ces visions lui montraient son fils adulte dans le village des Joueurs. Elle a donc
+quitt´e le territoire pour se rendre ici. Il est important d’expliquer qu’elle est dans la zone
+depuis plusieurs jours. Elle a ´et´e rattrap´e par sa meute, qui lui a fait entendre raison.
+Elle repartait quand elle a entendu le coup de feu (tir´e par le s´enateur). Elle a voulu
+aller voir et a trouv´e les Night Howlers .
+C’est une petite astuce pour expliquer pourquoi, elle apparaˆıt maintenant et pas avant.
+
+3.19
+
+Black Eclipse Vers son fils
+
+Laissez vos joueurs r´efl´echir avec les nouvelles donn´ees qu’ils viennent d’obtenir. Il est
+possible que Black Eclipse n’attendent pas la d´ecision des joueurs pour essayer de
+retrouver son fils. Si cela traˆıne trop, les Sadness Knives demanderont au joueurs de
+les accompagner `a la fronti`ere pour leur montrer qu’ils ne sont pas des ennemis. Les deux
+meutes suivent donc la piste, Black Eclipse pense que c’est son fils, mais rien n’est sur.
+Si les joueurs parlent, des Hidden Claws et montre la photo. Black Eclipse prendra
+la photo et tombera en larmes.
+A la fronti`ere du territoire, les deux meutes se s´eparent.
+Il est temps de recentrer l’action sur l’esprit de peur. Il y a plusieurs possibilit´es soit vous
+
+CHAPITRE 3. L’HISTOIRE
+
+32
+
+relancez un peu l’enquˆete sur l’esprit de peur soit vous d´eclenchez le chapitre suivant.
+Personnellement, je profite de ce temps pour faire un point avec les joueurs de ce qu’ils
+savent et des interrogations qu’ils ont.
+Apr`es que les joueurs aient r´efl´echi a` un plan d’actions et qu’ils redescendent vers le
+village. Lancez la suite !
+
+3.20
+
+Fin possible
+
+Cette section a pour but de vous donner un peu de recul face `a l’histoire. A ce moment
+de la partie, vos joueurs auront compris (`a tord) que Zi’ir ou Black Eclipse fait peur
+aux enfants du village. Il n’est pas la seule cause des peurs et c’est a` vous de le faire
+comprendre aux joueurs, ou du moins d’essayer. Ne les laissez jamais rester trop
+enquˆeter sur la mˆeme piste. Ils vaut mieux les m´elanger un peu. La fin que je propose
+est une fin possible qui me semble raisonnable. Sentez-vous libre de la modifier. Je fais le
+choix d´elib´erer de ne pas faire un grand combat ´epique a` 3 meutes (ou 2) cela serait bien
+trop long. Je laisse un adversaire dangereux, voir : 3.21. Vous pouvez faire le choix de
+laisser 2 adversaires au lieu d’un. J’aime que Winter Mist s’´echappe cela sert de
+Cliffhanger au sc´enario. Partez du principe que l’action des joueurs peut changer la
+donne. C’est difficile mais rien n’est impossible.
+
+3.21
+
+Night Howler au secours ! !
+
+Cette sc`ene est `a placer au bon moment dans la partie. Elle peut intervenir le lundi soir
+juste apr`es la sc`ene 3.18 ou bien apr`es.
+Ils apprennent que des quelques choses ne va pas. Cela peut ˆetre Tails l’esprit de la
+foret qui les pr´evient que des loups-garous sont pass´es par leur locus. Cela peut ˆetre des
+coups de feu tir´e par le s´enateur alors que les joueurs sont dans la forˆet. Cela peut ˆetre
+un hurlement de demande a` l’aide (venant des Sadness Knives ).
+Dans tous les cas, les Hidden Claws ont utilis´e le locus des joueurs pour rentrer sur le
+territoire et remonte vers l’Ouest. Leur objectif est de d´etruire totalement les Sadness
+Knives . Que les joueurs remonte la piste ou courent pour aller aider les personnes qui
+les appellent a` l’aide.
+Ils vont aller au del`a de leur territoire. En redescendant la chaˆıne de montagne, ils vont
+voir de loin une sc`ene d’horreur. Winter Mist est derri`ere Black Eclipse . Elle est `a
+genoux et s´ev`erement bless´ee. Les personnages courent dans la direction de la zone mais
+ils sont encore trop loin. Ils voient Winter Mist d´ecapiter la pauvre femme et mordre
+dans la joue de la tˆete d´ecoup´ee. Il a visiblement orchestr´e la sc`ene pour que les joueurs
+voient ¸ca. Il parle a` un membre de sa meute (Unwise Wolf) qui se met en position et
+attend les personnages toutes mˆachoires et griffes en argent dehors. Winter Mist et un
+autre membre de sa meute utilisent la vitesse de p`ere loup pour s’enfuir. Il faut g´erer le
+combat et/ou la course poursuite.
+
+3.22
+
+La sc`
+ene de crime
+
+Une fois le combat termin´e, les joueurs vont probablement avoir envie de comprendre ce
+qui s’est r´eellement passer. Il y a un membre des Hidden Claws mort par terre. Quatre
+membres des Sadness Knives sont morts. Il manque donc une personne Vicious Pain.
+
+CHAPITRE 3. L’HISTOIRE
+
+33
+
+Laissez les g´erer la sc`ene de crime ( Jet: Astuce + investigation (sc`
+ene de crime) )
+. Il est possible de comprendre que les Hidden Claws sont tomb´es par surprise sur les
+Sadness Knives . Ils ont utilis´e des armes en argent visiblement. Ils ´etaient clairement
+bien pr´epar´e. La hache est bris´ee et l’esprit a ´et´e lib´er´e. Vicious Pain n’est pas l`a. Son
+corps est un peu plus loin devant une grotte (3.23). Vous pouvez g´erer le carnage avec
+des rites funeraires pour ainsi proposer une scene charg´ee de tristesse.
+
+3.22.1
+
+Alternative : La hache n’est pas bris´
+ee
+
+Il peut ˆetre int´eressant de jouer un combat entre les Hidden Claws et les joueurs pour
+savoir qui gardera la hache. Les Hidden Claws ne seront pas en ´etat de tenir le combat
+tr`es longtemps et fuiront. Le gage de sagesse serait de lib´erer l’esprit `a l’int´erieur et de
+d´etruire l’arme. Cette arme traumatise les esprits environnants. L’esprit a l’int´erieur
+pourrait ˆetre le sujet d’un prochain sc´enario.
+
+3.23
+
+Chirurgie au Klaive
+
+Le Zi’ir est dans une grotte, il est difficile d’y voir un truc sans s‘approcher. Il a un
+comportement assez ´etrange. Il change de forme assez continuellement : de forme
+humaine, urshul, dalu et Gauru. Une ´enorme bosse est visible dans son dos. Il se jette
+contre la paroie de la grotte, la bosse en avant. Il est ´evident que cela provoque de la
+douleur. Un jet en Astuce + Occultisme permet d’identifier les marques d’un rituel
+dans les tatouages entourant la bosse. Normalement, ces informations devrait suffire aux
+joueurs pour comprendre qu’ils peuvent sauver le Zi’ir . Il faut l‘immobiliser, ouvrir la
+”bosse” et en retirer le catalyseur de douleur. C’est `a Sagesse Tenace de faire le travail
+probablement. Ce n’est pas compliquer. Ils peuvent prendre quelques d´egˆats dans
+l’op´eration mais rien de m´echant. Il faut les faire stresser un peu quand mˆeme.
+Une fois, le sujet immobilis´e, faire un jet en Dext´
+erit´
+e + Arme blanche (rituel)
+pour d´ecouper la bosse et ouvrir la zone. La bosse est pleine de pus et il y a au milieu,
+deux pi`eces brillantes (des griffes en faite), il faut les arracher. D`es qu’elles ne sont plus
+dans le corps, elles prennent une forme de doigt.
+
+3.24
+
+Les enfants
+
+Le mardi matin, les joueurs auront compris que c’est la peur des enfants qui nourrit
+l’esprit Monster Under The Bed . Dans le monde des esprits, l’esprit est beaucoup
+plus gros, il se multiplie formant comme un r´eseau pour absorber l’ensemble de l’essence.
+Il entretient la peur. En g´en´eral, les joueurs commencent a` fatiguer et veulent du r´eel. Il
+est important de finir une ou deux intrigues. Laissez les joueurs avoir de l’ imagination,
+pour faire parler les enfants. Il est possible d’apprendre que certains enfants rˆevent de la
+mˆeme chose. Un loup a 3 pattes, un loup a` leur fenˆetre, des loups dans la forˆet
+s’approchant des maisons. Il est possible qu’un des rares ´el`eves pr´esent le lundi ou le
+´
+mardi signale le tableau bizarre dans la classe de Etoile
+Rouge .
+
+3.25
+
+Le tableau dans la classe
+
+Cette intrigue est une facette de l’intrigue principale. C’est au conteur de d´efinir le
+´
+moment opportun pour la faire apparaitre. Soyez logique. Les absences de Etoile
+
+CHAPITRE 3. L’HISTOIRE
+
+34
+
+Rouge sont dues `a l’influence d’un cahalumine corrompu (s´el`ene des Cahalithes, Grand
+esprit de Lune). Cet esprit travaille pour Monster Under The Bed .
+Il lui donne des reves et la pousse a` peindre des tableaux tr`es horrifiques. Ils ont une
+´
+certaines influences sur les enfants. Etoile
+Rouge a une absence le vendredi soir (avant
+le d´ebut du sc´enario). Durant cette absence, elle a peint un tableau et la expos´e dans sa
+classe.
+Les enfants ne le verront que le Lundi matin. Cela suffira pour cr´eer une l´esion dans la
+classe. Le jour suivant aucun enfant pr´esent hier ne sera en classe. Les solutions pour
+´
+r´egler cette ´etape : Etoile
+Rouge n’est pas capable de voir son tableau, pour elle s’est
+tout `a fait normal. Si un autre joueur entre dans la salle de classe. Il verra le tableau et
+sentira la pr´esence de la mini-l´esion.
+Laissez ´evoluer la chose. Si Sagesse Tenace apprend pour le tableau dans la salle de
+classe, vous pouvez lui faire faire un test de rage mortelle ( Jet: R´
+esolution +
+´
+Calme) . Si elle ´echoue, elle attaque Etoile Rouge . Si les joueurs parlent avec des
+´
+´el`eves de Etoile
+Rouge , ils peuvent comprendre que les enfants ont peur d’elle ou
+plutot de salle de classe. Si aucune piste ne semble etre exploit´ee par vos joueurs,
+consultez la section 3.26.
+
+3.26
+
+Directeur de l’´
+ecole
+
+Cette sc`ene peut-ˆetre jou´e a` partir du mardi matin. C’est une section bonus pour donner
+des indices. Il est tr`es rare que la d´emarche des joueurs aupr`es des enfants leur permette
+d’apprendre cela avant. Le directeur aura re¸cu beaucoup de courriers ou de coups de fil.
+Des parents d’´el`eves se sont plaint du nouveau tableau de la salle de classe. Visiblement,
+il provoque des cauchemars chez les enfants. Le directeur confirmera ; le tableau n’a rien
+´
+a` faire dans son ´ecole et demandera donc des explications a` Etoile
+Rouge . Il est
+possible pendant l’interview avec le directeur de voir que Elisabeth Lecoeur est aussi
+concern´ee par les demandes des parents d’´el`eves.
+
+3.27
+
+le cas Elisabeth Lecoeur
+
+C’est aussi un ´el´ement de l’intrigue principal. La combinaison des actions d’Elisabeth
+´
+Lecoeur et de Etoile
+Rouge sont une source majeure de la peur des enfants.
+Elisabeth Lecoeur donne des le¸cons de lecture de fran¸cais, elle voit tous les enfants de
+´
+l’´ecole. Etoile
+Rouge n’a qu’une classe alors que Elisabeth Lecoeur les re¸coit toutes.
+Elle lit des contes en fran¸cais tous les apr`es midi.
+Elle est influenc´ee par Monster Under The Bed . Il lui donne un pouvoir de
+manipulation des rˆeves. Sa voix influence grandement les rˆeves de son auditoire. Elle lit
+des contes assez sanglants et tristes. Les ´el`eves ne comprennent pas tout mais le pouvoir
+n’a pas besoin de c¸a.
+Elle est tr`es attach´e a` un vieu livre.
+Monster Under The Bed fait en sorte qu’Elisabeth Lecoeur aime particuli`erement
+ce livre de conte (une copie d’un ouvrage du 14`eme si`ecle). Il est en fran¸cais donc il faut
+´
+´
+faire un jet en Intelligence + Erudition.
+Seul Hurle Mort et Etoile
+Rouge ont des
+notions de fran¸cais.
+Le conte en question : http://lexildesmots.hautetfort.com/archive/2012/01/23/unelegende-du-poitou-la-louve-blanche.html Elisabeth Lecoeur peut utiliser son pouvoir
+sur Sombre Bois . Elle a une grande influence sur lui.
+
+CHAPITRE 3. L’HISTOIRE
+
+35
+
+Il y a plusieurs moyens de g´erer son cas. Les PJ peuvent d´ecider de la tuer. Il peuvent
+juste l’enfermer loin des enfants pour diminuer son influence sur eux. Ils peuvent essayer
+de convaincre Monster Under The Bed de la laisser tranquille. S’il dit non, Sombre
+Bois fera peut-etre une rage mortelle ?
+
+3.28
+
+Le maire du village
+
+Il est poss´ed´e par un esprit de Chicago. Il cherche a` faire payer a` Hurle Mort le prix de
+ses actions.
+En effet, quand Hurle Mort a subit son Premier Changement il a tu´e deux
+personnes importantes. Il ne le sait pas mais elle ´etaient des vampires influants. Leur
+disparition a entrain´e une guerre des gangs et de clans vampiriques. Le monde de la nuit
+de Chicago a beaucoup souffert. Il a donc cherch´e `a ce venger de ce loup-garou. Le neveu
+du maire n’´etait le moyen de transport pour l’esprit. L’esprit a poss´ed´e Christopher a`
+Chicago jusqu’au village, puis il a pens´e que le maire ´etait une meilleure cible pour une
+possession.
+Il est important de faire agir le maire dans le sens contraire de Hurle Mort . La gestion
+de l’apr`es tempete est une bonne occasion pour ´evoquer ce genre de chose.
+Le maire doit paraitre suspect aux yeux des joueurs.
+Pour obtenir des informations, les joueurs peuvent se renseigner sur Christopher et son
+pass´e, ou s’approcher du domaine famillial du maire.
+
+3.28.1
+
+Qui est Christopher ?
+
+C’est un ´etudiant en relation publique, il vient de Chicago. Il est le fils de la grande
+soeur du maire. Il est possible de trouver sur le net son compte facebook. On peut y
+apprendre qu’il a ´etudi´e en Angleterre et qu’il effectue un stage chez son oncle. C’est un
+gros fetard, il y a de nombreuses photos de lui dans des bars/pubs en angleterre et a`
+Chicago. Hurle Mort pourrait reconnaitre certains lieux. Puis, il y a un mois, cela s’est
+calm´e. plus rien. C’est Christopher qui a crucifi´e la chouette sur la porte de Hurle
+Mort . En arrivant en ville le samedi soir. Quand Christopher a rencontr´e son oncle.
+L’esprit a chang´e d’hote.
+
+3.28.2
+
+Le maire dans le monde des esprits
+
+A l’occasion d’une exp´edition dans le monde des esprits, les joueurs pourrait s’approcher
+de la demeure du maire.
+Elle se transforme petit `a petit en building de grande ville. Des fum´ees sont visibles
+autour de la maison. Des klaxons sont audibles, des taxis jaunes circulent dans la fum´ee.
+L’entr´ee de la maison ressemble au hall d’entr´ee d’un building. Il y a un vrai labyrinthe
+d’ascenseurs pour arriver dans les parties vivables de la maison, les chambres, et la
+chambre de Christopher . Il peut ˆetre marrant d’utiliser un taxi pour prendre
+l’ascenseur les couloirs etc. Il faudra bien sˆ
+ur payer la course. Une petite scene de Rp
+avec un esprit un peu ´etrange.
+L’information a comprendre dans ce chaos, est que la representation de la maison
+change par la proximit´e d’un esprit de la ville de Chicago.
+
+CHAPITRE 3. L’HISTOIRE
+
+3.28.3
+
+36
+
+La maison du maire dans le monde physique
+
+Si les joueurs souhaient s’introduire de nuit dans la maison du maire, Ils devront faire
+attention au signal d’alarme, aux chiens et aux enfants. Les enfants de la famille auront
+vite fait de les rep´erer et d’avoir peur, cr´eant une l´esions chez le maire ´egalement. S’ils
+arrivent `a rester discret, ils peuvent trouver des lettres de Christopher qui annonce son
+arriv´ee, un ordinateur portable qui donnera les mˆemes informations que la section 3.28.1.
+
+3.28.4
+
+Finir le maire
+
+Quand les joueurs auront compris le fin mot `a propos du maire, ils peuvent agir de
+diff´erente fa¸con. Soit, le combattre directement. Dans ce cas, il faut qu’il planifie un
+meurtre, ce n’est pas ´evident de cacher un cadavre. Si dans la partie, il n’y a pas eu de
+vrai combat et que vos joueurs ont besoin d’actions. Vous pouvez rendre le maire tr`es
+puissant : plaques d’acier sur le corps, des cheveux en barbel´es, sa bouche lib`ere un son
+tr`es fort de m´etro en circulation etc. Il sera un adversaire corriace `a tuer. Le conteur
+doit adapter la scene en fonction du temps et de la fatigue des joueurs.
+
+3.29
+
+Les r´
+ecompenses
+
+Quand tous les probl`emes auront ´et´e r´egl´e : les peurs, Monster Under The Bed , le
+´
+maire, les loups, le tableau de Etoile
+Rouge , Elisabeth Lecoeur et la tempˆete.
+L’esprit protecteur de la forˆet apparaˆıtra devant la meute pour les remercier.
+L’esprit gardien est un dragon de bois, sa peau est faite d’´ecorce d’arbre. Ses ailes sont
+faites de branches. Son dos baigne dans la lumi`ere et toutes sortes de mammif`eres y
+vives : Cerfs, ´ecureuils, Sanglier, renard, souris. Son ventre repr´esente la nuit, des
+insectes y grouillent ; il y a des milles-pattes, des araign´ees et toutes sortes d’insectes. Il
+est le gardien de la Clairi`
+ere qui se trouve ˆetre dans le parc. Il reconnaˆıtra la sagesse,
+l’honneur et la puret´e de la meute. Il a vu les qualit´es de la meute. La meute aura plus
+de facilit´e a` obtenir un totem. Tails fera un grand sourire aux pieds de l’esprit gardien a`
+ce moment.
+
+Chapitre 4
+En r´
+esum´
+e
+4.1
+
+Raison de la pr´
+esence du Monster Under The
+Bed
+
+Il y a principalement trois raisons de sa pr´esence et des secondaires :
+— Black Eclipse : Inspecte les maisons pour y chercher son fils, souvent en forme
+de loup. Les enfants la voient, et ils ont peur.
+— Elisabeth Lecoeur : Elle raconte des contes horribles aux enfants, elle est
+influenc´ee par l’esprit Monster Under The Bed .
+´
+— Le tableau dans la salle de cours de Etoile
+Rouge .
+— Une grande meute de Loup se rapproche du village pour manger.
+— La tempˆete
+— La pr´esence de Monster Under The Bed est suffisante pour alimenter les
+peurs. S’il reste trop longtemps, le cercle vicieux sera d´emarr´e.
+— ce que vous voulez...
+Les fausses pistes :
+— Zi’ir est dans la zone, il souffre d’un rituel. Deux ongles en argent sont sous sa
+peau. Cela le rend fou de douleur. Il n’est pas du tout un Zi’ir. Il est incapable de
+se contrˆoler mais il a r´eussi a` s’isoler.
+— Le maire est poss´ed´e par un esprit de la ville de Chicago. Il veut se venger de
+Hurle Mort . C’est un probl`eme qu’il faut g´erer, mais il n’y a aucun rapport
+avec les peurs.
+
+37
+
+Chapitre 5
+Annexes
+5.1
+5.1.1
+
+PNJ Importants
+Les esprits mutants
+
+L’esprit du Sommeil
+— Puissance : 2
+— Finesse : 7
+— R´esistance : 5
+— Volont´e : 7
+— Taille : 4
+— Corpus : 9
+— Essence : 15
+— D´efense : 7
+— Initiative : 12
+— Vitesse : 4
+— Influences : Sommeil 2
+— b´en´edictions : Vision mat´erielle, t´el´ekin´esie (P.66 predators),Entrave, Port´ee,
+´
+Eclair
+(il envoie des plumes orange comme le pus).
+L’indien
+— Puissance : 2
+— Finesse : 4
+— R´esistance : 2
+— Volont´e : 6
+— Taille : 3
+— Corpus : 5
+— Essence : 10
+— D´efense : 4
+— Initiative : 6
+— Vitesse : 10
+— Influences : Indien 1
+— b´en´edictions : D´eluge, d´ecorporation, vision mat´erielle.
+Le pompier
+— Puissance : 5
+— Finesse : 2
+38
+
+CHAPITRE 5. ANNEXES
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+
+39
+
+R´esistance : 4
+Volont´e : 9
+Taille : 6
+Corpus : 10
+Essence : 13
+D´efense : 5
+Initiative : 9
+Vitesse : 8
+Influences : feu 1, jouet 1
+b´en´edictions : diriger le feu, vision mat´erielle, Entrave, Port´ee.
+
+5.1.2
+
+Les assistants
+
+Nom
+Collin
+
+Rˆole
+Assistant de Hurle Mort
+
+Dustin
+
+Assistant de Hurle Mort
+
+Grant
+
+Assistant de Sombre Bois
+
+Description
+Homme, 40 ans, grand et solide, un peu lent a`
+la d´etente. Il est timide mais ne se laisse pas
+marcher sur les pieds
+Homme, 30 ans, Mince et vif. C’est un frimeur
+et un beau parleur.
+Jeune homme de 17 ans, un peu hippy sur les
+bords.
+
+CHAPITRE 5. ANNEXES
+
+5.2
+
+40
+
+FAQ & incoh´
+erence
+
+Cette section clarifie des d´etails. Le but est de favoris´e l’improvisation, si vos joueurs
+sont force de propositions.
+
+5.2.1
+
+Pourquoi il n’y a pas de sang ou de poudre d’argent
+quand on trouve la meute de loup ?
+
+-A cause de la tempˆete, elle a tout effac´e.
+
+5.2.2
+
+Quels ´
+ev´
+enements sont ind´
+ependants de l’action des
+joueurs et quelle est la chronologie ?
+
+-Le sc´enario commence le samedi soir.
+Le dimanche matin, il y a la messe puis le soir la tempˆete, Lundi matin, les
+cons´equences de la tempˆete et le lundi midi le s´enateur texan arrive. Le lundi comme le
+mardi, il y a peu d’enfants en classe.
+
+5.2.3
+
+La chronologie de la disparition de Thomas.
+
+-Thomas a ´et´e enlev´e `a l’ˆage de huit ans. Il est rest´e dix ans sans sa m`ere. La meute des
+Hidden Claws lui a fait un v´eritable lavage de cerveau. Deux semaines avant le d´ebut
+du sc´enario, il a ´et´e lˆach´e proche du territoire. Il est dress´e a` tuer a` vue les Sadness
+Knives.
+
+5.2.4
+
+Prise de libert´
+e avec les r`
+egles.
+
+-Il est vrai que je joue beaucoup des r`egles. Les personnages sont plus taill´es pour
+correspondre `a leur histoire, qu’aux r`egles de cr´eation de personnage. Sagesse Tenace
+n’est probablement pas assez exp´eriment´ee pour maˆıtriser le rituel de la Chasse
+Sacr´
+ee, le joueur n’est pas au courant qu’il maˆıtrise des rituels. C’est mieux ainsi, les
+rituels sont important dans le jeu mais trop compliqu´e a` mettre en place pour un
+oneshot. Si vous jouez ce sc´enario int´egr´e dans une campagne, n’oublie pas de prendre
+en consid´eration cet aspect.
+
+CHAPITRE 5. ANNEXES
+
+5.3
+5.3.1
+
+41
+
+Les r`
+egles homemade et cr´
+eation
+Don : Peur Noire
+
+Peur Noire
+(R´eflexe) - Immobilise un adversaire. L’effet s’estompe quand une des conditions
+suivantes arrive :
+— A la fin de la sc`ene
+— La victime re¸coit un d´egˆat.
+— l’utilisateur d´esactive le don.
+— jet: Pr´esence + Intimidation + Gloire
+— Cout: 1 point d’essence
+— Page: Aucune
+
+5.3.2
+
+Rituel : Douleur d’argent
+
+Le rituel de Douleur d’argent est l’ultime fa¸con de faire souffrir un Uratha. Il consiste
+a` faire ressentir en continue la mal´ediction de M`ere Lune. Le sujet re¸coit en permanence
+une faible quantit´e d’argent dans son m´etabolisme. La douleur pousse le sujet `a rentrer
+en Kuruth. La forme gouru associ´ee `a la rage mortelle brˆ
+ule l’argent dans le corps. La
+victime du rituel peut alors reprendre une autre forme. La douleur reprend ses droits et
+cela boucle. L’individu pr´ef´ere bien souvent se suicider plutˆot que de continuer a` souffrir.
+R´
+ealiser le rituel :
+Le sujet s’allonge sur le ventre. Le ritualiste chante les raisons de ce rituel. Le reste de la
+meute est autour du sujet, afin de le maintenir. Un membre de la meute doit utiliser le
+don Mˆ
+achoire d’argent. Il transforme ainsi sa marchoire et ses griffes en argent. Le
+ritualiste r´ealise une incision sur le sujet. Il sectionne alors deux droigts de l’utilisateur
+de Mˆ
+achoire d’argent et les place dans la plaie dorsale du sujet. Toutes les personnes
+pr´esentent pendant le rituel font un jet de d´eg´en´erescence pouvant r´esulter a` la perte
+d’un point d’harmonie.
+
+5.3.3
+
+F´
+etiche : Lame D´
+evoreuse
+
+La Lame D´evoreuse est une grande hache de guerre. Un esprit de Sangsue/gourmandise
+est emprisonn´e a` l’int´erieur. L’arme ne n´ecessite aucune activation. Elle donne un bonus
+de 4 d´es pour l’attaque (comme une hache normale). Les 10 et les 9 se relancent. Tout
+succ`es provoque un d´egˆat l´ethal et le vol d’un point d’essence. Si la cible n’a pas
+d’essence (ou ´equivalent), cela inflige un d´egˆat suppl´ementaire par succes.
+
+5.4
+
+Carte heuristique
+
+CHAPITRE 5. ANNEXES
+
+42
+
+Figure 5.1 – Sch´ema du sc´enario d´efinissant l’ensemble des relations entre les diff´erents
+personnages. Image vectorielle r´ealis´ee avec le logiciel Rmindmap
+
+

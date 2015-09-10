@@ -1,0 +1,263 @@
+% !TEX encoding = UTF-8 Unicode
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[oneside,12pt]{book}
+\usepackage[left=2cm,top=1cm,right=3cm,nofoot]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... 
+\usepackage{tabularx}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage[french]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage[linktocpage]{hyperref}
+\newcommand\don[5]{
+\textbf{#1} \\
+#2
+\begin{itemize}
+\item{ \textbf{jet}: #3}
+\item{ \textbf{Cout}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+
+
+\title{Les sept déflagrations}
+\author{Renaud "ObiWan" Guezennec}
+\date{}
+
+%\let\origdescription\description
+%\renewenvironment{description}{
+%  \setlength{\leftmargini}{0em}
+%  \origdescription
+%  \setlength{\itemindent}{1em}
+%}
+
+
+\begin{document}
+
+\maketitle \clearpage
+\tableofcontents \clearpage
+
+\begin{flushleft}
+    \chapter{Introduction}
+        \section{Lire introduction sur l'univers de loup-garou}
+       Voir le document à cet effet. 
+         
+\section{Les meutes déchues}
+\subsection{La Meute PJ: }
+
+\subsection{La meute voisine :}
+
+\subsection{La meute badass :}
+
+\section{Les meutes Pures}
+
+\subsection{}
+
+\clearpage
+\section{Cahalithe}
+\begin{description}
+\item[Nom:]{Lynn Ethwings}
+\item[Origine:]{Canada}
+\item[Auspice:]{Cahalithe}
+\item[Tribu:]{Chasseur des ténèbres}
+\item[Profession:]{institutrice}
+\item[Age:]{24 ans}
+\item[Histoire:]{ 
+Avis:\\
+\underline{Peter Torhes} : Un filou, assez sympa mais traine de grosses valises, un jour cela vous petera à la gueule.\\
+\underline{Luke Hereford} : Simple bonhomme il est la force de frappe de la meute. Une personne intéressante mais son manque de culture est parfois lourd.\\
+\underline{Leonard J. Andrews} : son coté solitaire pourrait couter cher à la meute. Il est efficace dans son métier et dans la meute.\\
+\underline{Jessica  Ethwings}: Ta sœur, elle est la clé de cette meute, son ame. Tu regrettes un peu.\\
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Les bons mots}{+2 en social passif}{}{}{117}
+\don{Cri de ralliemment}{}{Manipulation + Expression + Gloire}{1 Volonté}{119}
+\don{Canaliser la rage}{}{Vigeur + Survie + Pureté}{1 point d'essence}{142}
+
+\clearpage
+\section{Rahu}
+\begin{description}
+\item[Nom:]{Luke Hereford}
+\item[Origine:]{}
+\item[Auspice:]{Rahu/Guerrier}
+\item[Tribu:]{Maitre du fer}
+\item[Profession:]{Garagiste / Agriculteur}
+\item[Nom de guerre:]{}
+\item[Liste de dons]:
+\item[Age:]{22 ans}
+\item[Histoire:]{
+
+Avis:\\
+\underline{Peter Torhes} : Il est marrant, il semble avoir un passé assez lourd, mais qui n'en a pas ? Puis, c'est un bon partenaire d'entrainement. \\
+\underline{Lynn Ethwings }: Très sympa, elle te casse un peu les pieds avec sa culture des villes. Elle devrait garder les pieds sur terre.\\
+\underline{Leonard J. Andrews} : Il est de bon conseil, un peu trop concentrer dans son travail (meute ou humain)\\
+\underline{Jessica Ethwings}: Tu espères sincèrement ne jamais la décevoir. Elle te fait un peu peur. C'est une bonne Alpha.\\
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+
+\don{Redresser}{}{}{1 Point d'Essence}{125}
+\don{Nuit Noire}{coupe la lumière }{Astuce + Larcin + Ruse}{1 volonté}{146}
+\don{Clarté}{+ 5 en init}{}{1 Point d'Essence}{137-136}
+
+\clearpage
+\section{Irraka}
+\begin{description}
+\item[Nom:]{Leonard J. Andrews}
+\item[Origine:]{USA}
+\item[Auspice:]{Irraka}
+\item[Tribu:]{Chasseur des tenebres}
+\item[Profession:]{Garde chasse}
+\item[Age:]{19 ans}
+\item[Histoire:]{
+Avis:\\
+\underline{Peter Torhes} : Un filou, assez sympa mais traine de grosses valises, un jour cela vous pètera à la gueule.\\
+\underline{Luke Hereford} : Simple bonhomme, il est la force de frappe de la meute. Un peu trop cavalier à ton goût, il ne prend pas assez de recul sur les évènements.\\
+\underline{Lynn Ethwings}  : Ses rêves sont une vraie bénédiction pour la meute. Pourtant, elle semble porter le deuil de sa nouvelle nature, tu crains qu'elle soit trop faible pour assurer son devoir envers la meute.\\
+\underline{Jessica  Ethwings}: Tu l'admires, elle dégage un vrai charisme, tu serais prêt à la suivre n'importe où.\\
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Communion avec la forêt}{}{Manipulation + Survie + Ruse}{1 point d'essence}{130-131}
+\don{Pieds de Brûme}{}{}{1 point d'essence}{114}
+\don{Diriger le feu}{}{Force + Survie + Gloire}{1 point d'essence}{109}
+
+\clearpage
+\section{Elodothe}
+\begin{description}
+\item[Nom:]{Peter Torhes}
+\item[Origine:]{Chicago}
+\item[Auspice:]{Elodothe/juge}
+\item[Tribu:]{Seigneur des tempêtes}
+\item[Profession:]{Chérif}
+\item[Liste de dons]:
+\item[Age:]{35 ans}
+\item[Histoire:]{
+
+Avis:\\
+\underline{Lynn  Ethwings} : fille coincée, dans son monde, elle te snoble clairement.\\
+\underline{Luke Hereford} : Un jeune qui a de la suite dans l'idée, tu es un peu jaloux.\\
+\underline{Leonard J. Andrews} : Il se tuera au travail. Il devrait profiter plus des joies de la vie.\\
+\underline{Jessica  Ethwings}: très surprenante, elle est ton seul vrai soutien dans la meute. \\
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Changement partiel}{}{Vigueur + Survie + Instinct primal}{[1 point de volonté]}{121}
+\don{Voix autoritaire}{}{ Manipulation + Intimidation + Honneur vs Résolution + calme}{1 Point d'Essence}{107}
+\don{Aura de trêves}{}{Manipulation + Persuation + Honneur}{1 Point d'Essence}{113}
+
+
+\clearpage
+\section{Ithaeur}
+\begin{description}
+\item[Nom:]{Jessica Ethwings}
+\item[Origine:]{Canada}
+\item[Auspice:]{Ithaeur/Shaman}
+\item[Tribu:]{Os de l'ombre}
+\item[Profession:]{Vétérinaire}
+\item[Age:]{26 ans}
+\item[Histoire:]{ 
+Avis:\\
+\underline{Peter Torhes} : Il sait lire les gens et n'est pas le dernier dans les combats. Cependant son besoin de richesse et de gloire pourrait un jour lui être dangereux pour la meute. \\
+\underline{Luke Hereford} : Petit dernier de la meute. Il te semble encore trop inconscient des dangers qui vous entourent.\\
+\underline{Leonard J. Andrews} : Toujours fidèle au poste. Tu as une bonne amitié avec lui.\\
+\underline{Lynn Ethwings}: Ta sœur, tu dois la protéger. Elle est trop fragile pour ce monde. Elle t'a bien aidé pour trouver des camarades de meute. Tu sais bien qu'elle prend sa nature comme un fléau.\\
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Langue animale}{}{Manipulation + Animaux + Pureté}{1 point de volonté}{130}
+\don{Sentir la malice}{}{Astuce + Occulte + Sagesse}{}{114}
+\don{Témoignage de cadavre}{}{Manipulation + Occulte + Pureté}{1 point d'essence}{129}
+
+\chapter{L'histoire commence}
+\section{Informations aux PJ}
+\begin{itemize}
+\item Lynn Ethwings :  institutrice (Cahalithe) : Beaucoup d'enfant sont absent. 
+\item Peter Torhes :  Chérif (Elodothe) : Vision du conte le petit chaperon rouge, sauf qu'a la fin une femme pleure le loup. 
+\item Luke Hereford : agriculteur (Rahu) : Animaux mort 
+\item Leonard J. Andrews : garde chasse (Irraka) : un Sénateur US et sa famille sont dans le coin. Cela demande un petit plus en sécurité. Ils souhaitent faire des chasses bien importante. 
+\item Jessica  Ethwings: vétérinaire (Ithaeur) : 
+\end{itemize}
+
+\chapter{Les préléminaires}
+\section{L'hivers}
+Première neige: 17 janvier (tot un lundi matin) => ville paralysé
+1 m de neige en une nuit en 2 jours
+Le 19 la temperature passe sous les 0, et le vent se lève 50km/h
+
+\subsection{Les transports: CTA}
+pas assez de sel pour les routes, les bus sont coincés
+Taxi pareil, l'aéroport pareil.
+Le train est lent et surchargé
+Les routes sont pleins de naufragés de la route
+Des immeubles s'éffondrent à cause du poids de la neige sur le toit (des vieux).
+Les clochards meurent
+L'essence a des reflets de froid. 
+
+
+
+
+des esprits de la ville (ou technologie) possède des humains pour leur faire réparer des choses.
+Les esprits d'eau et de froid gagne en puissance. 
+
+\section{Les incendis}
+Premier feu le 19 (meme jour que la vague de froid)
+le 1er à lieu au : Heritage Unitarian Church sur North Broadway, dans le Lakeview East district. 
+Le batiment n'est pas détruit, le toit oui.
+Le 2ème feux est un immeuble dans les quartiers pauvres(latino) dans le Pilsen/Little Village dans southwest
+Chicago. La famille du départ du feu est entierement morte. 
+Le 3eme est dans Oak Park, Une grande demeure victorienne brule dans la nuit, sans se répendre aux autres maisons.
+Le 4eme arrive au 20ème étage d'un gratte ciel, un immeuble de banque, 2 mecs sont morts un 3eme est gravement blessé.
+La neige est maintenant devenue une couche de glace.
+
+Les pompiers sont génés pour arriver sur les lieux des feux
+
+\section{Les lésions}
+Chaque incendie prvoque une lésion dans le monde des esprits. 
+-1 a la perception visuelle dans la zone
+Cela pue (si un lg touche le sang, ses adversaires gagnent 2 dés pour le chasser). 
+Les esprits locaux sont altérés par l'esprit feu (feu dans les yeux, fumé...), des petits esprits feu (moins violent que les autres).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end{flushleft}
+\end{document}

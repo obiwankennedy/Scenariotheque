@@ -1,0 +1,189 @@
+% !TEX encoding = UTF-8 Unicode
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[oneside,12pt]{book}
+\usepackage[left=2cm,top=1cm,right=3cm,nofoot]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... 
+\usepackage{tabularx}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage[french]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\newcommand\don[5]{
+\textbf{#1} \\
+#2
+\begin{itemize}
+\item{ \textbf{jet}: #3}
+\item{ \textbf{Cout}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+
+
+\title{La Croisière tombe à l'eau}
+\author{Renaud "ObiWan" Guezennec}
+\date{}
+
+%\let\origdescription\description
+%\renewenvironment{description}{
+%  \setlength{\leftmargini}{0em}
+%  \origdescription
+%  \setlength{\itemindent}{1em}
+%}
+
+
+\begin{document}
+
+\maketitle \clearpage
+\tableofcontents \clearpage
+
+\begin{flushleft}
+    \chapter{Introduction}
+        \section{Lire introduction sur l'univers d'Arcane}
+       Voir le document à cet effet. 
+         
+\chapter{L'histoire commence}
+\section{Le briefing}
+Les personnages sont dans la salle de briefing de l'Agence.
+Le colonel Duchatel les informe de leur mission.
+\subsection{à dire au joueur}
+"Vous allez partir en croisière à bord du HSS Félicy. C'est un navire de croisière qui part demain de Toulon. Il se dirige vers la Grèce. Il fera plusieurs escales sur le trajet: 
+La corse, la sardaigne, le sud de l'italie puis la crète et des îles grecques."
+Votre mission est d'enquêté sur cet homme: \includegraphics[scale=0.5]{muller.png}
+
+Le professeur Muller.
+C'est un ancien nazi, il avait disparu depuis 15 ans. Il a refait surface récemment. Vous avez tous un dossier sur lui sur vos tables. Il n'est pas un joueur.
+Il est connu pour avoir diriger le projet Spaßmacher. Nous ne connaissons pas les objectifs de ce projet. En revanche, nous savons qu'il est un grand généticien et qu'il avait d'important fond du régime.
+Nous avons des preuves qu'il voyagera à bord du Félicy. Votre mission est de savoir, ce qu'il fait là. Je demanderais la plus grande discrétion. On ne vous demande pas de l'arrêter. 
+Nous traquons ce gus depuis qu'il est revenu en europe. Ils semblent être passer par des grandes villes européenes : Marseille, toulon, londres, paris, berlin. On sait qu'il fait des recherches sur des navires. On comprends pas très bien le pourquoi. De nombreux agents français, anglais sont morts en lui suivant (c'était pas des joueurs).  
+Si vous avez à intervenir, faite le rapidement, et sans bavure. Il est possible que d'autre pays soient dans le coup. Surtout faite attention au Mossad, ils sont assez intraitable avec des anciens nazi."
+Vous partez dès ce soir pour Toulon. 
+
+Équipements: Imagination des joueurs
+Couverture: couple, Imagination des joueurs
+\section{profil des perso}
+Un universitaire, il travaille officiellement à l'université de paris-la Sorbone: en Histoire spécialiste 1750-1850 révolution et napoléon. Il ne travaille pour l'agence que rarement, c'est un ritualiste. \\
+une geekette de 1960; jeune recrue, elle sort d'une grande école d'ingénieur française (genre polytechnique) experte en electronique, explosif, telecom, \\
+un commando : jeune recrue aussi (meme promo que la geekette), c'est l'expert en arme, le vrai soldat \\
+le chef: très james bond en plus noir , il aime bien torturé les gens, expert des interrogatoires musclés.\\
+LicenceToKill: James bond girl; elle est chargé d'assassiner des gens discrètement, elle peut organiser une soirée pour avoir 90 témoins qu'elle était là, puis s'échaper 10 minutes et tuer un mec, ninja aussi, catwomen, cat eyes....\\
+
+
+
+\section{couverture}
+Laisser l'imagination des joueurs cependant, le prof d'université est assez connu dans son domaine. Il peut choisir de garder sa vrai identité c'est le seul qui a une vrai identité. En général les autres perso passe pour être son assistante ou sa fille un truc comme ça.
+
+\section{Attaque dans le train}
+Une petite frappe va essayer de voler les pj. Pouvant éventuellement casser leur couverture. Ce chapitre est utile pour faire la description des persos, maintenir leur couverture, voir tester un peu les passes et le système.
+
+\section{Le bateau: le lendemain à  10h}
+Montée des passagers, il n'est pas facile d'identifier Muller. Il est déguisé et protéger par un rituel. 
+Les joueurs distinguent plusieurs personnes qui peuvent être suspecte. Le mieux c'est de les laisser trouver la cabine de Muller par la liste des passagers.
+
+\section{Évenement}
+\begin{tabularx}{19cm}{|X|X|X|}
+     \hline
+            Date & Heure & Position Bateau  & Action des méchants  \\
+     \hline
+            8 juin & 10h &  Départ du bateau & Muller reste dans sa cabine, ses hommes apportent la bouffe. \\
+     \hline 
+            8 juin & 15h & Au large de toulon & Deux hommes sortent de la cabine de Muller, le 1er va à la bibliothèque (juste a coté de la cabine), et l'autre va négocier avec un membre d'équipage véreux(armes et explosif). \\
+    \hline
+            8 juin & 20h &  Large de la corse & Muller joue (et gagne) avec ses hommes à des jeux: poker, black jack .... \\
+    \hline
+            9 juin & 12h &  Première escale à Pompei & Muller sort visité Pompei, un vrai touriste, ses "gardes du corps" vont réserver du matos de plongés. (pendant ce temps la mafia fait monter le matos et installe les explosifs pour ce soir \\
+    \hline
+            9 juin & 20h &  Départ du bateau & partie de l'équipage fait monter du matos de pongée dans le bateau \\
+    \hline
+            10 juin & 2h & Détournement du navire & 2 joueurs sont dans les calles pour le rituels, Muller et le dernier joueurs sont dans la passerelle de commandemant du navire (détourné le navire)  \\
+    \hline
+\end{tabularx}
+
+\section{Les joueurs doivent identifié Muller}
+Muller a une cabine sur le pont supérieur. Ses 3 gardes du corps sont juste à côté.
+Les Pj peuvent l'identifier Muller et ses hommes. Laisser improviser les joueurs pour trouver le mec. 
+
+\section{Messes basses}
+Les agents autour de Mullers sont des joueurs d'une maison. Ils échangent de nombreux informations avec des members d'équipages. Il
+sera facile de voir que beaucoup de matelots ont un accent très prononcé, globalement c'est des italiens (mafia).  
+
+\section{Diner et poker}
+3 agents dinent avec Muller. 
+Le capitaine aura fait demander le professeur d'université (le seul qui n'a pas vraiment de couverture) à sa table. Voir même le capitaine peut reconnaitre le prof. 
+Le capitaine du bateau est un grand capitaine hadock en plus italien, bon vivant de 55 ans , accompagné d'une ravissante jeune fille de 19 ans (ils vont se marier).
+A la table du capitaine, il y a le commandant en second, une personne plus froid et lasse (l'air de dire, je commande le bateau mais j'en ai pas la paye.) 
+Le capitaine parle avec le prof et lui dit que son article sur la bataille du frond russe de napoléon était très intéressant. 
+Pendant le diner, c'est lady Coccinelle chante, plusieurs perso peuvent la reconnaitre : les deux super agents: LicenseToKill et james bond.
+
+Ils vont souvent jouer au poker après diner. Ils perdent souvent mais ne semble pas en être déçu.
+
+\section{Escale à Pompei}
+Muller et ses hommes vont visités les vestiges. De vrais touristes! Il entre dans des boutiques de souvenirs. Ils peuvent aussi acheter des cartes de la région à l'office du tourisme local. En fin de journée (18h) ils vont commender du matos de plongée, le matos doit être récup par des membres de l'équipage du félicy juste avant le débart (genre juste juste avant). 
+
+\section{cabines du bateau}
+Sur le pont il y 14 suites, elle communique entre elle deux par deux: la 1 avec la 2, la 3 avec la 4 ... 
+La bibliothèque occupe la taille des suites 15 et 16. Muller s'est installé dans la cabine 7 et 8 avec ses gardes du corps, la plus proche de la bibliothèque, lady coccinelle utilise la 10ème (à l'autre bout du navire, les PJ ne peuvent pas loger la dedans, l'agence n'a pas les moyens), ils sont le niveau juste en dessous (les gros bourgeois mais pas trop). Les niveaux inférieurs sont pour les 2ème classes et encore en dessous ce sont l'équipage , la salle des machines, le réseau électrique.
+Il y a 2000 passages, pour 400 membres d'équipage dont 100 qui sont des mafieux recruté par les gardes du corps.
+
+
+\section{Effectif à bord}
+Il y a les PJ de l'agence Française: l'Agence.
+3 Joueurs allemands sont connu des services pour être des agents de la RFA.
+Il est possible de voir une femme chanteuse à bord. Elle est de mèche avec les services Américains (elle a probablement des hommes à elle). 
+Il y a aussi des agents du Mossad qui vont essayer d'enlever Mullerstein.
+
+\section{Enquête sur les naufrages}
+Les seules personnes capable de connaître l'histoire sont le capitaine et le chef des mécanos (loubart des mers) . 
+En 1944, Un navire de transport (Le Liberté s'est échoué au Nord de la Sicile). Le HMS Gabriel lui a porté secours (la même nuit). Il s'est échoué aussi.
+D'autres navires (pécheurs) du coin se sont échoués en cherchant le HMS Gabriel. Depuis cette date une petite zone au large de la Sicile est maudite car on rapporte toujours des disparitions de petits navires.
+Les marins ont peur de cette zone. Le ferry y passera à coté au milieu de la nuit suivant l'escale à pompéi.
+
+
+\section{Le détournement}
+La soirée commence par un concert de Lady Coccinelle (l'agent américain) grande chanteuse de jazz de la nouvelle orléan. Les PJ peuvent croiser des gens venu la voir en concert. 
+Le navire ralenti, change de cap, et accélère. 
+2h du mat, Des bruits de pas rapide dans les couloirs, Un matelos demande aux gens de se regrouper dans les salles de balls. Les haut parleurs du bateau demande la même chose.
+On entends du bruit au loin du bateau, des coups de feu.
+L'équipage parle de fuite de gaz dans la ventilation des cabines. Il faut évacuer les cabines le temps de repérer. 
+Les gens sont enfermés dans la salle, il y a des gens au service (bar) et de la musique, la salle de concert est déjà pleine.  
+
+Les PJ peuvent sentir une passe de transformation (non de l'arcane a retrouver) elle démarre l'explosif mais les explosif peuvent aussi être commander à distance (l'explosion est moins efficaces maissuffisante pour le rituel).
+A 2h30, des explosions aux niveaux des salles de balls et de restaurants. 
+La mort des passagers alimente un rituel censé détruire une marche.
+
+Si le rituel se réalise, de nombreux débris viendront se fracasser contre la coque du bateau.
+Des épaves du navires 
+
+\section{ poste de pilotage du navire}
+Le chef des gardes du corps est là, avec la Lady coccinelle, muller aussi, le capitaine est mort ainsi que un ou deux memebres d'équipages, le commandant en second 
+a pris les commandes.
+
+\section{ Lady coccinelle }
+Agent américain, elle est seule sur le bateau de son agence c'est une joueuse. Elle espère gagner soit en forcant les PJ à s'entre tué avec les gardes du corps de muller. Soit en aidant les gardes du corps pour donner du temps à une intervention plus puissante de l'agence Américaine. Elle peut donner des infos aux PJs. 
+
+\section{Erich Kästner: Patient 0}
+Muller est le «papa» de Erich. Il est le patient 0 du programme Spaßmacher. Il est un succès partiel (ou un echec partiel).
+Il a la capacité de pompé la chance des personnes autour de lui. Il est aussi très lier à l'arcane de la tour.
+C'est lui qui dans le CSS félicy a fait sombrer le navire. Pour ce sauver il a essayé un truc. 
+Par sa tentative désespérée, il a crée une marche. Muller veut récupérer le virus modifié qui transforme les gens en joueur. Il gagnera du temps pour le recréer.  
+Les garde du corps force muller a les suivre il est un peu leur prisonnier. Il  pourrait mourir pendant l'attaque des PJs. 
+
+\section{Si le rituel marche}
+Si le rituel se réalise, de nombreux débris viendront se fracasser contre la coque du bateau.
+Des épaves de navires refont surface parmi elles le gabrielle et le liberté. 
+Muller et ses gardes du corps veulent allé à dans l'épave (c'est pour ça le matos de plongé), il y trouverons le patient 0, a moins que ce soit lui qui trouvent les autres.
+ 
+\section{Si le rituel ne marche pas}
+Les joueurs devront  apprendre à (par interogatoire desgarde du corps ou de muller) qu'un joueur est responsable de cela. Il est possible pour des joueurs de s'y rendre.
+Impossible pour Erich de couler le navire car bcp trop gros. Il y aura un problème c'est que rentrer dans la passe est assez facile pour des joueurs. Mais personne ne peut en sortir car elle est mal faite. Dans tous les cas, ils ne resteront pas longtemps. Le temps s'écoule comme 1 minutes dans la passe = 6 mois dehors. Il ressortiront car quelqu'un a réussi à le rituel pour casser la passe. Le reste n'est pas dit dans le scénario. C'est jamais arrivé que quelqu'un arrive là. 
+
+\section{}
+
+
+\end{flushleft}
+\end{document}

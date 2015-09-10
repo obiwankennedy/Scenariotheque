@@ -1,0 +1,280 @@
+
+% !TEX encoding = UTF-8 Unicode
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[oneside,12pt]{book}
+\usepackage[left=2cm,top=1cm,right=3cm,nofoot]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ...
+\usepackage{tabularx}
+
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage[french]{babel}
+\usepackage{listings}
+\usepackage{graphicx}
+\newcommand\don[5]{
+\textbf{#1} \\
+#2
+\begin{itemize}
+\item{ \textbf{jet}: #3}
+\item{ \textbf{Cout}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+
+
+\title{Saint-Petersbourg}
+\author{Renaud "ObiWan" Guezennec}
+\date{}
+
+%\let\origdescription\description
+%\renewenvironment{description}{
+%  \setlength{\leftmargini}{0em}
+%  \origdescription
+%  \setlength{\itemindent}{1em}
+%}
+
+
+\begin{document}
+
+\maketitle \clearpage
+\tableofcontents \clearpage
+
+\chapter{Les personnages}
+\begin{flushleft}
+\clearpage
+\section{Ivan}
+\begin{description}
+\item[Nom:]{Ivan}
+\item[Clan:]{Ventrue}
+\item[Concept:]{Etudiant}
+\item[Age:]{23 ans}
+\item[Histoire]{Tu as toujours vécu avec ta soeur (Ylena). Ton beau-père était un gros pervers et il battait régulièrement ta soeur (elle était bébé). Votre mère était une junckie et alcoolique. Tu savais que ta soeur ne survivrai pas longtemps dans cette famille. Tu as donc pris la décision de t'enfuir avec elle.
+Avant de partir, tu t'es assuré grâce à une petite fuite de gaz et un briquet que ton beau père ne causera plus de mal à quiconque.
+Tu as trainé quelques temps avec ta soeur puis vous avez été héberger dans divers structures: Famille d'accueil, orphelinat, foyer pour jeune. Tu sais que tu as pris la bonne décision et ta soeur était bien trop jeune pour se souvenir de ces détails.
+Au fils de tes aventures, tu as rencontré tes amis actuels. Vous vous êtes installé à Saint-Petersbourg car la ville est propice aux profits en tout genre. Malheureusement, ta soeur est tombée gravement malade.
+Les médecins ne lui laissent que quelques mois à vivre. Tes amis et toi avaient tout fait pour lui trouver les médicaments (vol et deal).
+Lors d'une de vos expéditions noctures dans la pharmacie d'un hopital, vous avez surpris une créature en train de se nourrir.
+Il vous a poursuivi pour éliminer tous témoins. Ta stratégie, la présence d'esprit et la force de tes amis ont permis de piéger la créature.
+Vous étiez troublés par ces événements, d'autres sont arrivées et se sont vengés. Ils vous ont transmit leur malédiction.
+Depuis, tu es un vampire du clan Ventrue. Tes amis et toi forment une coterie. Tu t'es un peu imposé comme le leader.
+Ton nouveau pouvoir t'a donné un nouvel espoir pour sauver ta soeur. Seul le prince de la ville a le pouvoir de la sauver. La medecine ne peut plus rien pour elle.
+}
+\end{description}
+\begin{description}
+\item[Oleg]{C'est un type bien, fort et loyal. Un ami sincère et de longue date. Il aime bien te défier à la course ou des peties choses comme ça. Il est le petit ami de ta soeur. Guidé il est une arme puissante, s'il laisse libre-cours à ses instincts, il pourrait être dangereux pour toi. Il ne faut pas lui laisser croire qu'il peut se débrouiller sans toi.}
+\item[Yakim]{C'est l'intello de la bande, il semble te reprocher un peu sa condition, il ne dit rien car cela blesserai Akilina (sa copine), il attend que tu faces la moindre erreur pour te voler la vedette. Tu le comprends un peu avant que vous ne débarquiez dans sa vie, elle était plutot cool pour lui. Il est un peu dur à motiver mais il est souvent de bon conseil. Tu aimerais qu'il célèbre sa nouvelle condition alors qu'il en porte le deuil. }
+\item[Akilina]{Très jolie femme, elle est la meilleure amie de ta soeur et fut d'une grande aide dans les moments difficiles. Elle est un peu lunatique et a tendance à faire cavalier seul. Son comportement pourrait avoir des impacts sur Yakim. Sans elle, il sera beaucoup plus enclin à s'éloigner.}
+\end{description}
+ 
+\clearpage
+\textbf{\large Dons}
+\vspace{0.5cm}
+
+
+\don{Domination: Ordre}{Donner un ordre simple}{Intelligence + Intimidation + Domination vs résolution + puissance du sang}{}{130}
+\don{Domination: Hypnotisme}{Implanter un faux souvenir ou une fausse pensée}{Intelligence  + expression + domination vs Résolution + puissance du sang}{}{130}
+\don{Domination: Esprit distrait}{Permet de fouiller dans les pensées}{Astuce + Persuation + Domination}{}{131}
+\don{Invulnérabilité}{Permet de résister au dégats}{}{Un point de vitae}{119}
+
+\clearpage
+
+\section{Akilina}
+\begin{description}
+\item[Nom:]{Akilina}
+\item[Clan:]{Daeva}
+\item[Concept:]{Etudiant}
+\item[Age:]{21 ans}
+\item[Histoire]{Jusqu'a 16 ans, tu as vécu avec tes parents. Puis tu as rencontré Dimitriv, c'était un chanteur de Punk.
+Tu as fait des tournées avec lui et son groupe, puis il s'est lassé de toi. Tu as vécu quelques temps dans la rue.
+Finalement, tu as rencontré Ivan et sa soeur Ylena.
+Vous êtes devenues les deux meilleures amies du monde.
+Tes parents n'ont plus jamais voulu entendre parler de toi.
+Yakim t'apporta un paisible réconfort dans vos nuits de galère.
+Vous vous êtes installé à Saint-Petersbourg car la ville est propice aux profits en tous genre et petit boulot. Tu es du style à expérimenter par toi même beaucoup de choses: Drogues en tout genre, pratiques sexuelles. Malgré ses efforts, Yakim n'a jamais réussi a te faire décrocher la coke. Il t'a sauvé la vie plusieurs fois, après des overdoses, ou des tentatives de suicides.
+Malheureusement, Ylena est tombée gravement malade.
+Les médecins ne lui laissent que quelques mois à vivre.
+Tes amis et toi avaient tout fait pour lui trouver les médicaments (vol, deal). Tu as même pensé à la prostituton.
+Lors d'une de vos expéditions noctures dans la pharmacie d'un hôpital, vous avez surpris une créature en train de se nourrir. Il vous a poursuivi pour éliminer tous témoins.
+Ta présence d'esprit, la force et la stratégie de tes amis ont permis de piéger la créature.
+Vous étiez troublés par ces événements, d'autres sont arrivées et se sont vengés.
+Ils vous ont transmit leur malédiction. Depuis, tu es une vampire du clan Daëva.
+Tes amis et toi forment une coterie. Tu l'as accepté car c'est une bonne protection, d'avoir des amis. Cependant tu te rends compte qu'avec tes nouveaux pouvoirs, tu peux être indépendante. Quand le sort de Ylena sera fixé, tu t'en ira. Tu désires voir de nouvelles choses. Tu ne pourras pas faire de grandes choses en leur compagnie. Cela causera beaucoup de peine à Yakim mais c'est comme ça.
+}
+\end{description}
+\begin{description}
+\item[Oleg]{C'est un type bien, fort et loyal. Un ami sincère et de longue date. Il joue un petit jeu avec Ivan de qui à la plus grosse. Il est le petit ami de Ylena.
+Depuis, son changement il est plus fort qu'avant et pourrait un jour être dangereux. Ce nouveau côté bestial n'est pas pour te déplaire. Cela doit être très plaisant de gouter son sang pendant une nuit torride. Bien sur une telle relation causerait de nombreux problèmes dans le groupe.}
+\item[Yakim]{C'est ton petit amis, tes sentiments pour lui ne sont plus aussi fort qu'avant ton étreinte. C'est difficile à expliquer. C'est plus flou, Tu as incontrôlables envies pour d'aurtres partenaires. C'est un appetit autant sexuel que alimentaire. Le plaisir de se nourir est bien supérieur à n'importe quel orgasme. Tu t'éloignes donc de lui de plus en plus. Il te mets même un peu mal à l'aise maintenant avec sa malédiction de clan. Il reste cependant très attaché à toi et cela te fait mal de le trahir. D'un autre côté, sa présence te rappelle vos jours heureux de votre humanité passée. }
+\item[Ivan]{C'est une personne que tu respectes. Il est assez brillant pour trouver une solution dans un problème en apparence sans espoir. Cependant il commence à vouloir tout commander et il serait bon qu'il se calme un peu de ce côté là. Sa soeur est mourrant mais cela ne justifie pas tout.}
+\end{description}
+ 
+%\clearpage
+\clearpage
+\textbf{\large Dons}
+\vspace{0.5cm}
+
+\don{Majesté: Révérence}{Captiver un public, attirer son attention}{Présence + Expression + Masjesté}{}{134}
+\don{Majesté: Révélation}{La victime sera d'humeur à partager tous ses secrets.}{Manipulation + Persuasion + Majesté vs Calme + puissance du sang}{}{135}
+\don{Majesté: Transe}{La victime admire et aime le vampire}{Manipulation + Empathie + Majesté}{}{136 }
+\don{Célérité}{Augmente la vitesse du sujet, peut améliorer sa défense ou son initiative}{}{Point de vitae}{125}
+
+
+\clearpage
+\section{Oleg}
+\begin{description}
+\item[Nom:]{Oleg}
+\item[Clan:]{Gangrel}
+\item[Concept:]{Chevalier Nocture}
+\item[Age:]{18 ans}
+\item[Histoire]{ Tu as toujours été sportif et vif. Issu d'une famille modeste dans une ville de banlieue sans avenir, tu as pu lier des contacts avec certaines organisations. Tu étais sur sorte d'huissier un peu particulier.
+Tu avais le rôle de faire peur ou de casser quelques doigts. Un jour, ils t'ont demandé de régler le compte d'un commerçant local qui refusait de payer sa protection.
+Tu préféras fuir la mafia et oublier tout cela. Eux n'oublièrent pas. Dans ta cavale, tu passas pas loin de la mort une ou deux fois.
+Puis tu rencontras Ivan et sa sœur Yelena. Ils étaient en galère aussi et vous avez fait un bout de chemin ensemble. Bientot rejoint par Akilina et Yakim. Ivan monta un piège astucieux pour te débarrasser des hommes de main à ta poursuite.
+Ils finirent en prison te permettant de respirer un peu. Yelena et toi sortirent ensemble jusqu'au diagnostic de sa maladie.
+Pour la soigner, vous avez voler de l'argent et des médicaments.
+Lors d'une de vos expéditions noctures dans la pharmacie d'un hopital, vous avez suppris une créature en train de se nourrir.
+Il vous a poursuivi pour éliminer tous témoins. Ta force, la présence d'esprit et la stratégie de tes amis ont permis de piéger la créature.
+Alors que vous étiez troublés par cette chose, d'autres sont arrivées et se sont vengées. Ils vous ont transmit leur malédiction. Tu es maintenant un vampire de clan Grangrel.
+Yelena est mourante et cela te rend fou de rage. Le seul moyen de la sauver, c'est de l'étriendre aussi. Tu espères que le prince acceptera. Tu n'aimes pas trop son petit jeu.
+Ils profitent de votre faiblesse pour se servir de vous.  D'abord sauver Yelena puis régler le problème du prince.
+\\
+Ton esprit est de plus en plus bestial, tu te sens plus limité qu'avant et des fois tu ne comprends pas ton comportement. 
+}
+\end{description}
+\begin{description}
+\item[Akilina]{Trés jolie fille, meilleure amie de Yelena, c'est quelqu'un de confiance. Tu la sens plus frivolle qu'avant elle pourrait reserser quelques mauvaises surprises quand Yelena sera sortie d'affaire.
+Tu la soupçonnes d'avoir qu'elle ambition sur toi. Tu as vu des regards que ne trompe pas. Hors de question d'y préter attention. Elle a un peu des ambitions sur tout le monde d'ailleurs. Ça vient peut-être de sa condition de vampire. }
+\item[Yakim]{Tu l'admires beaucoup, c'est le contraire de toi. Il est très intelligent. Il vous a bien dépanné à votre arrivée à saint-Petersbourg.    }
+\item[Ivan]{Ton meilleur pote et accessoirement ton beauf. Tu aimes bien le défier par des petits jeux (course ou bras de fer). Il te laisse souvent gagner, tu penses.
+Au fond de toi tu sais que tu es capable de la battre sur de nombre domaine physique mais son esprit est sa pire arme. Tu as compris qu'il ne fallait pas trop être sa cible. Son arrogance depuis son etreinte est devenue assez difficile à supporter d'autant que ton côté animal et sauvage n'aime pas vraiment recevoir des ordres. S'il te pousse à bout tu as peur des conséquences.}
+\end{description}
+ 
+\clearpage
+%\clearpage
+\textbf{\large Dons}
+\vspace{0.5cm}
+
+\don{Métamorphose: Aspect du prédateur}{Projete une aura de férocité sur les autres}{}{}{138}
+\don{Métamorphose: Refuge de terre}{Permet de fusionner avec la terre (pratique pour se cacher du soleil)}{}{1 vitae}{138}
+\don{Métamorphose: Griffe de la bête}{Le vampire obtient des griffes surnaturelles}{}{1 vitae}{134 }
+\don{Invulnérabilité}{Permet de résister au dégats}{}{Un point de vitae}{119}
+
+
+\clearpage
+\section{Yakim}
+\begin{description}
+\item[Nom:]{Yakim}
+\item[Clan:]{Nosfératu}
+\item[Concept:]{Rat de Laboratoire.}
+\item[Age:]{21 ans}
+\item[Histoire]{
+Quelques mois avant de rentrer en fac de droit, tu as rencontré une ravissante jeune femme du nom de Akilina. Tu en es devenu fou amoureux et vous avez vécu ensemble à saint petersbourg. Tous se passait bien jusqu'à que ses amis arrivent. Tes résultats à l'université se sont effondrés (toi qui a toujours été le premier de la classe). Tu as hébergé et aidé le groupe d'amis d'Akilina. Tu sais que son amour est sincère. Tu ne regrettes pas vraiment ton passé tranquille et tout tracé. Tu as été embarqué dans de drôles d'histoires mais tu en rigoles encore avec eux. Tu sais que beaucoup de ses actes ont été poussé pour aider Ylena (la meilleur amie de ta copine). Tu as participé à cette aide: tu as menacé de poursuite judiciaire certains de ses medecins. C'était plus de l'intimidation qu'autre chose mais cela à un peu aidé.
+Ivan te demande souvent conseil ou te demande une information. Tu as vraiment une culture exceptionnelle c'est un peu ça qui a séduit Akilina.
+Le plus gros changement que tu as vécu à cause de ce groupe c'est bien sur ta naissance dans le monde de la nuit. Tu es un vampire du clan Nosfératu depuis que vous avez contrecarrer les plans d'un groupe de vampire. Par vangeance, ils vous ont donné leur malédiction.
+depuis ce moment, tu sens bien que les humains se méfit de toi, tu provoques facilement la peur chez les autres. Akilina ne semble plus aussi intéressée qu'avant. De ton côté, cette nouvelle non-vie t'intéresse beaucoup et tu passes des heures à lire dans les archives des différents clans. Tu comprends maintenant que les humains vivent dans un monde dont ils ne connaissent rien. Tu détiens la vérité. Le plaisir d'être avec elle est moins présent également. Tu n'as l'impression que de ressentir le souvenir de ce sentiment, pas le sentiment lui même.}
+\end{description}
+\begin{description}
+\item[Akilina]{Ta copine, pour ses yeux tu aurais traversé des océans. Ça c'était avant maintenant, tu souffres de ne plus ressentir la même chose. Elle est plus distance aussi, la même mélancolie doit la toucher également. Tu la sens beaucoup moins passionnée. Vos étreintes ne la satisfait plus.}
+\item[Oleg]{C'est une brute, tous dans les musques et rien ailleurs. Il est une personne de confiance qui se sacrifierai pour ses amis. Sa nouvelle force doit lui monter un peu à la tête, il nourrit des ambitions qui risquent d'être dangereuses pour vous et pour lui même. }
+\item[Ivan]{Le chef, c'est un malin, tu es assez content quand il fait appel à tes talents. Il a beaucoup de charisme. Tu es plus intelligent que lui pourtant on l'écoute plus souvent lui que toi. Tu sais parler pour dénouer la tension dans le groupe. C'est un bon chef, tu le reconnais.}
+\end{description}
+ 
+%\clearpage
+\clearpage
+\textbf{\large Dons}
+\vspace{0.5cm}
+
+\don{Cauchemar: Visage Monstrueuse}{Montre le vrai visage du vampire, fait fuir un ennemi}{Presence + Intimidation +Cauchemar}{}{124}
+\don{Dissimulation: Toucher de L'ombre}{cache un petit objet sur le corps du vampire}{Astuce + larcin + Dissumulation}{}{117}
+\don{Dissimulation: Masque de Tranquillité}{Le vampire ne peut-etre identifier par une nouveau vampire}{}{}{134 }
+\don{Dissimulation: Menteau de nuit}{le vampire devient invisible}{Intelligence + furtivité + Dissimulation}{}{118}
+
+
+\clearpage
+\section{Viktorya}
+\begin{description}
+\item[Nom:]{Viktorya}
+\item[Clan:]{Mehket}
+\item[Concept:]{Infirmière amnésique}
+\item[Age:]{18 ans}
+\item[Histoire]{
+Tu es une fille sans histoire, célibataire et en stage dans l'hopital de la prison. Tu te souviens avoir été suivi dans le parking, puis une grande peur t'envahie. Tu as courru mais tu t'es fait rattrapper.
+Le souvenir des mains délicates mais fermes qui t'ont attrapé. Tu as eu le temps d'émettre un cri.
+Le froid du corps de ton agresseur te troublea beaucoup. Tu te souviens du plaisir que tu as ressenti alors.
+Après un temps qui te parut une éternité, tu ressentis une douleur énorme, provenant de tous tes organes à la fois.
+Tu t'es réveillé la nuit suivante dans une placard du même parking.
+Ta voiture n'était plus la. Tes vêtements étaient plein de sang.
+Tu as éré quelques heures dans la ville. Ce fut une expérience assez psychédélique.
+Tu avais l'impression de mieux voir les couleurs, d'entendre les bruits. La faim te tiraillait.
+Très vite tu te sentis observée. Cinq personnes sont arrivés pour te conduire devant le prince.
+Plein de questions volaient dans ta tête à ce moment là: Que m'est-il arrivé ? Qui sont-ils ? ...
+Ils t'ont présenté à un mec sur un trône. Cela ressemblait à une secte et son gourou.
+Il t'a demandé de te présenter.
+Tu as visiblement oublié des choses et a été un peu puni pour cet oubli. Ils t'ont demandé le nom du clan.
+Tu n'as pas su quoi lui répondre.
+Quand ils ont compris le niveau de ton ignorance. Le prince t'a dit "Tu es une vampire!".
+Tu n'as pas tous compris mais visiblement beaucoup de personne dans l'assemblée voulez te voir morte.
+Quelques individues ont parlé pour te sauver et ont réussi à convaincre le prince.
+Tu sais que les gens qui t'ont aidé sont du même clan que toi: les Mehkets.
+Il a ordonné à une bande de te recueillir et de t'apprendre à te nourrir. S'ils réussissent ils seront récompensés.
+}
+\end{description}
+ 
+\clearpage
+%\clearpage
+\textbf{\large Dons}
+\vspace{0.5cm}
+
+\don{Auspex: Sens accrue}{Tous les sens sont améliorés }{}{}{118}
+\don{Auspex: Lecture des auras}{lire les auras: connaitre les sentiments du sujet: colère, mensonge , amour ...}{Astuce + empathie + auspex}{}{118}
+
+
+\chapter{Contexte}
+\section{Population Vampire}
+\subsection{Le prince}
+Edward Langeois est le prince de Saint Petersbourg. C'est un ventru d'environ 250 ans. Il l'est depuis 50 ans, il l'a prise aux mains du cercle de la sorcière.
+
+\subsection{Orchidée Noire}
+Bras droit du prince, membre du cercle de la sorcière. Elle nouris sa vengeance depuis des décénnies. Elle est prêtes à passer à l'attaque.
+Elle a de nombreux alliés. L'organisation du prince est inflitrée à tous les niveaux, par contre, elle n'avait pas prévu la petite coterie des pj.
+Son plan consiste à détruire (ou grandement afaiblir) les Mekhet de la ville, ils sont de bons alliés du prince car la majorité fait partie de ... .
+En plus de cela, le climat de tension et de panique facilitera son action. Elle possède une dague sacrifièlle très performante. Elle est capable de tuer un vampire en un coup (si elle verse son sang sur la lame).
+
+\subsection{Autres}
+Il y a facilement quelques choses comme 150 vampires dans la ville.
+
+\chapter{Histoire}
+\section{Debut de la nuit visite chez le prince: Edward Langeois}
+Le prince leur confit le sort de Viktorya. Ils doivent lui apprendre la non-vie. Son sort doit etre discuter dans la nuit. Elle est issue d'une étreinte illégale.
+Son Sir doit etre trouvé.
+
+\section{Visite à l'hopital}
+La petite coterie a pour tradition de rendre visite à Ylena, tous les soirs. Elle est soignée dans un hopital de la ville assez réputé.
+Les joueurs se rendent compte assez vite qu'il y a un problème. Les lieux ressemblent d'avantage à une zone de guerre qu'à un hopital.
+Le rez-de-chaussé est complètement desert, Il est cependant possible de trouver un ou deux rescapés totalement tromatisés, ils répèteront qu'ils ont vu des démons. De nombreux cadavres sont présents, le matériel est complètement dévasté.
+
+\section{Viktorya à l'hopital}
+La nature de Viktorya fait qu'elle a beaucoup de mal à se nourrir sur des humains classiques.
+Elle préfère des humains infectés par une maladie.
+Si les joueurs décident d'aller la nourrir avant l'épisode de l'hopital, le sang bu ne lui plaira pas du tout. Etrange! (Pour quatre points de sang bu elle n'en récupère qu'un).
+Dans l'hopital, son appetit ou sa gourmendise l'handicaperont pas mal (faire des jets de résolution + calme). Si Viktorya est en présence d'Ylena, le test a un malus de -2.
+
+\section{Rencontre avec les Zombis}
+Au niveau des soins paliatifs, de nombreux individus sont débout et arpentent les couloirs sans réel but. Leur morsure n'infecte pas, par contre elle fait assez mal. C'est le moment d'une course-poursuite. Les zombis sont positionnés autour d'Ylena, qui semble être la chef des zombis.
+Ylena marche, elle n'en était plus capable depuis des années.
+Il ne faut pas hésité à faire une bonne scène d'action (voir les règles de poursuite dans le livre Monde des ténèbres). 
+
+\section{Viktorya et les zombis}
+Alors que les autres joueurs sont en galère avec les zombis, les zombis la laisse plutôt tranquille. Ils peuvent même l'appeler "Maman".
+Elle se sent un peu étrange à proxymité d'eux. Elle les ressent (en réalité, elle sera même capable de les contrôlé s'elle savait utilisé son pouvoir.
+
+
+
+\end{flushleft}
+\end{document}
+
+

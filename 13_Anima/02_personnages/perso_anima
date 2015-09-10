@@ -1,0 +1,47 @@
+{
+  "Advantages": {
+    "Increase One Characteristic to Nine": [
+      "DEX"
+    ],
+    "Ambidextrous": 1,
+    "Add One Point to a Characteristic": [
+      "STR"
+    ]
+  },
+  "Disadvantages": {
+    "Unattractive": 1
+  },
+  "Race": "Jayan Nephilim",
+  "XP": 0,
+  "levels": [
+    {
+      "Class": "Acrobatic Warrior",
+      "DP": {
+        "Attack": 75,
+        "Dodge": 75,
+        "Projectile Weapons": 50,
+        "Similar Weapon": [
+          "2 hand sword"
+        ],
+        "Ride": 30,a
+        "Acrobatics": 45,
+        "Notice": 10,
+        "Memorize": 10,
+        "Life Point Multiple": 2
+      },
+      "Natural Bonus": "Acrobatics"
+    }
+  ],
+  "Type": "Human",
+  "STR": 10,
+  "DEX": 4,
+  "AGI": 10,
+  "CON": 10,
+  "INT": 8,
+  "POW": 6,
+  "WP": 8,
+  "PER": 9,
+  "Appearance": 7,
+  "Name": "Slylar Owarki",
+  "Gender": "Male"
+}

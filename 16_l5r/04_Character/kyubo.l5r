@@ -1,0 +1,427 @@
+{
+  "attribs": [
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0
+  ], 
+  "family": "crane_daidoji", 
+  "insight": 0, 
+  "unsaved": false, 
+  "emph": {}, 
+  "void_points": 0, 
+  "deficiency": null, 
+  "unlock_schools": false, 
+  "void_cost": 6, 
+  "pending_wc_spell": [], 
+  "mastery_abilities": [], 
+  "properties": {
+    "marsta": "", 
+    "brosis": "", 
+    "eyes": "", 
+    "spouse": "", 
+    "weight": "", 
+    "money": [
+      0, 
+      0, 
+      0
+    ], 
+    "age": "", 
+    "father": "", 
+    "childr": "", 
+    "height": "", 
+    "hair": "", 
+    "mother": "", 
+    "equip": [], 
+    "sex": ""
+  }, 
+  "spells_per_rank": 3, 
+  "armor": null, 
+  "insight_calculation": {}, 
+  "weapons": [
+    {
+      "dr_alt": "N/A", 
+      "skill_id": "kenjutsu", 
+      "strength": "N/A", 
+      "name": "Katana", 
+      "tags": [
+        "medium", 
+        "melee", 
+        "samurai"
+      ], 
+      "base_atk": "", 
+      "min_str": "N/A", 
+      "rule": "", 
+      "qty": 1, 
+      "max_dmg": "", 
+      "range": "N/A", 
+      "cost": "N/A", 
+      "base_dmg": "", 
+      "max_atk": "", 
+      "dr": "3k2", 
+      "skill_nm": "Kenjutsu", 
+      "desc": ""
+    }, 
+    {
+      "dr_alt": "N/A", 
+      "skill_id": "kenjutsu", 
+      "strength": "N/A", 
+      "name": "Katana", 
+      "tags": [
+        "medium", 
+        "melee", 
+        "samurai"
+      ], 
+      "base_atk": "", 
+      "min_str": "N/A", 
+      "rule": "", 
+      "qty": 1, 
+      "max_dmg": "", 
+      "range": "N/A", 
+      "cost": "N/A", 
+      "base_dmg": "", 
+      "max_atk": "", 
+      "dr": "3k2", 
+      "skill_nm": "Kenjutsu", 
+      "desc": ""
+    }, 
+    {
+      "dr_alt": "N/A", 
+      "skill_id": "polearms", 
+      "strength": "N/A", 
+      "name": "Naginata", 
+      "tags": [
+        "large", 
+        "melee", 
+        "samurai"
+      ], 
+      "base_atk": "", 
+      "min_str": "N/A", 
+      "rule": "", 
+      "qty": 1, 
+      "max_dmg": "", 
+      "range": "N/A", 
+      "cost": "10k", 
+      "base_dmg": "", 
+      "max_atk": "", 
+      "dr": "3k2", 
+      "skill_nm": "Polearms", 
+      "desc": ""
+    }, 
+    {
+      "dr_alt": "N/A", 
+      "skill_id": "kenjutsu", 
+      "strength": "N/A", 
+      "name": "Katana", 
+      "tags": [
+        "medium", 
+        "melee", 
+        "samurai"
+      ], 
+      "base_atk": "", 
+      "min_str": "N/A", 
+      "rule": "", 
+      "qty": 1, 
+      "max_dmg": "", 
+      "range": "N/A", 
+      "cost": "N/A", 
+      "base_dmg": "", 
+      "max_atk": "", 
+      "dr": "3k2", 
+      "skill_nm": "Kenjutsu", 
+      "desc": ""
+    }
+  ], 
+  "health_multiplier": 2, 
+  "version": "3.0", 
+  "affinity": null, 
+  "start_spell_count": 0, 
+  "modifiers": [], 
+  "exp_limit": 40, 
+  "status": 0.0, 
+  "clan": "crane", 
+  "infamy": 0.0, 
+  "tags": [], 
+  "pending_wc_emph": [], 
+  "void": 0, 
+  "wounds": 0, 
+  "free_kiho_count": 0, 
+  "extra_notes": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;\">\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>", 
+  "advans": [
+    {
+      "cost": 18, 
+      "type": "void", 
+      "rule": null, 
+      "desc": "Void Ring, Rank 2 to 3. Cost: 18 xp"
+    }, 
+    {
+      "attrib": 1, 
+      "cost": 12, 
+      "type": "attrib", 
+      "rule": null, 
+      "desc": "Willpower, Rank 2 to 3. Cost: 12 xp"
+    }, 
+    {
+      "extra": "", 
+      "perk": "virtuous", 
+      "tag": "merit", 
+      "rank": 1, 
+      "cost": 3, 
+      "rule": "virtuous", 
+      "type": "perk", 
+      "desc": "Virtuous Rank 1, XP Cost: 3"
+    }, 
+    {
+      "extra": "", 
+      "perk": "quick_healer", 
+      "tag": "merit", 
+      "rank": 1, 
+      "cost": 3, 
+      "rule": "quick_healer", 
+      "type": "perk", 
+      "desc": "Quick Healer Rank 1, XP Cost: 3"
+    }, 
+    {
+      "extra": "", 
+      "perk": "absolute_direction", 
+      "tag": "merit", 
+      "rank": 1, 
+      "cost": 1, 
+      "rule": "absolute_direction", 
+      "type": "perk", 
+      "desc": "Absolute Direction Rank 1, XP Cost: 1"
+    }, 
+    {
+      "extra": "", 
+      "perk": "bentens_blessing", 
+      "tag": "merit", 
+      "rank": 1, 
+      "cost": 3, 
+      "rule": "bentens_blessing", 
+      "type": "perk", 
+      "desc": "Benten's Blessing Rank 1, XP Cost: 3"
+    }, 
+    {
+      "extra": "", 
+      "perk": "cursed_by_the_realm_chikushudo", 
+      "tag": "flaw", 
+      "rank": 1, 
+      "cost": -4, 
+      "rule": "cursed_by_the_realm_chikushudo", 
+      "type": "perk", 
+      "desc": "Cursed by the Realm (Chikushudo) Rank 1, XP Gain: 4"
+    }, 
+    {
+      "extra": "", 
+      "perk": "fascination", 
+      "tag": "flaw", 
+      "rank": 1, 
+      "cost": -1, 
+      "rule": "fascination", 
+      "type": "perk", 
+      "desc": "Fascination Rank 1, XP Gain: 1"
+    }, 
+    {
+      "extra": "", 
+      "perk": "insensitive", 
+      "tag": "flaw", 
+      "rank": 1, 
+      "cost": -2, 
+      "rule": "insensitive", 
+      "type": "perk", 
+      "desc": "Insensitive Rank 1, XP Gain: 2"
+    }, 
+    {
+      "extra": "", 
+      "perk": "brash", 
+      "tag": "flaw", 
+      "rank": 1, 
+      "cost": -3, 
+      "rule": "brash", 
+      "type": "perk", 
+      "desc": "Brash Rank 1, XP Gain: 3"
+    }, 
+    {
+      "skill": "iaijutsu", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Iaijutsu, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "iaijutsu", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Iaijutsu, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "skill": "kenjutsu", 
+      "cost": 2, 
+      "type": "skill", 
+      "rule": null, 
+      "desc": "Kenjutsu, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "skill": "kenjutsu", 
+      "cost": 3, 
+      "type": "skill", 
+      "rule": "ma_kenjutsu_3", 
+      "desc": "Kenjutsu, Rank 2 to 3. Cost: 3 xp"
+    }
+  ], 
+  "schools": [
+    {
+      "techs": [
+        "crane_the_force_of_honor"
+      ], 
+      "tags": [
+        "bushi", 
+        "crane_bushi", 
+        "crane_daidoji_iron_warriors", 
+        "crane"
+      ], 
+      "skills": {
+        "polearms": 1, 
+        "iaijutsu": 1, 
+        "kyujutsu": 1, 
+        "defense": 2, 
+        "battle": 1, 
+        "kenjutsu": 1
+      }, 
+      "school_rank": 1, 
+      "emph": {
+        "kenjutsu": [
+          "Katana"
+        ]
+      }, 
+      "deficiency": null, 
+      "tech_rules": [
+        "crane_the_force_of_honor"
+      ], 
+      "affinity": null, 
+      "is_path": false, 
+      "path_rank": 0, 
+      "school_id": "crane_daidoji_iron_warriors", 
+      "spells": []
+    }
+  ], 
+  "attrib_costs": [
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4
+  ], 
+  "mod_init": [
+    0, 
+    0
+  ], 
+  "step_1": {
+    "attribs": [
+      1, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "status": 0.0, 
+    "infamy": 0.0, 
+    "glory": 0.0, 
+    "tags": [
+      "crane_daidoji", 
+      "crane"
+    ], 
+    "skills": {}, 
+    "void": 0, 
+    "school_tech": null, 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 0.0, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "affinity": null, 
+    "start_spell_count": 0, 
+    "deficiency": null, 
+    "pending_wc_spell": []
+  }, 
+  "step_0": {
+    "attribs": [
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2
+    ], 
+    "status": 1.0, 
+    "infamy": 0.0, 
+    "glory": 1.0, 
+    "tags": [], 
+    "skills": {}, 
+    "void": 2, 
+    "school_tech": null, 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 0.0, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "affinity": null, 
+    "rank": 1, 
+    "start_spell_count": 0, 
+    "deficiency": null, 
+    "pending_wc_spell": []
+  }, 
+  "school": "crane_daidoji_iron_warriors", 
+  "step_2": {
+    "attribs": [
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      0, 
+      1, 
+      0
+    ], 
+    "status": 0.0, 
+    "infamy": 0.0, 
+    "glory": 0.0, 
+    "tags": [], 
+    "skills": {}, 
+    "void": 0, 
+    "school_tech": "crane_the_force_of_honor", 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 6.5, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "affinity": null, 
+    "start_spell_count": 0, 
+    "deficiency": null, 
+    "pending_wc_spell": []
+  }, 
+  "name": "Kyobu", 
+  "glory": 0.0, 
+  "pending_spells_count": 0, 
+  "skills": {}, 
+  "school_tech": null, 
+  "taint": 0.0, 
+  "current_school_id": "crane_daidoji_iron_warriors", 
+  "pending_wc": [], 
+  "can_get_another_tech": false, 
+  "last_rank": 1, 
+  "honor": 1.0
+}

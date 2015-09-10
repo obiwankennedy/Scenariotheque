@@ -1,0 +1,338 @@
+\documentclass[oneside,12pt]{book}
+\usepackage[left=2cm,top=1cm,right=3cm,nofoot]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... 
+\usepackage{tabularx}
+%\usepackage[latin1]{inputenc}
+%fontspec,\usepackage{xltxtra,xunicode}
+%\defaultfontfeatures{Mapping=tex-text}
+%\usepackage[french]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[francais]{babel}
+%\usepackage[cyr]{aeguill}
+\usepackage{listings}
+\usepackage{color}
+\usepackage{graphicx}
+\usepackage{epstopdf} 
+\usepackage[linktocpage]{hyperref}
+
+\setlength{\parindent}{20pt}
+
+\newcommand\don[6]{
+\textbf{#1} \\
+(#6) - #2
+\begin{itemize}
+\item{ \textbf{jet}: #3}
+\item{ \textbf{Cout}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+
+\newcommand\roll[1]{
+( Jet: \textbf{#1})
+}
+%%%%%%%%%%%%%%%%%%%%%%%%
+% Definition des variables
+%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\King}{\textbf{The King} }
+\newcommand{\Dame}{\textbf{La Reine} }
+\newcommand{\Chevalier}{\textbf{Le chevalier} }
+\newcommand{\Elsa}{\textbf{Morbide} }
+\newcommand{\Fou}{\textbf{Le Fou} }
+
+%% PNJ
+\newcommand{\Monster}{\textbf{Monster Under The Bed} }
+\newcommand{\BlackEclipse}{\textbf{Black Eclipse} }
+\newcommand{\Tails}{\textbf{Tails} }
+
+\newcommand{\Elisabeth}{\textbf{Elisabeth Lecoeur} }
+\newcommand{\Thomas}{\textbf{Zi'ir} }
+
+\newcommand{\Christopher}{\textbf{Christopher} }
+
+%% Meutes
+\newcommand{\Night}{\textbf{Night Howlers} }
+\newcommand{\Sadness}{\textbf{Sadness Knives} }
+\newcommand{\Hidden}{\textbf{Hidden Claws} }
+\newcommand{\Winter}{\textbf{Winter Mist} }
+
+\title{Le sang des Innocents}
+\author{Renaud "ObiWan" Guezennec}
+\date{}
+
+%\let\origdescription\description
+%\renewenvironment{description}{
+%  \setlength{\leftmargini}{0em}
+%  \origdescription
+%  \setlength{\itemindent}{1em}
+%}
+
+
+\begin{document}
+
+\maketitle \clearpage
+\tableofcontents \clearpage
+\listoffigures \clearpage
+
+\begin{flushleft}
+    \chapter{Introduction}
+    \section{Le scénario en quelques mots}
+    
+    
+    \section{Cadre du scénario}
+       
+ 
+    \begin{itemize}
+    \item 
+    \end{itemize}
+    
+    Total de joueurs: 0.
+    
+        \subsection{Que faire quand vous n'avait pas cinq joueurs}
+
+
+        \section{L'univers de loup-garou: les déchus}
+       Les loups-garous sont mi-humains mi-esprits loups. 
+       Il y a très longtemps, à une époque que certains nomment la Pangée, 
+       Père Loup faisait régner l'ordre et l’équilibre entre le monde physique et le monde des esprits.\\ 
+       Conquise par son courage, Mère Lune tomba amoureuse de lui et prit forme humaine pour le séduire. 
+       Elle donna naissance à neuf enfants (les Premiers-Nés). 
+       De leur mère ils reçurent la faculté de changer de forme et de leur père la force et l'instinct de chasseur.\\ 
+       Le passage des siècles vit la naissance de plusieurs générations de loups-garous, 
+       dans lesquelles le pouvoir de Père-Loup se dilua. 
+       Une partie de sa meute réalisa qu'il était trop faible pour les guider et lui proposa son aide, mais il la refusa. Alors ses enfants assassinèrent Père-Loup car il refusait de partager son fardeau avec le fruit de sa chair. Lorsqu’il reçut le coup mortel, son cri fut si puissant qu’il déchira le monde. Depuis lors, Hisile, le monde des esprits, s’est éloigné du monde physique.\\ Les esprits en veulent aux loups-garous (urathas) car ils ont anéanti leur paradis et sont parvenus à tuer Père-Loup alors qu’eux n’y étaient jamais arrivés. Mère-lune maudit ses propres enfants pour les punir de leur crime et les rendit vulnérables à l'argent, le métal le plus précieux à ses yeux.\\ 
+       Au fil des siècles, elle allégea la malédiction de ceux de ses enfants qui reprirent la tâche de son bien-aimé. 
+       Ces loups-garous là sont les gardiens de l’équilibre entre le monde des esprits et le monde physique.  \\
+   \subsection{L'hisile}    
+Une nuit éternelle règne sur le monde des esprits. 
+À l’exception des humains, dont les émotions l’alimentent, chaque élément du monde physique y trouve son reflet. 
+Les esprits peuvent être des concepts comme la violence, la jalousie ou l'appétit, ou bien être le reflet d’objets ou d’animaux, comme une porte ou un renard.\\ Les loups-garous sont les seuls êtres autorisés à passer d’un monde à l’autre.
+
+\subsection{Les atouts d'un loup-garou}
+Quand je fais jouer ce scénario à des débutants, je précise les avantages d'etre loup-garou (voir les réglès du jeu).
+\begin{itemize}
+\item Les 5 formes : humaine, presque humaine, Loup-garou, Presque loup, loup.
+\item Locus : portail pour passer du monde physique au monde des esprits, c'est le coeur d'un territoire loup-garou et également la source de leur énergie magique (l'essence). 
+\item Régénération : Le corps des loups-garous est plus résistant qu'un humain, les blessures se soignent bien plus vite.
+\item Tribu : un groupe de loups-garous qui partage une meme philosophie de vie. Il en existe cinq.
+\end{itemize}
+
+\subsection{Les ennemis}
+\begin{itemize}
+\item Les esprits : leur but est de grandir le plus possible, pour cela ils sont prets à tout. 
+\item Les purs : Loups-garous qui refusèrent de prendre part à la mort de Père-Loup et qui refusent de maintenir l'équilibre.
+\item Humains : ils ignorent existence des loups-garous. S’ils la découvrent, ils auront des intentions hostiles.
+\end{itemize}
+
+
+\subsection{Serment de la Lune}
+Un loup-garou déchu a preté ce serment. C'est un ensemble de règles (libre d'interprétation) à respecter pour vos joueurs.
+\begin{itemize}
+\item Les loups doivent chasser
+\item Le peuple ne tue pas le peuple
+\item Le faible honore le fort, Le fort respecte le faible.
+\item Respecte ta proie
+\item Le peuple doit vivre parmi les humains
+\item Ne mange pas de chair humaine ou de loup
+\item Le troupeau ne doit pas savoir
+\end{itemize}
+
+  
+\clearpage
+\section{Les meutes du scénario}
+\subsection{La Meute PJ : Night howlers}
+\King :
+\King : 
+\King : 
+\King : 
+\King : 
+
+\subsection{}
+
+
+\subsection{}
+\textbf{} : \\
+
+
+
+
+\chapter{Les Personnages}
+\clearpage
+\section{Cahalithe}
+\begin{description}
+\item[Nom:]{Gregory Duchatelin}
+\item[Origine:]{France}
+\item[Auspice:]{Cahalithe}
+\item[Tribu:]{Maître de fer}
+\item[Profession:]{Graphiste VFX}
+\item[Nom de guerre:]{\King}
+\item[Age:]{32 ans}
+\item[Histoire:]{ 
+Fêtard, globe trotteur et bon vivant. Tu aimes partager un bon verre et pousser les gens à faire les 400 coups avec toi. Tu peux boire une vodka oignon ou une bière mayonnaise, pour faire rire la galerie. \\
+Plutôt sans attache jusqu'à ton premier changement. \\
+Tu rentres chez toi après un pot de départ d'un collègue. Sur le chemin, tu as croisé deux mecs un peu lourd. Dans ton état, tu étais une proie facile. Ils t'ont braqué. Tu as joué la carte du mec sympa. Tu as lâché des clopes mais ils voulaient plus. Le ton est monté et tu ne t'es pas laisser faire. Un mec a sorti un couteau. Tu as essayé de reculer mais il t'a touché en pleine poitrine. Ils ont alors attrapé ta sacoche. Tes dernière force ont tenu à la garder près de toi. Dans l'altercation, tu as poussé violemment en arrière.\\
+La lanière du sac s'était enroulé autour de cou, et tu as senti une grosse douleur dans tout le corps. Tu es tombé à la renverse dans la Seine. Le contact de l'eau fraîche t'a redonne un sursaut de conscience en vain. La douleur du coup de couteau, la chute, la lanière et la panique t'ont vite fait comprendre. Tu allais mourir ici, comme un chien. Tu te souviens de l'image immense d'une lune presque complète. Elle emplissait ta vue de sa présence. Ton cœur réagit en s’enflammant de violence et d’un instinct de survie.\\
+Tu es devenu un loup-garou et tu t'es réveillé le lendemain matin sur le pied du pont Mirabeau, les sapeurs pompiers t'ont récupéré.\\
+Quand tu as raconté tes déboires à tes collègues, tu es devenu le King. Tu as vite été abordé par des loups-garous pour t'expliquer un peu ta nouvelle vie. Tu as ensuite participer à fonder une nouvelle meute avec des jeunes garous comme toi.\\
+Avis :\\
+\underline{\Dame} : Il est malin, et il peut se sortir de beaucoup de situation. Il a beaucoup de ressource, tu aimerais le voir plus impliquer.\\
+\underline{\Chevalier} : La force brute de la meute. Le point fixe, le repère que tout le monde doit suivre.\\
+\underline{\Elsa} : Elle est carrément flippante. Tu la vois facilement devenir un grand loup-garou, si elle survit jusqu'à la. \\
+\underline{\Fou}: Le mec n'a pas eu une vie facile. Il est un bon gars mais tu doutes de son engagement face au danger \\
+}
+\item[Fiche de perso:]{\href{http://nwod.rolisteam.org/fr/pdf/14}{http://nwod.rolisteam.org/fr/pdf/14}}
+\end{description}
+
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+
+
+\clearpage
+\section{Irraka}
+\begin{description}
+\item[Nom:]{Ayouba Coulibaly}
+\item[Origine:]{Mali}
+\item[Auspice:]{Irraka/Espion/Fourbe}
+\item[Tribu:]{Griffe de Sang}
+\item[Profession:]{Escroc / Filou}
+\item[Nom de guerre:]{\Dame}
+\item[Age:]{22 ans}
+\item[Histoire:]{
+Tu es le fils illégitime de la débrouille et de l’élégance. Tu as vécu ton enfance au Mali puis tu es arrivée en France. 
+Tu n'as jamais été doué pour les études, ni pour le travail manuel. Tu aimes t’amuser et profiter de la vie.
+Du coup, tu as vite compris comment jouer de tes charmes pour séduire des femmes et des hommes puissants.\\
+Tu as monté quelques arnaques mais tu as un train de vie assez dépensier. Tu aimes être là où il faut être. Les soirées jet set, les bars de luxe, les hippodromes sont tes terrains de chasse. \\
+Dans tes histoires, tu as fait des crasses à des gens qui n'aiment pas jouer les victimes.\\
+Un jour, tu as reçu un message de ta mère demandant de venir à la maison. Tu es sortie de l'appartement de ta maitresse de l'époque pour prendre le métro puis le RER pour arriver dans la cité où ta famille vit.\\
+Quand tu es arrivé au pied de l'immeuble, tu as vu l’appartement explosé.\\
+Les hommes de mains payés pour faire ça, avaient également pour mission de te tuer. Cela s'est pas passé comme ça.
+Tu t'es énervé et tu as joué avec eux. Le lendemain, tu fut réveillé par un train dans le tunnel ou tu dormais. Les deux colosses avaient servi de peinture pour l'intérieur du ce magnifique édifice de Réseau ferré de France.\\
+Tu as d'abord été recueilli par les moulins du temps. Une meute ancienne sur Paris (Montmartre). Ils t'ont appris la vie de loup-garou.
+Ils ne t'ont pas accepter dans leur meute car c'est une meute tenue par une famille. Ils t'ont mis en contact avec d'autres jeunes loups-garous.\\
+Tu n'as plus vraiment de famille, ni d'attache. La meute cela t'aide. Agir seul oui, mais pour la meute et avec la meute en couverture pas trop loin.\\
+Ton nom de guerre est un référence au nom de l'alpha et une référence à la pièce des échecs. Il est le roi (\King) et tu es sa reine. 
+L'ambiguïté sur le genre derrière ce nom est désirée. C'est une protection. L'histoire de ta mère te pousse à être paranoïaque. D'autant plus, tes ennemis maintenant ne sont pas des cocus ou des gens crédules.\\
+Avis:\\
+\underline{\King} :\\
+\underline{\King}: \\
+\underline{\King} : \\
+\underline{\King}: \\
+}
+\item[Fiche de perso:]{\href{http://nwod.rolisteam.org/fr/pdf/90}{http://nwod.rolisteam.org/fr/pdf/90}}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+
+\don{Redresser}{redresse un objet, réduit les bosses, affecte jusqu'à un metre carrée par tour}{aucun}{1 Point d'Essence}{125}{Instantanée}
+\don{Nuit Noire}{coupe les lumières électriques dans une zone (200 mètres carrés par succès), la zone doit être en vue}{Astuce + Larcin + Ruse}{1 volonté}{146}{Instantanée}
+\don{Clarté}{+ 5 en initiative}{aucun}{1 Point d'Essence}{137-136}{Réflexe}
+
+\clearpage
+\section{Rahu}
+\begin{description}
+\item[Nom:]{Marie-Agathe De Lantivy de Trédion}
+\item[Origine:]{France}
+\item[Auspice:]{Rahu/Guerrier}
+\item[Tribu:]{Seigneur des tempête.}
+\item[Profession:]{Fille à papa}
+\item[Nom de guerre:]{\Chevalier}
+\item[Age:]{33 ans}
+\item[Histoire:]{
+
+Avis:\\
+\underline{\King} : Un filou, assez sympa mais traîne de grosses valises, un jour cela vous pétera à la gueule.\\
+\underline{\King} : Simple bonhomme, il est la force de frappe de la meute. Un peu trop cavalier à ton goût, il ne prend pas assez de recul sur les événements.\\
+\underline{\King}  : Ses rêves sont une vraie bénédiction pour la meute. Pourtant, elle semble porter le deuil de sa nouvelle nature, tu crains qu'elle soit trop faible pour assurer son devoir envers la meute.\\
+\underline{\King}: Tu l'admires, elle dégage un vrai charisme, tu serais prêt à la suivre n'importe où.\\
+}
+\item[Fiche de perso:]{\href{http://nwod.rolisteam.org/fr/pdf/15}{http://nwod.rolisteam.org/fr/pdf/15}}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+
+
+\clearpage
+\section{Ithaeur}
+\begin{description}
+\item[Nom:]{Elsa Leblanc}
+\item[Origine:]{France}
+\item[Auspice:]{Ithaeur/shaman}
+\item[Tribu:]{Os de l’Ombre}
+\item[Profession:]{Étudiante ratée}
+\item[Nom de guerre:]{\Elsa}
+\item[Age:]{22 ans}
+\item[Histoire:]{
+
+
+Avis:\\
+\underline{\King} : fille coincée, dans son monde, elle te snobe clairement.\\
+\underline{\King} : Un jeune qui a de la suite dans l'idée, tu es un peu jaloux.\\
+\underline{\King} : Il se tuera au travail. Il devrait profiter plus des joies de la vie.\\
+\underline{\King} : très surprenante, elle est ton seul vrai soutien dans la meute. \\
+}
+\item[Fiche de perso:]{\href{http://nwod.rolisteam.org/fr/pdf/91}{http://nwod.rolisteam.org/fr/pdf/91}}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Changement partiel}{permet de changer une partie de son corps dans la forme de son choix: Les bras du gauru ou le museau du loup}{Vigueur + Survie + Instinct primal}{[1 point d'essence]}{121}{Instantanée ou Réflexe}
+\don{Voix autoritaire}{Donne un ordre à 1, 2 ou 3 personnes, l'ordre prend la forme d'une phrase complète: «cache ses cadavres dans la ravin près de la rivière», Les cibles obéissent pendant 5 minutes par succès. Un malus de -1 par personne au-delà de la première est appliqué.}{ Manipulation + Intimidation + Honneur vs Résolution + calme}{1 Point d'Essence}{107}{Opposition, résistance réflexe}
+\don{Aura de trêves}{Projette une aura de calme, efficace avant que le combat commence. Les personnes doivent dépenser un point de volonté pour commettre un acte violent}{Manipulation + Persuation + Honneur}{1 Point d'Essence}{113}{Instantanée}
+
+
+\clearpage
+\sectionElodothe}
+\begin{description}
+\item[Nom:]{Thierry Aulnier}
+\item[Origine:]{France}
+\item[Auspice:]{Elodothe}
+\item[Tribu:]{Chasseur des ténébres}
+\item[Profession:]{Flic Ripoux}
+\item[Nom de guerre:]{\King}
+\item[Age:]{36 ans}
+
+\item[Histoire:]{ 
+Pendant tes études, tu as subi ton \textbf{premier changement} après avoir surpris ton mec avec un homme. Tu les as tués tous les deux.
+La meute locale s'est chargé d'étouffer l'affaire (plus exactement de la faire brûler).\\
+Ils t'ont appris ce qu'était les loups-garous. Poussée par une envie de comprendre, tu as enquêté sur ta famille pour y voir quelques irrégularités: des personnes manquantes...\\
+Tes voyages ont permis de rencontrer d'autres loups-garous.\\
+Tu as compris que la meute d'accueil n'était pas vraiment honnête avec toi. La réalité fut révélée par la suite: c'était des purs.
+Après ta période crise d'identité, tu as décidé de reprendre contact avec ta soeur. Il est possible qu'elle ait un rôle à jouer.
+En effet, tu l'as retrouvé une semaine avant le début de son exposition dans une galerie New-Yorkaise.\\
+Tu lui as demandé de ne pas faire cette exposition. Ces peintures représentaient clairement le monde des esprits.\\
+Tu avais peur que tes ennemis l'attaquent. Pour la protéger, tu as détruit ses oeuvres. Tu n'avais jamais vu en colère à ce point.
+Elle s'est transformée et vous vous êtes battues. Elle a bien faillit te tuer, ton expérience t'a sauvé. Le lendemain, tu lui as tout expliqué.
+Vous êtes parties ensuite à la recherche d'un territoire et de nouveaux frères de meute.\\
+Finalement vous êtes arrivés dans le petit village de Springfield au Canada.  \\
+Avis:\\
+\underline{\King} : Il sait lire les gens et n'est pas le dernier dans les combats. Cependant son besoin de richesse et de gloire pourrait un jour lui être dangereux pour la meute. \\
+\underline{\King} : Petit dernier de la meute. Il te semble encore trop inconscient des dangers qui vous entourent.\\
+\underline{\King} : Toujours fidèle au poste. Tu as une bonne amitié avec lui.\\
+\underline{\King}: Ta sœur, tu dois la protéger. Elle est trop fragile pour ce monde. Elle t'a bien aidé pour trouver des camarades de meute. Tu sais bien qu'elle prend sa nature comme un fléau.\\
+}
+\item[Fiche de perso:]{\href{http://nwod.rolisteam.org/fr/pdf/35}{http://nwod.rolisteam.org/fr/pdf/35}}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Langue animale}{Permet de parler avec les animaux pendant une minute avec un animal.}{Manipulation + Animaux + Pureté}{1 point de volonté}{130}{réflexe}
+\don{Sentir la malice}{Identifier des sentiments violents: haine, colère.. chez un individu}{Intelligence + Empathie + Sagesse contre Calme et instinct primal}{}{135}{Opposition, résistance reflexe.}
+\don{Témoignage de cadavre}{Le cadavre décrit ce qu'il a vu depuis sa mort et les infos ne peuvent pas être plus ancienne que 24h}{Manipulation + Occulte + Pureté}{1 point d'essence}{129}{Instantanée}
+
+\chapter{L'histoire}
+\section{Informations à dire aux PJ en début de partie  (ou à rappeler) }
+
+\clearpage
+
+
+
+\end{flushleft}
+\end{document}

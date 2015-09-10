@@ -1,0 +1,550 @@
+% !TEX encoding = UTF-8 Unicode
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[oneside,12pt]{book}
+\usepackage[left=2cm,top=1cm,right=3cm,nofoot]{geometry}                % See geometry.pdf to learn the layout options. There are lots.
+\geometry{a4paper}                   % ... or a4paper or a5paper or ... 
+\usepackage{tabularx}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%
+%% Not working on Ubuntu 12.04
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{fontspec,xltxtra,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\usepackage[french]{babel}
+\usepackage{listings}
+\usepackage{calc}
+\usepackage{graphicx}
+\usepackage[linktocpage]{hyperref}
+
+\newcommand\don[6]{
+\textbf{#1} \\
+(#6) - #2
+\begin{itemize}
+\item{ \textbf{jet}: #3}
+\item{ \textbf{Cout}: #4}
+\item{ \textbf{Page}: #5}
+\end{itemize}
+\vspace{0.5cm}
+}
+\newcounter{Somme}
+
+\newcommand\attackRoll[1]{
+\setcounter{Somme}{#1}
+\textbf{Jets d'Attaques} \\
+\begin{tabularx}{7cm}{|X|c|}
+\hline
+\textbf{Situation} & \textbf{\# Dés} \\
+\hline
+\textbf{Humain} & \theSomme \\
+\hline
+\addtocounter{Somme}{1}
+\textbf{Dalu} & \theSomme \\
+\hline
+\addtocounter{Somme}{2}
+\textbf{Gauru}& \theSomme \\
+\hline
+\addtocounter{Somme}{1}
+\textbf{Gauru \& griffe}& \theSomme \\
+\hline
+\addtocounter{Somme}{1}
+\textbf{Gauru \& Machoire}& \theSomme \\
+\hline
+\setcounter{Somme}{#1}
+\addtocounter{Somme}{2}
+\textbf{Urshul}& \theSomme \\
+\hline
+\addtocounter{Somme}{2}
+\textbf{Urshul \& Machoire}& \theSomme \\
+\hline
+\setcounter{Somme}{#1}
+\textbf{Urhan}& \theSomme \\
+\hline
+\addtocounter{Somme}{2}
+\textbf{Urhan \& Machoire}& \theSomme \\
+\hline
+\end{tabularx}
+
+}
+
+\title{Cette histoire vous coûtera un œil}
+\author{Renaud "ObiWan" Guezennec}
+\date{}
+
+%\let\origdescription\description
+%\renewenvironment{description}{
+%  \setlength{\leftmargini}{0em}
+%  \origdescription
+%  \setlength{\itemindent}{1em}
+%}
+
+
+\begin{document}
+
+\maketitle \clearpage
+\tableofcontents \clearpage
+
+\begin{flushleft}
+    \chapter{Introduction}
+        \section{Lire introduction sur l'univers de loup-garou}
+       Les loup-garou sont mi-humain mi-esprit de loup. 
+       Il y a très longtemps dans une époque qu'il surnomme la Pangée, Père loup faisait régner l'ordre entre le monde physique et le monde des esprits.\\ 
+       Devant son courage, Mère Lune tomba amoureuse de père loup. 
+       Elle pris forme humaine pour le séduire. Elle donna naissance à 9 enfants (les premiers nés). 
+       De Mère lune ils reçurent la faculté de changer de forme et Père-Loup la force et l'instinct de chasseur. Au fils des siècles, après la naissance de plusieurs générations de loup-garou, le pouvoir de père loup perdit de sa vigueur, diluer dans ses enfants et les enfants de ses enfants. 
+       Une partie des enfants de Père loup réalisa qu'il était trop faible pour les guider, ils proposèrent leur aide mais Père-loup refusa. Alors ses enfants assassinèrent Père loup  qui refusait de partager son fardeau avec le fruit de sa chair. Lorsque le coup mortel fut porté, Pere-loup cria si fort qu'il déchira le monde. Depuis lors, le monde des esprits (hisile) est éloigné du monde physique. Les esprits en veulent au loug garou (uratha) car ils ont cassé leur paradis et on réussi là où ils avaient tous échoué (tuer père loup). Mère lune maudit ses propres enfants pour leur crime. Depuis, les loup garou sont sensible à argent (le metal le plus précieux au yeux de Mere Lune). Au fil des siècles, elle pardonna, en partie, aux loup-garous qui reprirent le travail de son bien aimé. Le respect de l'équilibre entre le monde des esprits et le monde physique est donc la responsabilité des Loup-garou. \\
+Le monde des esprits est un monde où il fait toujours nuit. Chaque élément du monde physique a son reflet dans l'autre monde à l'exception des humains. Les humains nourrissent par leurs émotions le monde des esprits. Les esprits peuvent être des concept comme la violence, la jalousie l'appétit ou bien des objets esprit d'une porte d'un animal. Les loup-garous sont les seuls êtres autorisé à passer d'un monde à l'autre. \\
+Le loug garou peut à volonter se transformer entre 5 formes.\\ 
+Locus\\
+Régénération\\
+Les ennemis :\\
+-Les esprits : leur but est de grandir le plus possible,\\ 
+-Les purs : Loup garous qui refusèrent de prendre par à la mort de Père-Loup\\
+Les ligues sont des mouvements philosophiques chez les loup garou.\\
+
+\clearpage
+\subsection{Serment de la Lune}
+Les loups doivent chasser\\
+Le peuple ne tue pas le peuple\\
+Le faible honore le fort, Le fort respecte le faible.\\
+Respecte ta proie\\
+Le peuple doit vivre parmi les humains.\\
+Ne mange pas de chair humaine ou de loup.\\
+Le troupeau ne doit pas savoir.      \\
+
+
+\section{Les meutes déchues}
+\begin{itemize}
+\item[whisper in shadows]: Meutes des Joueurs, pas de totem
+\item[Hurlement dans la brume]: Les joueurs rentrerons sur leur territoire pour aller chasser les Hunters. Meute de Chasseur des ténèbres. Totem: Brume
+\item[Swords of oath]: Ils viendront punir gentillement les PJ pour avoir violer le serment. Leur totem est un épervier. 
+\end{itemize}
+
+\subsection{whisper in shadows}
+\item[Alex]: 
+\item[Reena]: 
+\item[Donnie]: 
+\item[Freddy Lordson]: 
+\item[Lana]: 
+
+\subsection{Hurlement dans la brume}
+\item[Griffe Noire]: 
+\item[Reena]: 
+\item[Donnie]: 
+\item[Freddy Lordson]: 
+\item[Lana]: 
+
+\subsection{Swords of oath}
+\item[Griffe Noire]: 
+\item[steel tooth]: 
+\item[red eye]: 
+\item[big Head]: 
+\item[Long foot]: 
+
+
+\clearpage
+\chapter{Les personnages Joueurs}
+\clearpage
+\section{Ithaeur}
+\begin{description}
+\item[Nom:]{Alex Tydsen}
+\item[Origine:]{USA}
+\item[Tribu:]{Os de l'Ombre}
+\item[Profession:]{}
+\item[liste don:]{}
+\item[Nom de guerre:]{Ghost Stalker}
+\item[Age:]{22}
+\item[Histoire:]{ 
+ Jusqu'à tes 10 ans, tu vivais dans une famille idéale : papa, maman, la petite soeur et toi. Ton père était officier au pentagone. Ta mère restait au foyer pour s'occuper de vous. Ta sœur avait pour seule envie le vélo rose avec des roulettes latérales.  
+Toute ta vie à basculer après l'accident qui faucha toute ta famille. En jouant avec ta sœur dans la voiture, tu as décroché sa ceinture de sécurité. 
+Ta mère a décroché la sienne pour remettre celle de Lucie. 
+Ton père t'a engueulé. C'est la qu'un camion a débouché de nulle part pour vous percuter. 
+Ta mère fut éjectée de la voiture. 
+Elle mourra dans le transport vers l’hôpital. 
+Ta sœur fut projetée en avant, elle percuta ton père et les deux moururent sur le coup.
+C'est ce que tu as compris du rapport d'accident. Tu portes en toi cette culpabilité. 
+Depuis ce jour, tu as commencé à entendre des voix. "Coupable, meurtrier, assassin" voilà ce qui a bercé tes nuits pendant toutes ces années. 
+Tu as tout essayé, des séances chez le psy, des médicaments, des voodoo, des drogues. Les voix persistaient, des fois, il te semblait même capable de voir ta famille. 
+Ta raison t'a permis de cacher tes troubles aux gens qui t'entouraient. Tu limitais assez les relations avec les autres humains. 
+Tu as été pris en charge par les services sociaux pour quelques années. Depuis ta majorité, tu reçois la solde de ton père, tu as également hérité de la maison familiale. 
+Dormir dans cette demeure était complètement impossible. Tu l'as vendu pour partir au sud. 
+Après quelques mois, tu as appris la mort de ton grandi-père qui était à l'hospice pour vieux (là où ton père l'avait mis). 
+Les voix se sont intensifiées, tu as commencé à vouloir les faire taire. Tu as senti cette rage montée en toi.
+Tu as détruit une bonne partie de l'appartement, où tu étais. 
+C'est à ce moment qu'une jeune femme (Helena) est arrivée avec ses potes, elle était aveugle mais d'elle émanait une grande puissance. 
+Elle t'a expliqué que les voix étaient un esprit qui voulait te contrôler (les fantômes aussi de ta famille mais Helena les a libérés). Tu as démontré une certaine résistance, toutes ces années. Elle t'a appris les règles et devoir d'un loup garou. Tu as vagabondé avec sa meute mais, jamais tu en as fait partie. 
+C'est ainsi que tu es devenu un membre de la meute de SilverSpoon.
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Vision de mort}{voir les troubles laissés par la mort: mort violente et les fantômes}{}{}{104}{}
+\don{Sentir la corruption}{Identifier la nature d'un individu: vampire ou autre...}{Astuce + Occulte + pureté}{}{136}{}
+\don{Écho Onirique}{Permet de resentir le passé recent d'un objet par sa résonnance spirituelle.}{Astuce + Investigation + Honneur}{1 essence}{136}{Instantanée}
+
+\attackRoll{4}
+
+
+\clearpage
+\section{Rahu}
+\begin{description}
+\item[Nom:]{Reena Richmond}
+\item[Origine:]{USA}
+\item[Tribu:]{Seigneur des tempêtes}
+\item[Profession:]{Rentière}
+\item[Nom de guerre:]{SilverSpoon}
+\item[Age:]{22}
+\item[Histoire:]{ 
+    Tu es issue d'une famille riche. Ton père a fondé l'entreprise Richmond Inc, une société informatique. Tu as toujours vécu dans le luxe: chauffeur, majordome etc.
+    Enfant cela te plaisait bien puis tu as gagné un farouche caractère et tu as voulu diriger ta vie et ne plus laisser ton père le faire à ta place. 
+    Les relations avec ton père sont devenues très tendu à partir de ce moment. 
+    Ta mère est plutôt une femme transparente, mon dieu que tu ne veux jamais lui ressembler.\\
+    Tu as abandonné tes études d'économie pour faire le tour du monde en voilier avec Edward McLure.
+     Tu es rentrés au bout de 3 mois après avoir compris qu'Edward était un con fini.\\   
+    Cette periode de ta vie fut rythmé par ce petit schéma:\\ Dodo -> gueule de bois -> soirée -> picole -> sexe -> dodo (étape une).\\ 
+    Les menaces de ton père ne t'ont pas fait changé d'habitude. Un soir alors que tu rentrés complement ronde d'une soirée où tu n'avais rien trouver de consommable à ramener pour la nuit. \\
+    Tu es rentré chez toi en passant par le jardin pour ne pas réveiller tes parents. Après avoir ouvert la fenêtre de ta chambre, Tu as entendu des cris, un coup de feu et des cris de ta mère. Redoutant le pire, tu as courru dans la direction de la chambre de tes parents. \\
+    A partir de là, la seule chose dont tu te souviens c'est: "Tiens il me semblait pas qu'un seul bon pouvait suffire pour aller dans la chambre de mes parents", puis le blackout total.\\
+    Le lendemain, tu es réveillé au milieu de plusieurs individus. \\
+    Ils t'ont dit que ton père et ta mère avait été tué par des voleurs qui cherchaient à voler ton père. Tu t'es alors transformée pour les tuer tous. C'est à ce moment qu'ils sont arrivés. Ils ont nettoyé la zone, pour dissimuler les traces de ton premier changement.  \\
+    Tu es donc devenu un loup-garou avec toutes les responsabilités que cela implique: un grand pouvoir implique de grandes responsabilités, ton père te le disait souvent. Tu as réduit un peu ton train de vie, et l'argent gagné par ton entreprise est directement investi dedans. Cela explique que tu ne roules pas sur l'or mais tu n'es clairement pas à plaindre. Tu as encore des doutes sur la mort de tes parents, tu as probablement peur de découvrir la vérité. Ton enquête n'avance pas énormément\\
+    Ton entreprise est géré par un directeur, et tu reçois des intérêts et autres chaque mois. Tu participes de temps en temps à des réunions histoire de montrer ton sourire pour faire plaisir aux investisseurs mais rien de plus. 
+    Tu es l'alpha de ta meute, bien que tu as un peu l'impression d'être entourer de Junkie et autres bras cassés de la société. Ce soir, tu vas assisté au concert que donne Lana pour Halloween, tu as horreur de sa musique. 
+    Tes oreilles sont habités à de la musique civilisé qui passe à la radio ou dans les boites. Tu reconnais qu'elle a du talent mais bon la meute serait probablement plus utile ailleurs. Cependant le concert ne va pas duré toute la nuit et le reste de la meute a envie d'y aller. 
+    Il faut bien qu'ils se reposent et s'amusent un peu. Tu as pu négocier pour avoir un balcon, tu ne seras pas au milieu de tous ses metaleux qui puent la sueur.  
+ }
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Clarté}{+ 5 en init}{}{1 Point d'Essence}{136-137}{Reflexe}
+\don{Poudre aux yeux}{permet de se faire oublié}{Manipulation + Subterfuge + Honneur (vs Calme + Instinct Primal)}{}{111}{Instantanée}
+\don{Étreinte de mort}{Si une cible est aggripée, l'utilisation de ce don donne +6 pour faire le test qui autorise une manœuvre. Si dégat, les dégats sont doublés et la victime a un malus pour se libérer. Disponible en Urshul, Urhan, Gauru}{Force + bagarre + gloire}{1 Point d'Essence par morsure}{137}{Reflexe}
+
+
+
+
+\attackRoll{4}
+
+
+
+
+\clearpage
+\section{Elodoth}
+\begin{description}
+\item[Nom:]{Donnie Wahlberg}
+\item[Origine:]{USA}
+\item[Tribu:]{Fantôme de loup}
+\item[Profession:]{Chomeur}
+\item[liste don:]{}
+\item[Nom de guerre:]{Homeless}
+\item[Age:]{22}
+\item[Histoire:]{ 
+	Tu viens d'une famille, assez brutale. Tu as toujours senti un secret dans la famille. Il t'a été révélé à ton premier changement. 
+	Ta famille produit beaucoup de membre du peuple: père, oncles, tantes, frères (2), sœur (1) ainsi que de nombreux cousins. Tu es le cadet de ta famille. Ta mère est au courant de la situation. Le problème est que tu es Elodoth. Chez les Wahlberg, on est plutôt Rahu (ou irraka pour les femmes). Tu aurais tout fait pour être un rahu mais mère lune est lunatique et folle. 
+	Tu es donc fils de la demi-lune, c'est la première raison de moquerie dans la famille. 
+Ton premier changement fut une expérience enrichissante. Aux premiers signes du Premier Changement, ton père et tes frères ont joué ton enlèvement puis ton passer à tabac. 
+Ils ont commencé sous la peine lune pensant que tu serais un guerrier. Hélas, tu as mis 15 jours à te transformer. 
+Tu as donc vécu 15 nuits de torture: Pieds dans l'eau et électricité, marteau sur les doigts, privation: sommeil; bouffe; eau; lumière, coup en tout genre. 
+Après ces 15 jours quand tu t'es transformé, ton père ta défoncé alors qu'il était en forme humaine.  
+Ensuite, tu n'as jamais voulu faire la même profession que ton père et ta famille en général. 
+Tu es le descendant d'un grande lignée de militaire de carrière. Toi tu voulais être flics. 
+C'est déjà un peu la honte dans ta famille, mais le pire c'est que tu as été refusé dans l'académie de police. 
+Du coup, tu es parti, tu n'as pas voulu rentrer dans la meute de ta famille.  Tu as pris la route (tu as ton permis, ça tu l'as réussi). 
+Tu as débarqué, sur la côte Est. Tu as trouvé des gens plus ouverts et lettrés que ta famille. Tu as repris des études de droit (payées par ton alpha). Tu as échoués pour devenir Os de l'ombre. 
+Tu es donc sans tribu. Tu n'es qu'un jeune loup-garou, tu as encore le temps. Ce soir, petit concert de métal, tu vas essayer de ramener une petite. Les filles des villes semblent apprécier 
+ton côté: « fort et sérieux ». Tu as hérité de la carrure de la famille. Ton sérieux te donne un air intelligent. Cela marche pas mal avec les filles alors tu profites un peu.
+Le concert sera une bonne occasion de s'amuser, et tu as envie de supporter Lana. Elle est cool.\\
+Du coup, ça va pogoter un max!
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Changement partiel}{Changement partiel}{Vigueur + Survie + Instinct primal}{[1 point de volonté]}{121}{}
+\don{Vitesse de Père-loup}{Double la vitesse}{}{1 essence}{}{Reflèxe}
+\don{Aura de trêves}{Projete une aura de calme, efficace avant que le combat commence.}{Manipulation + Persuation + Honneur}{1 Point d'Essence}{113}{}
+
+
+\attackRoll{3}
+
+\clearpage
+
+
+\section{Irraka}
+\begin{description}
+\item[Nom:]{Freddy Lordson}
+\item[Origine:]{USA}
+\item[Tribu:]{Griffes de Sang}
+\item[Profession:]{}
+\item[liste don:]{}
+\item[Nom de guerre:]{Red pill}
+\item[Age:]{22}
+\item[Histoire:]{ 
+    Tu es un orphelin, ton enfance fut rythmé par tes déménagement de foyer en maisons d'accueil. Ce n'est pas vraiment le meilleur environnement pour faire de longue étude et gagner bien ta vie. Tu as très vite appris à te débrouiller: Pic-pocket pour se payer un MacDo, voler un peu de super pour le scooter (volé). 
+    Tu es naturellement tombé dans la drogue. Ton petit salaire de serveur y passer n'était pas suffisant alors tu vendais autre chose. Tu t'es fait volé une livraison. Il te faillait rembourser tes fournisseurs. Tu as été obligé de voler gros. 
+    Malheureusement, tu t'es fait attrapé pour l'attaque d'un fourgon blindé de transport de fond. Tu étais assez jeune, tu n'as opposé aucune résistance à l'arrestation et il n'y avait aucune victime dans l'attaque. 
+    Le juge a été clément tu en as pris pour 1 ans. Libéré au bout de 6 mois pour bonne conduite avec contrôle judiciaire et interdiction de sortir du conté. 
+    Les jeunes hommes blancs et maigre comme toi sont très apprécie des prisonniers aux lourdes peines. 
+    La prison ne fut pas de tout plaisir.  Dès ta sortie, Marly ta copine est venue dans ton trou. 
+    Vous vous êtes défoncé ensemble, a ton réveil vers 2h du matin, tu as compris que Marly était mal, tu as paniqué.
+    Tu as pensais que si on la trouverai là, tu retournerais en prison. 
+    Ça tu n'en veux pas. Tu as fuit, le plus vite possible. 
+    Ta vitesse était assez impressionnante, les lumières de la ville ont défilé sous tes yeux. 
+    C'est à ce moment que tu as vu des poursuivants qui voulaient t'arrêter. 
+    Après une longue course, tu es tombé de fatigue. 
+    Ils t'ont récupéré et expliqué que tu étais un loup garou maintenant. 
+    Ils ont pris soin de faire disparaître le corps de Marly. 
+    Tu n'as pas été inquiété. 
+    Maintenant, la drogue ne te fait plus rien. 
+    Tu as donc arrêté pousser par l'insistance de ton Alpha. 
+    Elle t'a forcé à reprendre une hygiène de vie correcte. 
+    Ce soir, c'est Halloween et Lana donne un concert. 
+    C'est un bon moment de détente. 
+    Tu vas pouvoir jouer des muscles. 
+
+}
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Les bons mots}{+2 en social passif}{}{}{117}{}
+\don{saut puissant}{+6 dés pour faire un saut}{passif}{}{116}{}
+\don{Véritable meneur}{Redonne un point de volonté par succes, peut dépasser le maximum, une fois par jour, l'utilisateur doit mener ses troupes vers un danger.}{Manipulation + Expression + Gloire}{1 essence}{117}{instantanée}
+
+\attackRoll{6}
+
+\clearpage
+\section{Cahalith}
+\begin{description}
+\item[Nom:]{Lana Hennessy}
+\item[Origine:]{USA, Boston}
+\item[Tribu:]{Maitre du fer}
+\item[Profession:]{}
+\item[liste don:]{}
+\item[Nom de guerre:]{Légenda}
+\item[Age:]{22}
+\item[Histoire:]{ 
+ Tu es issue d'une famille modeste de la région de Boston. Ton père est prof de maths en Lycée et ta mère est laborantine. 
+Dans ta famille, les études, les sciences et le concret prédominent. Ta passion pour la musique est devenue dérangeante quand tu as voulu en faire ton métier. Alors que ta soeur ainée semblait être le model parfait de la gentille fille que voulait voir tes parents. Tu en as eu raz-le-bol et tu as déclaré la guerre à tes parents. 
+ Fugues, crever les pneus de la voiture familiale, etc.. Avec le recul, tu te trouves bien idiote. Ta sœur a toujours essayé de te faire revenir, de te soutenir. Cela ne faisait que remuer le couteau dans la plaie, elle était parfaite. A 16 ans, tu as pris ta guitare et commencer à faire des petits morceaux sur ton myspace. 
+Tu as fait la découverte de Mark Slown, un jeune bassiste qui t'a promis la gloire, le succès et la reconnaissance. 
+Bref, tu as fini avec lui dans la rue. Tu as fait la manche pour gagner 3 sous. C'est à ce moment que tu commença à faire des cauchemars. 
+De grave problèmes pour dormir, ce noir, ses ombres envahissantes te saisissaient pour t'étouffer, seul la lueur lunaire semblait représenter un espoir dans ce vide. 
+Puis vient ce rêve là, les ombres plus épaisses que jamais t'attaquaient tu t'es débattu, et tu as déchirai ces ombres. Ce rêve était chargé de sombre desseins. Au matin, tu t'es réveillé couverte de sang et nue, à coté de toi, Mark égorgé et snoopy votre chien sa tête était complètement écrasé par terre.
+La meute est arrivée quelques heures après alors que tu errais le long d'un fleuve dans "tu ne sais plus quel ville pommée". Ils t'ont expliqué que tu avais vécu le premier changement. Tu es rentré dans leur meute, et maintenant cela va mieux. L'alpha t'a expliqué d'oublier la gloire et le succès. Le peuple reste caché parmi le troupeau. 
+Tu as continué à poster plus de musique. Tu as repris contact avec tes parents pour les rassurer mais tu ne rentreras pas à la maison. La meute te protège, tu manges à ta faim et tu es propre. Tu as même des locaux aménagé pour répéter avec d'autres musiciens. Ainsi ton niveau augmente vite. Tu es capable de t'enregistrer presque comme une pro. Ce soir vous donner un concert, tu seras aux chants et à la guitare. Un petit show pour Halloween mais des producteurs seront peut-être dans la pièce. 
+ }
+\end{description}
+\clearpage
+\textbf{\large Dons} 
+\vspace{0.5cm}
+
+\don{Appel du sang de loup}{Permet de parler au loup et au chien. +1 social avec ses animaux}{}{1 essence}{}{Reflèxe}
+\don{Nuit Noire}{coupe les lumières électriques dans une zone (200m² par succès)}{Astuce + Larcin + Ruse}{1 volonté}{146}{}
+\don{Cri de ralliement}{Redonne un point de volonté à ses alliés pendant la bataille}{manipulation + expression + Gloire}{1 volonté}{119}{Instantanée}
+\attackRoll{4}
+
+
+\clearpage
+
+
+
+
+%% http://www.livejournal.com/tools/memories.bml?user=innocent_man&keyword=Forsaken&filter=all
+
+
+
+
+
+\chapter{Histoire}
+
+\section{Concert à Halloween!}
+Lana donne un concert pour Halloween, dans une petite salle de concert metal. Lana finit son concert sur scène, Alex et Donnie sont dans la fausse à pogoter comme des malades, pendant que Jason et Reena sont à l'étage sur un balcon réservé aux amis des artistes. (Reena n'aime pas être avec des metalleux à la con mais ne veut pas être loin de sa meute). 
+
+
+\section{Seth : le asticot garou : Rencontre du 3ème type}
+Dans la fosse, Alex percute un mec (Seth) déguisé en scientifique, sa peau semble être brulé sur tout son visage, une menbrane recouvre ses yeux, ils sont vitreux mais les orbites semblent 
+vides. 
+Les cheveux semblent être en mouvement. Il est possible de sentir que cela grouille sous sa peau. Une forte odeur de chair mortes l'entoure. Les ombres le recouvrent, il cache une bonne partie 
+de son corps.
+Le mec s'éloigne et s'enfuit dans la foule. Pendant ce temps, Reena aperçoit des types qui ne sont pas la pour faire la fête. Ils 
+ressemblent à des flics ou des mecs du FBI. A ce moment , le premier coup de feu retentit. 
+
+\section{La fusillade}
+Les gens paniquent. Tout le monde commence à courrir vers la porte. Les "flics" s'écartent et sortent leur armes. Le type aux ombres (Seth) tire sur Lana. (Test de Rage mortelle). Son concert 
+est ruiné, plus les dégats de l'arme. 
+
+
+\section{Le bordel}
+La lubie vient donc s'ajouter au bordel ambiant. La foule devient hystérique.
+Un type (latinos italien) pointe Lana du doigt et ordonne le tir "C'est ça! Tuer le monstre!". Le flic le plus proche tire avec des balles en Argent. Si l'italien se fait attaqué, le flic à 
+coté de lui tire avec des balles en argent.
+ 
+\section{L'ombre}
+Si les personnages attaquent Seth, Il maudira en première langue son attaquant "Zmaiku duguthim Hikaon Kamduis", puis essaira de 
+s'enfuit.  
+
+
+\section{Renfort de police}
+Les renforts de police arrivent. Il est peut-être temps de se casser. Les solutions de replit semblent de plus en plus fermées. 
+
+\section{Bilan}
+Deux spectateurs morts et probablement des points d'harmony perdu (Revéler l'existante des loup garou: [3 dés], Si harmonie > 6 puis tuer des humains inutilement [3 dés].) 
+
+\section{Les infos }
+Il est possible d'entendre à la radio ou à la télé, des journalistes qui parlent de cela. 
+Des gros chiens aurait attaqué les spectateurs. La police serait intervenue à temps mais le bilan est de …, il est à noté qu'une étrange découverte ait été faite, un squelette humain totalement 
+propre a été retrouvé non loin de la salle de concert. Les medecins légiliste vont travailler toute la nuit pour l'identifier. 
+
+
+
+\section{Regroupement}
+La meute ira probablement se réfugiait à son locus. Histoire de soufler un peu, ils seront gravement blessé. Il est possible 
+d'extraire les balles. Elles seront marqué par un symbole.  Donnie pourra le reconnaitre le symbole grâce à son atout "Science 
+infuse". Il l'a vu sur un flyer dans une boutique en ville de décoration d'intérieur. 
+
+
+\section{Rencontre avec le forgeron}
+Il n'a fait que repondre à une commande. Cependant, il a reçu une grosse quantité d'argent. 
+Il a plus ou moins fermé les yeux sur la provenance de ce metal, trop content d'avoir un si gros contrat.
+Il est possible de percevoir une odeur de loup sur lui.
+Jet de perception -3, 1 succès: on se sent mal à l'aise ici. 2 succès: odeur étrange sur lui, 3 succès odeur familiaire, inconnu mais proche, 3 succès odeur de loup garou sur lui. 
+
+\section{Rependre la rumeur}
+C'est le moment pour organiser une entrevue avec d'autres loup garou, des meutes voisines. 
+La meute [les épées du serment] a appris l'accident du concert et souhaite calmer les loup garou qui ne respecte pas l'harmony. 
+Après les explications, le ritualiste de la meute execute le rite de soin mais il attendra une faveur en retour. 
+Si vous mettez un terme à ses chasseurs du peuple, nous serons quite. [Note au Mj, faire parler les PJ]
+Si Le mot Shartha est prononcé. On leur conseille d'aller poser la question à un os de l'ombre actif dans le coin. 
+Ils informent les pj qu'une cargaison d'argent a été volé d'un camion la semaine dernière près de White Haven. PA. Il est aussi possible qu'une info leur soient révélé comme quoi certaine meute à l'extérieur de la ville ne semblent plus active sur leur territoire. 
+
+
+\section{Gilleli le commandant}
+Il est temps pour les Pj d'apprendre que le mec qui les cherche est un agent de DEA et qu'il s'appelle Gilleli. Soit l'enquête leur permet de l'apprendre, soit ils vont l'entendre parler à la télé. Version officielle, des gros chien ont attaqué la foule, il y a eut des coups de feu. panique tout ça tout ça.
+Un témoin fera un faux témoignage, déclarant que des chiens sont rentrés et ont mordu les premiers venus. Un spectateur a tiré pour se défendre. La chanteuse a ordonné a ses chiens d'attaquer le spectateur qui s'est défendu. La chanteuse est activement recherchée par la police, ainsi que 4 autres personnes dont l'identité reste à déterminer. C'est un flics sous les ordres de Gilleli.  
+
+\section{Os de l'ombre}
+Elle n'a jamais combattut des hôtes, mais un de ses disciples oui, ils sont comme des humains vide, ils èrent n'imorte où.
+Ils sont souvent concentrer sur le goulet. Il serait peut-être mieu de demander à un esprit. 
+Ils peuvent  trouver un esprit de Taxi ou autre. Le taxi les informent qu'ils sont observés. Sur un échaffaudage, ils voient le mec aux ombres.
+
+
+\section{L'identité du squelette}
+C'est ancien étudiant en medecine qui a été tué, il y a quelques années, lors d'une agression. Si pj suivent cette piste, ils peuvent tomber sur le Halaku.
+Il est mort agressé dans une rue, pendant une grève des poubelles, sont corps ne fut trouvé qu'après la grève et fut très difficilement identifiable. 
+
+\section{Zmaiku}
+Son nom est Zmaiku, (un peu comme si un loup garou s'appelle Uratha).
+Il n'est pas super malicieux. Zmaiku signifie "Mangeur de mort" en premier langue.
+
+
+\section{Stalker}
+Halaku leur dit qu'il suit les hommes de Gilleli depuis un moment. Il les suit car ceux sont de bon tueurs. Qu'il peut manger après leur passage. Cela ne lui dérange pas. Il donne 
+l'emplacement de différentes meutes dans les environs qui se sont fait massacrées. Il semble inquiét. A la base, il suivait ses hommes car ils sont de bons assassin mais qu'il pensait qu'il 
+allait mourir rapidement face à des loup-garous. Ils semblent être insensible à la lubie.Du coup, il pense que tous les hôtes sont en dangers. Il demandera à se nourir sur les cadavres de la 
+meute en echange, il peut les mener au QG des hommes de Gilleli. Il veut manger les yeux des victimes. Il pourrait demander à manger un oeil d'un des joueurs. 
+Ils peuvent  négocier pour qu'il mange après l'attaque. 
+
+
+
+\section{Hotel California} 
+La zone où le Zmaiku les mène est situé sur le territoire d'une meute de Chasseur des tenebres, les hurlements dans la brume. 
+Ils demendent les raisons de leur présence. Si  Neil Kimberlin a été tué, un des membres des Hurlements dans la brume passe en Rage Mortelle. 
+Le totem de la meute est esprit de la brume. Ils ont une chasse de leur côté (des dealers de drogue), et qu'il autorisent le groupe à chasser sur leur territoire par contre le totem de la meute va s'assurer qu'ils suivent leur engagement. 
+
+\section{Combat}
+La zone sera calme. Si les joueurs s'approche trop, c'est le début d'une embuscade. Si un seul individu s'approche, il ne remarquera rien de bizarre apart l'odeur de cocaïne. 
+Des que l'alarme est donnée, les flics sortent et tirent sur tout ce qui bouge. Au troisième étage d'autres flics apparaissent avec Gilleli.
+
+\section{Si les joueurs se retrouve très blessé.}
+Le totem de la meute demandera à \textbf{Donnie} de devenir un chasseur des ténébres. 
+S'il accepte, il et ses amis seront soignés et ils pourront utiliser la brume pour attaquer par surprise leur 
+ennemi. 
+
+\section{Epilogue.}
+Le Zmaiku attaquera Gilleli et le tuera. Il en fera son \textbf{duguthim} comme l'étudiant en médecine. 
+
+
+
+
+
+
+
+
+
+
+
+
+\section {original }
+So the game began on Halloween night in Albany. The characters were at a special Halloween concert, and Lana was onstage finishing her set. Alex and Donnie were down in the pit getting banged around by sweaty people, while Reena and Jason were in the balcony seats watching the crowds (Reena doesn't like sweaty people, but she didn't want to be away from her pack).\\
+
+
+Alex bumped into a guy dressed much like the Creeper in Jeepers, Creepers, but with dark shades that completely obscured his eyes and the area around them (think Johnny Depp in Once Upon a Time in Mexico, just to add another movie reference). The guy stumbled back, and sort of melted into the crowd. Meantime, Reena had noticed a few people in the crowd who didn't look like partiers - more like cops or feds. At about that second, the first shot rang out.\\
+
+
+Of course, people panicked. Everyone starts heading for the door, the "cops" moved the sides of the room and drew weapons, Lana jumped off the stage and the guy in the shades shot her. She...flew into Death Rage and slaughtered the two people in arm's reach (clubgoers). Bad night for Lana.\\
+
+
+Now adding Lunacy to the general mess, the crowd gets worse. Reena and Jason jumped from the balcony, both failing their rolls to jump well and taking damage (just bashing, so they're fine). Alex heads after the guy that just shot his packmate. An Italian-looking dude at the end of the room yells and points to Lana, yelling, "There it is! Shoot it!" And the cop nearest her shoots her...with a silver round. This snaps her out of Death Rage and she attacks him. Donnie leaps on the Italian guy and gets a silver shot in her stomach for her trouble.\\
+
+
+Reena, meanwhile, grabs the shades-guy's arm and feels things moving under there. Alex punches him and his shades get skewed, and instead of eyes he's got what look like lots of little points (I described it as almost like a sea-urchin). He curses Reena in First Tongue, she shoves him toward the fire exit, but loses her footing and he gets away.\\
+
+Jason, meanwhile, has gone to Urshul and chomped on one of the "cops", so he drops his gun. By now the rest of the cops are arriving, so the pack bugs out, but Alex fortunately grabs the dropped gun (you know, with the silver bullets).\\
+
+Finally tally: Two cops injured, two bystanders dead, four points of Harmony lost (Jason, Reena and Lana for going furry in public and Lana for needlessly killing humans. Like I said, bad night for Lana. Reena also got the fixation derangement for her trouble.)\\
+
+
+The pack regroups. Donnie and Lana are injured, and silver doesn't heal easily. Checking out the bullets, the pack notes a little symbol carved into the rounds, which Donnie recognizes from a flyer she saw at a local coffeshop (gotta love Encyclopedic Knowledge). Jason and Alex grab the flyer, which turns out to belong to a local metalsmith named Neil Kimberlin. His website shows that, yes, he does work with silver, but doesn't advertise bullets.\\
+
+Some talk about finding him, but the pack decides that they should tell some of the other Uratha in the area about this. They find the Neighborhood Watch, a pack of Iron Masters and Blood Talons who focus on taking down supernatural threats in the city, and explain what happened. The pack agrees to use the Rite of Healing for the wounded, but expect a favor in return (I figure that when silver comes out, though, that's likely to create some solidarity among the People). They explain what happened, and the word "Shartha" comes up. The Watch tells the pack (which, by the way, is called Road Kill) what they know about the Spider and Rat Hosts, which isn't much, and recommend they speak to the pack of nomadic Bone Shadows currently romping around Albany. They also mention a news story they heard a few weeks back, about a truckload of silver getting stolen near White Haven, PA.\\
+
+Things start falling into place, obviously.\\
+
+
+Lana calls a friend of hers at the precinct and explains that her concert got shot up and she ran, but would like to know what happened. Her friend, against his better judgment, reveals that there are all kinds of crazy stories but that a DEA agent named Gilleli is in command of the mess. Apparently, two of his men were injured in the fracas and raving about wild dogs.\\
+
+
+
+Alex, meanwhile, calls said Bone Shadows and learns a bit about the Hosts. The Shadow he talks to says that she personally has never fought a Host, but that a one-time pupil of hers did and that they like to hollow out human bodies to ride around in. Also, the Hosts seem to focus on the Gauntlet, for one reason or another, so maybe he should talk to some spirits. He looks across the Gauntlet with Two-World Eyes and talks with a taxi-cab spirit (who chats with him, but runs the meter, which he forgets to pay - this becomes a running joke for the rest of the night: "You talked with a cab-spirit, but didn't pay the meter?"). It tells him that they're being watched. The pack looks around...and sees the man in the shades on a scaffolding nearby, watching them.\\
+
+
+
+
+
+
+Alex goes charging up the scaffold at him. Reena uses Sense Malice and learns that he's not really all that malicious. Donnie uses Know Name and learns, curiously, that his name is Halaku, but that would be like a werewolf calling himself "Uratha". Reena recognizes "Halaku" as a First Tongue word for "crow."\\
+
+
+The Uratha climb the scaffold and talk to him, and he reveals that he's been following Gilleli's movements in town. He's OK with people hunting Uratha, because that means he gets to eat the carrior leftover in the battle. He understands, though, that if Gilleli's people find a way to beat the Lunacy, the People are in trouble. He therefore agrees to take the pack to Gilleli, if they'll wound him and leave him alive so that Halaku can eat his eyes. The pack agrees.\\
+
+
+
+The hotel where Gilleli and his boys are staying is outside of town, in the territory of a pack of Hunters in Darkness called Howls in the Mist. The Road Kill pack makes their presence known and explains the situation, and the Hunters mention that Neil Kimberlin is uragarum - kin to one of them. ("Glad we didn't kill him.") Their totem, incidentally, is an elemental of fog, so they tend to appear shrouded in mist. This becomes important later. Anyway, the pack explains they're gonna kill some folk in the Hunters' territory, the Hunters agree, and we move along to the ambush.\\
+
+
+
+
+Jason scouts the area but doesn't see any activity, so figures that Gilleli and crew are asleep. He also smells cocaine behind one of the doors (this is a hotel where the doors open directly outside, obviously) and wonders if they're trying to use drugs to shake off the Lunacy. Halaku meets up with the pack and leads them to the hotel, and they hide nearby and argue about what to do. Finally Reena gets annoyed and chucks a rock through one of their car windows. The alarm goes off, and one guy comes out to see what's up. The pack moves into position...and then the ambush starts.\\
+
+
+
+Several other cops, Gilleli included, appeared on the upper level of the hotel and start shooting. During the ensuing fracas, several of the pack are gravely injured (Jason, in fact, tries to jump at Gilleli, misses, and gets a shotgun round in the chest at close range for his trouble, very nearly killing him). Reena quite frankly saves the day with some good tactics (jump up, grab the guys on the balcony, land on them), and Gilleli lies on the ground with a broken back. Donnie, at death's door, gives a howl for help, and the fog-spirit appears. It agrees to help the pack if Donnie agrees to become Meninna. She does, and the pack is healed slightly (but enough). They finish off the rest of the cops and Halaku leaps from the room, opens his mouth wide, and a murder of crows erupts from his skin and starts pecking out Gilleli's eyes. The pack limps off, victorious but hurting.\\
+
+
+Epilogue: The cops arrive and survey the mess. One of them says to a man in a suit, "Are you injured, Mr. Gilleli?"\\
+
+Gilleli adjusts his sunglasses. "No, I just got here. Didn't see a thing."\\ 
+
+
+\end{flushleft}
+\end{document}
