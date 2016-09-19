@@ -1,0 +1,381 @@
+{
+  "attribs": [
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0, 
+    0
+  ], 
+  "family": "crane_doji", 
+  "insight": 0, 
+  "unsaved": false, 
+  "emph": {}, 
+  "void_points": 0, 
+  "pending_spells_count": 0, 
+  "unlock_schools": false, 
+  "void_cost": 6, 
+  "pending_wc_spell": [], 
+  "mastery_abilities": [], 
+  "properties": {
+    "marsta": "", 
+    "eyes": "", 
+    "spouse": "", 
+    "brothers": "", 
+    "weight": "", 
+    "money": [
+      0, 
+      0, 
+      0
+    ], 
+    "age": "", 
+    "father": "", 
+    "childr": "", 
+    "height": "", 
+    "hair": "", 
+    "mother": "", 
+    "sisters": "", 
+    "equip": [], 
+    "sex": ""
+  }, 
+  "spells_per_rank": 3, 
+  "armor": null, 
+  "insight_calculation": {}, 
+  "weapons": [], 
+  "health_multiplier": 2, 
+  "version": "3.0", 
+  "start_spell_count": 0, 
+  "modifiers": [], 
+  "exp_limit": 40, 
+  "status": 0.0, 
+  "clan": "crane", 
+  "infamy": 0.0, 
+  "tags": [], 
+  "pending_wc_emph": [], 
+  "void": 0, 
+  "wounds": 0, 
+  "free_kiho_count": 0, 
+  "extra_notes": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\n</style></head><body style=\" font-family:'Ubuntu'; font-size:11pt; font-weight:400; font-style:normal;\">\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>", 
+  "advans": [
+    {
+      "timestamp": 1388151362.586199, 
+      "rule": null, 
+      "cost": 2, 
+      "skill": "etiquette", 
+      "type": "skill", 
+      "desc": "Etiquette, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "timestamp": 1388151362.90624, 
+      "rule": "ma_insight_plus_3", 
+      "cost": 3, 
+      "skill": "etiquette", 
+      "type": "skill", 
+      "desc": "Etiquette, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "timestamp": 1388151396.684601, 
+      "rule": null, 
+      "cost": 2, 
+      "skill": "sincerity", 
+      "type": "skill", 
+      "desc": "Sincerity, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "timestamp": 1388151396.916747, 
+      "rule": null, 
+      "cost": 3, 
+      "skill": "sincerity", 
+      "type": "skill", 
+      "desc": "Sincerity, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "timestamp": 1388151439.736735, 
+      "rule": null, 
+      "cost": 1, 
+      "skill": "lore_gaijin_culture", 
+      "type": "skill", 
+      "desc": "Lore (Gaijin Culture), Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "timestamp": 1388151457.482137, 
+      "rule": null, 
+      "cost": 1, 
+      "skill": "lore_history", 
+      "type": "skill", 
+      "desc": "Lore (History), Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "timestamp": 1388151524.39312, 
+      "rule": null, 
+      "cost": 1, 
+      "skill": "defense", 
+      "type": "skill", 
+      "desc": "Defense, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "timestamp": 1388151538.800103, 
+      "rule": null, 
+      "cost": 1, 
+      "skill": "investigation", 
+      "type": "skill", 
+      "desc": "Investigation, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "timestamp": 1388151544.807106, 
+      "rule": null, 
+      "cost": 2, 
+      "skill": "investigation", 
+      "type": "skill", 
+      "desc": "Investigation, Rank 1 to 2. Cost: 2 xp"
+    }, 
+    {
+      "timestamp": 1388151545.480422, 
+      "rule": null, 
+      "cost": 3, 
+      "skill": "investigation", 
+      "type": "skill", 
+      "desc": "Investigation, Rank 2 to 3. Cost: 3 xp"
+    }, 
+    {
+      "timestamp": 1388151557.728667, 
+      "rule": null, 
+      "cost": 1, 
+      "skill": "temptation", 
+      "type": "skill", 
+      "desc": "Temptation, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "timestamp": 1388151567.58712, 
+      "rule": null, 
+      "cost": 1, 
+      "skill": "horsemanship", 
+      "type": "skill", 
+      "desc": "Horsemanship, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "timestamp": 1388151575.795441, 
+      "rule": null, 
+      "cost": 1, 
+      "skill": "commerce", 
+      "type": "skill", 
+      "desc": "Commerce, Rank 0 to 1. Cost: 1 xp"
+    }, 
+    {
+      "extra": "", 
+      "perk": "gaijin_gear", 
+      "timestamp": 1388151598.657139, 
+      "tag": "merit", 
+      "rule": "gaijin_gear", 
+      "cost": 5, 
+      "rank": 1, 
+      "type": "perk", 
+      "desc": "Gaijin Gear Rank 1, XP Cost: 5"
+    }, 
+    {
+      "extra": "", 
+      "perk": "bentens_blessing", 
+      "timestamp": 1388151622.326279, 
+      "tag": "merit", 
+      "rule": "bentens_blessing", 
+      "cost": 3, 
+      "rank": 1, 
+      "type": "perk", 
+      "desc": "Benten's Blessing Rank 1, XP Cost: 3"
+    }, 
+    {
+      "extra": "", 
+      "perk": "servant", 
+      "timestamp": 1388151647.663275, 
+      "tag": "merit", 
+      "rule": "servant", 
+      "cost": 3, 
+      "rank": 1, 
+      "type": "perk", 
+      "desc": "Servant Rank 1, XP Cost: 3"
+    }, 
+    {
+      "extra": "", 
+      "perk": "wealthy", 
+      "timestamp": 1388151680.745341, 
+      "tag": "merit", 
+      "rule": "wealthy", 
+      "cost": 4, 
+      "rank": 5, 
+      "type": "perk", 
+      "desc": "Wealthy Rank 5, XP Cost: 4"
+    }, 
+    {
+      "extra": "", 
+      "perk": "compulsion", 
+      "timestamp": 1388151773.37704, 
+      "tag": "flaw", 
+      "rule": "compulsion", 
+      "cost": -4, 
+      "rank": 3, 
+      "type": "perk", 
+      "desc": "Compulsion Rank 3, XP Gain: 4"
+    }, 
+    {
+      "extra": "", 
+      "perk": "fascination", 
+      "timestamp": 1388151792.985848, 
+      "tag": "flaw", 
+      "rule": "fascination", 
+      "cost": -1, 
+      "rank": 1, 
+      "type": "perk", 
+      "desc": "Fascination Rank 1, XP Gain: 1"
+    }
+  ], 
+  "schools": [
+    {
+      "techs": [
+        "crane_the_soul_of_honor"
+      ], 
+      "tags": [
+        "courtier", 
+        "crane_courtier", 
+        "crane_doji_courtier_school", 
+        "crane"
+      ], 
+      "skills": {
+        "etiquette": 1, 
+        "perform_storytelling": 1, 
+        "perform_song": 1, 
+        "tea_ceremony": 1, 
+        "courtier": 1, 
+        "sincerity": 1, 
+        "calligraphy": 1
+      }, 
+      "school_rank": 1, 
+      "emph": {
+        "etiquette": [
+          "Courtesy"
+        ], 
+        "courtier": [
+          "Manipulation"
+        ]
+      }, 
+      "outfit": [], 
+      "deficiency": null, 
+      "tech_rules": [
+        "crane_the_soul_of_honor"
+      ], 
+      "affinity": null, 
+      "is_path": false, 
+      "path_rank": 0, 
+      "school_id": "crane_doji_courtier_school", 
+      "spells": []
+    }
+  ], 
+  "attrib_costs": [
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4, 
+    4
+  ], 
+  "mod_init": [
+    0, 
+    0
+  ], 
+  "step_1": {
+    "attribs": [
+      0, 
+      0, 
+      0, 
+      1, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "status": 0.0, 
+    "infamy": 0.0, 
+    "glory": 0.0, 
+    "tags": [
+      "crane_doji", 
+      "crane"
+    ], 
+    "skills": {}, 
+    "void": 0, 
+    "school_tech": null, 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 0.0, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "start_spell_count": 0, 
+    "pending_wc_spell": []
+  }, 
+  "step_0": {
+    "attribs": [
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2, 
+      2
+    ], 
+    "status": 1.0, 
+    "infamy": 0.0, 
+    "glory": 1.0, 
+    "tags": [], 
+    "skills": {}, 
+    "void": 2, 
+    "school_tech": null, 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 0.0, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "rank": 1, 
+    "start_spell_count": 0, 
+    "pending_wc_spell": []
+  }, 
+  "school": "crane_doji_courtier_school", 
+  "step_2": {
+    "attribs": [
+      0, 
+      0, 
+      0, 
+      1, 
+      0, 
+      0, 
+      0, 
+      0
+    ], 
+    "status": 0.0, 
+    "infamy": 0.0, 
+    "glory": 0.0, 
+    "tags": [], 
+    "skills": {}, 
+    "void": 0, 
+    "school_tech": "crane_the_soul_of_honor", 
+    "taint": 0.0, 
+    "emph": {}, 
+    "honor": 6.5, 
+    "pending_wc_emph": [], 
+    "pending_wc": [], 
+    "start_spell_count": 0, 
+    "pending_wc_spell": []
+  }, 
+  "name": "Doji Akihide", 
+  "glory": 0.0, 
+  "skills": {}, 
+  "school_tech": null, 
+  "taint": 0.0, 
+  "current_school_id": "crane_doji_courtier_school", 
+  "pending_wc": [], 
+  "can_get_another_tech": false, 
+  "last_rank": 1, 
+  "honor": 0.0
+}
