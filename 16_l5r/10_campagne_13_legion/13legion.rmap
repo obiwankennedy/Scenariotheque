@@ -1,0 +1,78 @@
+{
+    "roots": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                            ],
+                            "colorThemeId": 0,
+                            "desc": "",
+                            "id": "{85ac019e-2dd6-46bd-87d7-71a364074a2b}",
+                            "text": " ",
+                            "x": 93,
+                            "y": 157
+                        },
+                        {
+                            "SrcId": "{5b596394-77f5-48f1-a9b7-f09d91003a03}",
+                            "arrowHead": 0,
+                            "arrowSize": 8,
+                            "dstId": "{85ac019e-2dd6-46bd-87d7-71a364074a2b}",
+                            "text": " "
+                        }
+                    ],
+                    "colorThemeId": 0,
+                    "desc": "",
+                    "id": "{5b596394-77f5-48f1-a9b7-f09d91003a03}",
+                    "text": " ",
+                    "x": 217,
+                    "y": -86
+                },
+                {
+                    "SrcId": "{0d54b5e5-5d2e-4bd8-b213-c31db68707fd}",
+                    "arrowHead": 0,
+                    "arrowSize": 8,
+                    "dstId": "{5b596394-77f5-48f1-a9b7-f09d91003a03}",
+                    "text": " "
+                }
+            ],
+            "colorThemeId": 0,
+            "desc": "",
+            "id": "{0d54b5e5-5d2e-4bd8-b213-c31db68707fd}",
+            "text": "Root",
+            "x": 159,
+            "y": 201
+        }
+    ],
+    "stringManager": {
+        "availLang": [
+        ],
+        "curretLang": [
+            {
+                "key": "{0d54b5e5-5d2e-4bd8-b213-c31db68707fd}_text",
+                "value": "Root"
+            },
+            {
+                "key": "{527855eb-67a3-4768-ab51-ffcc6fef5ae5}_text",
+                "value": "Maho"
+            },
+            {
+                "key": "{703395ff-fb08-4d52-8929-d79dec52271e}_text",
+                "value": "female"
+            },
+            {
+                "key": "{c6cdf02d-6ec2-4d41-8200-b9a3d09ce934}_text",
+                "value": "26 juillet 1991"
+            },
+            {
+                "key": "{eeb5b225-6c53-4135-a03b-b6313d868357}_text",
+                "value": "Lieu"
+            },
+            {
+                "key": "{ef02ef14-29e0-4259-84d5-3d6f31792251}_text",
+                "value": "Male"
+            }
+        ]
+    }
+}
