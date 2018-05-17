@@ -1,0 +1,82 @@
+{
+    "roots": [
+        {
+            "children": [
+                {
+                    "children": [
+                    ],
+                    "colorThemeId": -1,
+                    "desc": "",
+                    "id": "{16fd427b-6357-470e-9bb6-4f1cd046c1a7}",
+                    "text": " ",
+                    "x": -273.5,
+                    "y": 213
+                },
+                {
+                    "children": [
+                    ],
+                    "colorThemeId": -1,
+                    "desc": "",
+                    "id": "{649e9c8a-eb1b-49d5-9592-03d7d587d0d1}",
+                    "text": " ",
+                    "x": 361.5,
+                    "y": 212
+                },
+                {
+                    "children": [
+                    ],
+                    "colorThemeId": -1,
+                    "desc": "",
+                    "id": "{4d9d51c4-8585-46a9-b205-e8c9c17e1791}",
+                    "text": " ",
+                    "x": -47.5,
+                    "y": 219
+                },
+                {
+                    "children": [
+                    ],
+                    "colorThemeId": -1,
+                    "desc": "",
+                    "id": "{aa19cd5b-0564-4b6e-be12-8cee04b8dd33}",
+                    "text": " ",
+                    "x": 201.5,
+                    "y": 218
+                },
+                {
+                    "SrcId": "{4a12932a-d7fc-424d-922d-ae21ca235cfa}",
+                    "arrowHead": 0,
+                    "arrowSize": 8,
+                    "dstId": "{16fd427b-6357-470e-9bb6-4f1cd046c1a7}",
+                    "text": " "
+                },
+                {
+                    "SrcId": "{4a12932a-d7fc-424d-922d-ae21ca235cfa}",
+                    "arrowHead": 0,
+                    "arrowSize": 8,
+                    "dstId": "{649e9c8a-eb1b-49d5-9592-03d7d587d0d1}",
+                    "text": " "
+                },
+                {
+                    "SrcId": "{4a12932a-d7fc-424d-922d-ae21ca235cfa}",
+                    "arrowHead": 0,
+                    "arrowSize": 8,
+                    "dstId": "{4d9d51c4-8585-46a9-b205-e8c9c17e1791}",
+                    "text": " "
+                },
+                {
+                    "SrcId": "{4a12932a-d7fc-424d-922d-ae21ca235cfa}",
+                    "arrowHead": 0,
+                    "arrowSize": 8,
+                    "dstId": "{aa19cd5b-0564-4b6e-be12-8cee04b8dd33}",
+                    "text": " "
+                }
+            ],
+            "colorThemeId": -1,
+            "desc": "",
+            "id": "{4a12932a-d7fc-424d-922d-ae21ca235cfa}",
+            "text": "588ème de Bombardier nocturne",
+            "x": 318,
+            "y": 213
+        }
+    ]
+}

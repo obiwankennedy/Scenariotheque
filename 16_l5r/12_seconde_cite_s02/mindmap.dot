@@ -1,0 +1,85 @@
+digraph  Shiroi_shuto {
+compound=true;
+
+ node [label="Empire d’Ivoire"] ivoire ;
+
+ node [label="Clan du Jaguar"] jaguar ;
+
+ node [label="famille Eiichi"] Eiichi;
+ node [label="famille Misara"] Misara;
+ node [label="famille Hideko"] Hideko;
+
+ jaguar -> {Eiichi,Misara,Hideko};
+
+ node [label="Clan du Tenma (cheval ailé)"] tenma ;
+
+ node [label="famille Zhia"] Zhia ;
+ node [label="famille Meikuko"] Meikuko;
+ node [label="famille Mitesh"] Mitesh;
+ node [label="Zhia"] ShinjoZhia ; 
+ node [label="famille Zhia"] Zhia ;
+ node [label="Zhia Kim-li"] kimli;
+
+ tenma -> {Zhia,Meikuko,Mitesh};
+ tenma -> ShinjoZhia [label="leader"]
+ ShinjoZhia -> kimli [label="fille"]
+
+shalyar iweko
+
+ node [label="Clan de l’Ours"] ours ;
+
+ node [label="famille Takayoshi"] Takayoshi ;
+ node [label="famille Akane"] Akane;
+ node [label="famille Rajata"] Rajata;
+ node [label="Takayoshi Asami"] Asami;
+
+ ours -> {Takayoshi,Akane,Rajata};
+
+ node [label="Rajata Junichii"] Junichii;
+ node [label="Takayoshi Yukuko"] Yukuko; 
+
+ Takayoshi -> Yukuko [label="leader"]
+ Rajata -> Junichii [label="leader"]
+ Yukuko -> Asami [label="fils"]
+
+
+ node [label="Clan du Paon"] paon ;
+
+ node [label="famille Nayu"] Nayu ;
+ node [label="famille Dairuko"] Dairuko;
+ node [label="famille Abhya"] Abhya;
+ node [label="famille Maki"] Maki;
+ node [label="Nayu Yuka"] Yuka;
+ 
+
+ paon -> {Nayu,Dairuko,Abhya,Maki};
+ Nayu -> Yuka [label="membre"]
+
+
+ node [label="Clan du Cormoran"] cormoran ;
+
+ node [label="famille Sojihime"] Sojihime ;
+ node [label="famille Kagetaka"] Kagetaka;
+ node [label="famille Asagi"] Asagi;
+ node [label="Kagetaka Ikue"] Ikue;
+ node [label="Sojihime Chiriko"] Chiriko;
+
+ cormoran -> {Sojihime,Kagetaka,Asagi};
+ Kagetaka -> Ikue [label="membre"]
+ Sojihime -> Chiriko  [label="membre"]
+ 
+
+Misara Yurie (f)
+
+ ivoire -> {jaguar,tenma,ours,paon,cormoran};
+
+ node [label="Impératrice d’Ivoire\nSuikihime"] suikihime;
+ node [label="Consort de l’impératrice\nLankesh"] lankesh;
+
+
+ suikihime -> {lankesh,ivoire}
+
+
+
+
+}

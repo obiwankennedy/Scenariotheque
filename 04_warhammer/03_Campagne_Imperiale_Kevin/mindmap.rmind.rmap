@@ -1,0 +1,239 @@
+{
+    "roots": [
+        {
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "SrcId": "{8c24503e-ba4c-460c-b26d-0929058dfaa0}",
+                                            "arrowHead": 0,
+                                            "arrowSize": 8,
+                                            "dstId": "{2e0b42c8-c2e5-462e-985b-46c39795376d}",
+                                            "text": " "
+                                        }
+                                    ],
+                                    "colorThemeId": -1,
+                                    "desc": "",
+                                    "id": "{8c24503e-ba4c-460c-b26d-0929058dfaa0}",
+                                    "text": "Friedriech Magirius",
+                                    "x": 549.5,
+                                    "y": 261
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "SrcId": "{b60f910f-9d22-41ff-b0fd-4292f4468d8a}",
+                                            "arrowHead": 0,
+                                            "arrowSize": 8,
+                                            "dstId": "{40b4952c-f805-4822-a9c8-2dcabff714b2}",
+                                            "text": " "
+                                        }
+                                    ],
+                                    "colorThemeId": -1,
+                                    "desc": "",
+                                    "id": "{b60f910f-9d22-41ff-b0fd-4292f4468d8a}",
+                                    "text": "Frantz Steinhager",
+                                    "x": 278.5,
+                                    "y": 352
+                                },
+                                {
+                                    "SrcId": "{fac8a515-1378-414d-8aeb-ab6f4b706c50}",
+                                    "arrowHead": 0,
+                                    "arrowSize": 8,
+                                    "dstId": "{8c24503e-ba4c-460c-b26d-0929058dfaa0}",
+                                    "text": " "
+                                },
+                                {
+                                    "SrcId": "{fac8a515-1378-414d-8aeb-ab6f4b706c50}",
+                                    "arrowHead": 0,
+                                    "arrowSize": 8,
+                                    "dstId": "{b60f910f-9d22-41ff-b0fd-4292f4468d8a}",
+                                    "text": " "
+                                }
+                            ],
+                            "colorThemeId": -1,
+                            "desc": "",
+                            "id": "{fac8a515-1378-414d-8aeb-ab6f4b706c50}",
+                            "text": "Ordo Septenarius",
+                            "x": 460.5,
+                            "y": 148
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                    ],
+                                    "colorThemeId": -1,
+                                    "desc": "",
+                                    "id": "{f179f8f0-231a-4a4f-b853-9f19f3d7cfc9}",
+                                    "text": "Frantz Steinhager",
+                                    "x": -51,
+                                    "y": 171
+                                },
+                                {
+                                    "children": [
+                                    ],
+                                    "colorThemeId": -1,
+                                    "desc": "",
+                                    "id": "{eba85edb-d966-4d56-80fb-b3e315535b55}",
+                                    "text": "Heinrich Steinhager",
+                                    "x": 137,
+                                    "y": 174
+                                },
+                                {
+                                    "SrcId": "{93bca9a2-d6bb-46d6-9a6b-5cdd6a00f4bf}",
+                                    "arrowHead": 0,
+                                    "arrowSize": 8,
+                                    "dstId": "{f179f8f0-231a-4a4f-b853-9f19f3d7cfc9}",
+                                    "text": " "
+                                },
+                                {
+                                    "SrcId": "{93bca9a2-d6bb-46d6-9a6b-5cdd6a00f4bf}",
+                                    "arrowHead": 0,
+                                    "arrowSize": 8,
+                                    "dstId": "{eba85edb-d966-4d56-80fb-b3e315535b55}",
+                                    "text": " "
+                                }
+                            ],
+                            "colorThemeId": -1,
+                            "desc": "",
+                            "id": "{93bca9a2-d6bb-46d6-9a6b-5cdd6a00f4bf}",
+                            "text": "Suspects",
+                            "x": 118,
+                            "y": 247
+                        },
+                        {
+                            "children": [
+                                {
+                                    "children": [
+                                    ],
+                                    "colorThemeId": -1,
+                                    "desc": "",
+                                    "id": "{619fa5ea-e80d-4721-b242-eee137ff580f}",
+                                    "text": "Marlene Ruberstern (Shallya)",
+                                    "x": -175,
+                                    "y": 295
+                                },
+                                {
+                                    "children": [
+                                        {
+                                            "SrcId": "{f004bae3-813b-45d4-b0ed-429979b0eb71}",
+                                            "arrowHead": 0,
+                                            "arrowSize": 8,
+                                            "dstId": "{1219312f-519c-4ee7-a57a-c1f7803fd3a5}",
+                                            "text": " "
+                                        }
+                                    ],
+                                    "colorThemeId": -1,
+                                    "desc": "",
+                                    "id": "{f004bae3-813b-45d4-b0ed-429979b0eb71}",
+                                    "text": "Greta Harkbokka (Verena)",
+                                    "x": 97,
+                                    "y": 298
+                                },
+                                {
+                                    "SrcId": "{3585c749-8e3a-4366-90bb-c93bf004b21d}",
+                                    "arrowHead": 0,
+                                    "arrowSize": 8,
+                                    "dstId": "{619fa5ea-e80d-4721-b242-eee137ff580f}",
+                                    "text": " "
+                                },
+                                {
+                                    "SrcId": "{3585c749-8e3a-4366-90bb-c93bf004b21d}",
+                                    "arrowHead": 0,
+                                    "arrowSize": 8,
+                                    "dstId": "{f004bae3-813b-45d4-b0ed-429979b0eb71}",
+                                    "text": " "
+                                }
+                            ],
+                            "colorThemeId": -1,
+                            "desc": "",
+                            "id": "{3585c749-8e3a-4366-90bb-c93bf004b21d}",
+                            "text": "Les Temples",
+                            "x": -276,
+                            "y": 214
+                        },
+                        {
+                            "children": [
+                            ],
+                            "colorThemeId": -1,
+                            "desc": "",
+                            "id": "{4546dfa6-cd30-4d59-821a-1ec300a076f4}",
+                            "text": "Garde de la ville",
+                            "x": 829,
+                            "y": -64
+                        },
+                        {
+                            "children": [
+                            ],
+                            "colorThemeId": -1,
+                            "desc": "",
+                            "id": "{9d4d5e90-5fce-4881-8e68-3b9c8ed23cfb}",
+                            "text": "Juge Richter",
+                            "x": 876,
+                            "y": 76
+                        },
+                        {
+                            "SrcId": "{6c7beadb-b1b6-4639-923c-4d5543c59b61}",
+                            "arrowHead": 0,
+                            "arrowSize": 8,
+                            "dstId": "{fac8a515-1378-414d-8aeb-ab6f4b706c50}",
+                            "text": " "
+                        },
+                        {
+                            "SrcId": "{6c7beadb-b1b6-4639-923c-4d5543c59b61}",
+                            "arrowHead": 0,
+                            "arrowSize": 8,
+                            "dstId": "{93bca9a2-d6bb-46d6-9a6b-5cdd6a00f4bf}",
+                            "text": " "
+                        },
+                        {
+                            "SrcId": "{6c7beadb-b1b6-4639-923c-4d5543c59b61}",
+                            "arrowHead": 0,
+                            "arrowSize": 8,
+                            "dstId": "{3585c749-8e3a-4366-90bb-c93bf004b21d}",
+                            "text": " "
+                        },
+                        {
+                            "SrcId": "{6c7beadb-b1b6-4639-923c-4d5543c59b61}",
+                            "arrowHead": 0,
+                            "arrowSize": 8,
+                            "dstId": "{4546dfa6-cd30-4d59-821a-1ec300a076f4}",
+                            "text": " "
+                        },
+                        {
+                            "SrcId": "{6c7beadb-b1b6-4639-923c-4d5543c59b61}",
+                            "arrowHead": 0,
+                            "arrowSize": 8,
+                            "dstId": "{9d4d5e90-5fce-4881-8e68-3b9c8ed23cfb}",
+                            "text": " "
+                        }
+                    ],
+                    "colorThemeId": -1,
+                    "desc": "",
+                    "id": "{6c7beadb-b1b6-4639-923c-4d5543c59b61}",
+                    "text": "Bogenhaffen",
+                    "x": 580.5,
+                    "y": 258
+                },
+                {
+                    "SrcId": "{0a745892-cdc3-404a-8fbc-8504493e3b61}",
+                    "arrowHead": 0,
+                    "arrowSize": 8,
+                    "dstId": "{6c7beadb-b1b6-4639-923c-4d5543c59b61}",
+                    "text": " "
+                }
+            ],
+            "colorThemeId": -1,
+            "desc": "",
+            "id": "{0a745892-cdc3-404a-8fbc-8504493e3b61}",
+            "text": "Campagne Warhammer",
+            "x": -607,
+            "y": -234
+        }
+    ]
+}
