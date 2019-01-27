@@ -23,8 +23,7 @@ https://fr.wikipedia.org/wiki/Jacques_Turricella
 https://fr.wikipedia.org/wiki/Arthur_d%27%C3%89pinay_de_Saint-Luc
 
 Chevalier Roze
-https://fr.wikipedia.org/wiki/Nicolas_Roze_(chevalier)
-_
+https://fr.wikipedia.org/wiki/Nicolas_Roze(chevalier)
 75 000 habitants
 
 # Avant scénario
@@ -137,6 +136,20 @@ Ils ont tous demander un enfants (mettre en cloque quelqu'un) sauf Céto.
 Lui n'accorde que sa puissance au personne digne qui lui ressemble. Il a demandé que le
 capitaine mange un enfant du bord. Que le capitaine de votre vaisseau goute le fruit de la meilleure chair.
 
+
+### La liste des papes
+
+* Henri Santiani (Maire de Marseille): pape de **Céto**, la bête marine
+* Alexia Rozé (Femme de militaire): pape de **Eurybie**, la vaste violence
+* Pierre Rostand (Sans-abri) : pape de **Nérée**, le vieillard
+* Honoré d'Urfé (Musicien à l'opéra) : pape de **Thaumas**, le merveilleux
+* Edgard Simonet (Marin): pape de **Phorcys**, le valeureux
+
+### Les démons
+
+* Stigma : Maladie => Medecin dans le hopital religieux
+* Typhon : Destruction => Bras droit de Alexia => Pierre-louis JAOUEN 
+* Moloch : Désordre => Historien de la ville
 
 ## Les malades
 
