@@ -1,0 +1,104 @@
+digraph G {
+ //ratio="fill";
+ size="21,29!";
+ //margin=0;
+  compound=true;
+  //rankdir=LR;
+  subgraph cluster_0 {
+    Dorian;
+    Marj;
+    Rosa;
+    Jake;
+    Gina;
+    label = "Table A";
+  }
+  
+  subgraph cluster_1 {
+    anita;
+    howard;
+    kelly;
+    mitchell;
+    stjerne;
+    label = "Table B";
+  }
+
+  subgraph cluster_2 {
+   NeoCorleone;
+   OldOnes;
+   Equipiers;
+   label = "Mafia Italienne"
+  }
+
+
+  Dorian -> Mike [label="frere"];
+  anita -> Enzo [label="indic & amant"];
+  Mike -> Mafia [label="travaille"];
+  Enzo -> Mafia [label="travaille"];
+  Mike -> Enzo  [label="tue"];
+  kelly -> Enzo [label="enquete sur la mort", ltail=cluster_1]
+  Gina -> fourgon [label="enquete l'attaque du fourgon", ltail=cluster_0]
+
+
+  subgraph cluster_3 {
+   dominico [label="Domenico Berardi"];
+   wyatt [label="Wyatt Scott"];
+   fabio [label="Fabio Giro"];
+   label = "LeGangDesMasques"
+  }
+
+  dominico -> Marcello [label="homme de main"]
+  fabio -> Marcello [label="homme de main"]
+
+  Mike  -> Peneloppe [label="travail pour"]
+  Mike  -> Fredrika [label="petite amie de"]
+  Peneloppe -> bordels [label="gère"]
+
+  Fredrika -> garageKarl  [label="réfugié chez"]
+  karl -> garageKarl [label="patron"]
+  bikers -> garageKarl   [label="QG"]
+  Mike -> Karl [label="veut casser la gueule à"]
+  
+  wyatt -> fourgon [label="braque",ltail=cluster_3]
+  wyatt -> convoyeurs [label="tue",ltail=cluster_3]
+  wyatt -> FlicMetro [label="tue",ltail=cluster_3]
+  fourgon -> convoyeurs [label="mort"]
+ 
+  
+  Mike -> dominico [label="Ancien membre", lhead=cluster_3]
+  
+  Mafia -> Giuseppe  [label="membre/tueur"]
+  Mike -> bordels [label="tient"]
+  Giuseppe -> Mike [label="veut le tuer"]
+  Giuseppe -> Enzo [label="ami"]
+
+  Giuseppe -> Marcello [label="père"]
+  Giuseppe -> Jessica [label="femme et cerveau"] //, constraint=false
+  Equipiers -> Marcello [label="Parrain d'une famille"]
+
+  russes -> nikolai [label="porte parole"]
+  russes -> fourgon [label="avaient de l'argent dedans"]
+  russes -> Mafia [label="Attaque"]
+  
+  howard [label="Howard Russ"]
+  kelly [label="Kelley Law"]
+  mitchell [label="Mitchell Colins"]
+  stjerne [label="Stjerne Rasmus"]
+  Marj [label="Marj Mitchell"]
+  Rosa [label="Rosa Diaz"]
+  Jake [label="Jake Peralta"]
+  Gina [label="Gina Linetti"]
+
+  Karl [label="Karl\nBiker"]
+  Giuseppe [label="Giuseppe Massarini\nFils de parrain, il veut prouver sa valeur"]
+  Mike [label="Mike Pinelli\nBandit de grand chemin, il s'est rangé"]
+  Enzo [label="Enzo\nPetite frappe, aime Anita"]
+  Marcello [label="Marcello Massarini"]
+
+  //{ rank=same; Gina, Jake, Rosa, Marj,stjerne, mitchell,howard, kelly, anita,  Dorian}
+  //{ rank=same; cluster_0, cluster_1 }
+  //{ rank=same; Fredrika, Mike, Peneloppe }
+  //{ rank=same; Marcello, Giuseppe, nikolai }
+  //{ rank=same; wyatt, dominico, fabio }
+  //{ rank=same; Enzo, fourgon, FlicMetro, convoyeurs }
+
+}
