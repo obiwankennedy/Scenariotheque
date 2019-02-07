@@ -5,8 +5,43 @@ import subprocess
 import re
 
 # Les stats des deux personnages
-characterOne = {"name":"Ikoma Kae", "init":"8d10e10k4","attack":"9d10r1e10k4","dommage":"8d10e10k2+7","nd":25,"currentDommage":0,"hp":[15,21,27,33,39,45,51,57],"reduc":10,"void":4,"malus":[0,0,0,0,5,10,30],"currentMalus":0, "attackCount":2}
-characterTwo = {"name":"Akodo Eiichi", "init":"9d10e10k4+5","attack":"10d10r1e10k5","dommage":"8d10e10k2","nd":30,"currentDommage":0,"hp":[15,21,27,33,39,45,51,57],"reduc":3,"void":3,"malus":[0,0,2,7,12,17,37],"currentMalus":0, "attackCount":2}
+characterOne = {"name":"Ikoma Kae",
+"init":"8d10e10k4",
+"attack":"9d10r1e10k4",
+"dommage":"8d10e10k2+7",
+"nd":25,
+"currentDommage":0,
+"hp":[15,21,27,33,39,45,51,57],
+"reduc":10,
+"voidpoint":4,
+"malus":[0,0,0,0,5,10,30],
+"currentMalus":0,
+"attackCount":2,
+"iai":"6",
+"intuition":"3"
+"void":"4",
+"reflexe":"4",
+"specFocus":True,
+"specEval":False}
+
+characterTwo = {"name":"Akodo Eiichi",
+"init":"9d10e10k4+5",
+"attack":"10d10r1e10k5",
+"dommage":"8d10e10k2",
+"nd":30,
+"currentDommage":0,
+"hp":[15,21,27,33,39,45,51,57],
+"reduc":3,
+"voidpoint":3,
+"malus":[0,0,2,7,12,17,37],
+"currentMalus":0,
+"attackCount":2
+"iai":"5",
+"intuition":"4"
+"void":"3",
+"reflexe":"4",
+"specFocus":True,
+"specEval":False}
 
 # Fonction pour lancer les dés
 def rollCommand(cmd):
@@ -30,7 +65,32 @@ def computeMalus(character):
      except:
          pass
 
+def kenjutsu(attacker, target):
+    usedVoid=False
+    for i in range(0,attacker["attackCount"]):
+        finalOutput = "{} Attaque {} : {}"
+        attack1 = rollCommand(attacker["attack"])
+        #printValue(characterOne["name"],"attaque",attack1)
+        finalOutput = finalOutput.format(characterOne["name"],i+1, attack1)
+        if ( int(attack1)-int(attacker["currentMalus"]) >= target["nd"]):
+           dom1 = rollCommand(attacker["dommage"])
+           #printValue(characterOne["name"],"dommage",dom1)
+           finalOutput+=" => Dommage: {}".format(dom1)
+           dom1 = int(dom1) - int(target["reduc"])
+           if (target["voidpoint"] > 0 and dom1 >= 10 and not usedVoid):
+               target["voidpoint"] -= 1
+               dom1 = dom1 - 10
+               usedVoid = True
+           finalOutput+=", après reduction: {}".format(dom1)
+           if (dom1 > 0):
+               target["currentDommage"] += dom1
+               computeMalus(target)
+        print(finalOutput)
 
+def duelIaijutsu(characterOne,characterTwo):
+    print("Evalution")
+    print("Focus")
+    print("Frappe")
 
 # Lance l'initiative
 init1 = rollCommand(characterOne["init"])
@@ -53,7 +113,6 @@ while ( characterOne["currentDommage"] < max(characterOne["hp"]) and characterTw
     print("\n\n\nTour: "+str(tour))
     tour+=1
     usedVoid=False
-    #Attaques de perso1 sur perso2
     for i in range(0,characterOne["attackCount"]):
         finalOutput = "{} Attaque {} : {}"
         attack1 = rollCommand(characterOne["attack"])
@@ -76,7 +135,6 @@ while ( characterOne["currentDommage"] < max(characterOne["hp"]) and characterTw
 
 
     usedVoid=False
-    #Attaques perso2 sur perso1
     for i in range(0,characterTwo["attackCount"]):
         finalOutput = "{} Attaque {} : {}"
         attack1 = rollCommand(characterTwo["attack"])
@@ -99,6 +157,8 @@ while ( characterOne["currentDommage"] < max(characterOne["hp"]) and characterTw
 
     #print(characterOne)
     #print(characterTwo)
+    kenjutsu(characterOne,characterTwo)
+    kenjutsu(characterTwo,characterOne)
 
 # Affichage du gagnant
 if(characterOne["currentDommage"]>= max(characterOne["hp"])):
