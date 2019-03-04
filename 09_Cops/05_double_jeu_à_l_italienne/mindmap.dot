@@ -12,12 +12,12 @@ digraph G {
     Gina;
     label = "Table A";
   }
-  
+
   subgraph cluster_1 {
-    anita;
+    atina;
     howard;
     kelly;
-    mitchell;
+    Douglas;
     stjerne;
     label = "Table B";
   }
@@ -31,7 +31,7 @@ digraph G {
 
 
   Dorian -> Mike [label="frere"];
-  anita -> Enzo [label="indic & amant"];
+  atina -> Enzo [label="indic & amant"];
   Mike -> Mafia [label="travaille"];
   Enzo -> Mafia [label="travaille"];
   Mike -> Enzo  [label="tue"];
@@ -57,15 +57,15 @@ digraph G {
   karl -> garageKarl [label="patron"]
   bikers -> garageKarl   [label="QG"]
   Mike -> Karl [label="veut casser la gueule à"]
-  
+
   wyatt -> fourgon [label="braque",ltail=cluster_3]
   wyatt -> convoyeurs [label="tue",ltail=cluster_3]
   wyatt -> FlicMetro [label="tue",ltail=cluster_3]
   fourgon -> convoyeurs [label="mort"]
- 
-  
+
+
   Mike -> dominico [label="Ancien membre", lhead=cluster_3]
-  
+
   Mafia -> Giuseppe  [label="membre/tueur"]
   Mike -> bordels [label="tient"]
   Giuseppe -> Mike [label="veut le tuer"]
@@ -78,10 +78,10 @@ digraph G {
   russes -> nikolai [label="porte parole"]
   russes -> fourgon [label="avaient de l'argent dedans"]
   russes -> Mafia [label="Attaque"]
-  
+
   howard [label="Howard Russ"]
   kelly [label="Kelley Law"]
-  mitchell [label="Mitchell Colins"]
+  Douglas [label="Douglas Colins"]
   stjerne [label="Stjerne Rasmus"]
   Marj [label="Marj Mitchell"]
   Rosa [label="Rosa Diaz"]
@@ -91,10 +91,10 @@ digraph G {
   Karl [label="Karl\nBiker"]
   Giuseppe [label="Giuseppe Massarini\nFils de parrain, il veut prouver sa valeur"]
   Mike [label="Mike Pinelli\nBandit de grand chemin, il s'est rangé"]
-  Enzo [label="Enzo\nPetite frappe, aime Anita"]
+  Enzo [label="Enzo Bellini\nPetite frappe, aime Atina"]
   Marcello [label="Marcello Massarini"]
 
-  //{ rank=same; Gina, Jake, Rosa, Marj,stjerne, mitchell,howard, kelly, anita,  Dorian}
+  //{ rank=same; Gina, Jake, Rosa, Marj,stjerne, mitchell,howard, kelly, atina,  Dorian}
   //{ rank=same; cluster_0, cluster_1 }
   //{ rank=same; Fredrika, Mike, Peneloppe }
   //{ rank=same; Marcello, Giuseppe, nikolai }
