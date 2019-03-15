@@ -80,6 +80,7 @@ digraph G {
   russes -> Mafia [label="Attaque"]
 
   howard [label="Howard Russ"]
+  atina [label="Atina Ford"]
   kelly [label="Kelley Law"]
   Douglas [label="Douglas Colins"]
   stjerne [label="Stjerne Rasmus"]
