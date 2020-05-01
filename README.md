@@ -8,7 +8,7 @@ Il s'agit de notes pour le dérouler du scénario.
 
 # Scénarios
 
-La majorité des scénarios est conçu pour être des parties de 5 à 6 heures.
+La majorité des scénarios est conçue pour être des parties de 5 à 6 heures.
 Certains scénarios sont cependant au format court (1h30 - 2h).
 
 ## Loup-garou
